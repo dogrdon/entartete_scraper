@@ -1,0 +1,7 @@
+Sorry, but your session has timed out.
+You will automatically be redirected to a new session.
+We store information about what you are doing on the server. This information is called the session.
+
+We must track many sessions concurrently. If you are inactive for a long enough time (usually, 20-30 minutes), this information is discarded to make room for active users.
+
+In case your browser does not support automatic redirect, use restart to establish a new session.
