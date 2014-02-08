@@ -35,31 +35,8 @@ def get_artwork():
 
         main_selector = 'div#collectionDetailList ul li.titel a'
         
-        _scrape_it(doc, main_selector, i, data2) #scrape first page after coming from db search
+        _scrape_it_look_for_next(doc, main_selector, i, data2, br) #scrape first page after coming from db search
         
-
-        for z in doc.cssselect('li#pageSetEntries-nextSet'): 
-            if z.cssselect('a'):
-                new_link = 1
-                
-                print 'link eq TRUE'
-                for r in z.cssselect('a'):
-                    _next = r.attrib['href']
-                
-                    next_url = base_url+_next
-                    print next_url
-                    #next_dom = lxml.html.fromstring(requests.get(next_url).content)
-
-                    
-                    br.open(next_url)
-                    sub_doc =  lxml.html.fromstring(br.response().read())
-                    _scrape_it_look_for_next(sub_doc, main_selector, i, data2, br)  #ok, it gets to next page, need to keep checking for link before moving on.
-
-                    '''Do a check here for yet another link - this where recursion comes in handy and I think I am missing something here
-                       - or maybe just get a result count for one's with next links, divide by 25, get the floor value and loop through the click/scrape action that many times'''
-            else:
-                print 'link eq FALSE'
-
     return data2
 
 
@@ -80,23 +57,6 @@ def get_artists():
 
 
 #======================== internal use =====================
-def _scrape_it(dom_elem, selector, iter, data_repo):
-    '''This is the scraper, that we need to keep calling
-      pass in:
-        the active dom element from lxml or requests,
-        the selector you wish to use for lxml.cssselect,
-        the iterator, or running record, in this case -i- in the main for loop,
-        and the list where this is all being stored'''
-    for a in dom_elem.cssselect(selector): 
-            #title = a.text_context() 
-
-            print iter, a.attrib['href']
-            data_repo.append({
-                "artist_id": iter, 
-                #"artwork": title,
-                "artwork_url": a.attrib['href']
-            })
-
 
 def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj):
     '''use this if after the original scrape it appears there is a next link'''
