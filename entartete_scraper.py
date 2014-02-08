@@ -58,13 +58,13 @@ def get_artists():
 
 #======================== internal use =====================
 
-def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj):
+def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj, newer_link = 0):
     '''use this if after the original scrape it appears there is a next link'''
     #DO STUFF HERE
     for a in dom_elem.cssselect(selector): 
             #title = a.text_context() 
 
-            print iter, a.attrib['href']
+            #print iter, a.attrib['href']
             data_repo.append({
                 "artist_id": iter, 
                 #"artwork": title,
@@ -80,13 +80,15 @@ def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj):
                     
                 
                 if newer_link is not 0:
-                    print 'link eq TRUE'
+                    #print 'link eq TRUE'
+                    
                     for re in ze.cssselect('a'):
                         __next = re.attrib['href']
                 
                         _next_url = base_url+__next
-                        print _next_url
-                    #next_dom = lxml.html.fromstring(requests.get(next_url).content)
+                        print 'Now I am going to scrape:  ', _next_url
+                        print 'Newer link = ', newer_link
+                        #next_dom = lxml.html.fromstring(requests.get(next_url).content)
 
                     
                         br_obj.open(_next_url)
