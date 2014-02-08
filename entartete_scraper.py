@@ -15,7 +15,7 @@ restart_session='http://emuseum.campus.fu-berlin.de/eMuseumPlus;jsessionid=F14A1
 
 
 def get_artwork():
-    test_list = [1, 2, 3, 311,312,313]
+    test_list = [2, 311,312,313]
     data2 = []
     #for i in range(1,627):
     for i in test_list:
@@ -53,7 +53,7 @@ def get_artwork():
                     
                     br.open(next_url)
                     sub_doc =  lxml.html.fromstring(br.response().read())
-                    _scrape_it(sub_doc, main_selector, i, data2)  #ok, it gets to next page, need to keep checking for link before moving on.
+                    _scrape_it_look_for_next(sub_doc, main_selector, i, data2, br)  #ok, it gets to next page, need to keep checking for link before moving on.
 
                     '''Do a check here for yet another link - this where recursion comes in handy and I think I am missing something here
                        - or maybe just get a result count for one's with next links, divide by 25, get the floor value and loop through the click/scrape action that many times'''
@@ -96,6 +96,44 @@ def _scrape_it(dom_elem, selector, iter, data_repo):
                 #"artwork": title,
                 "artwork_url": a.attrib['href']
             })
+
+
+def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj):
+    '''use this if after the original scrape it appears there is a next link'''
+    #DO STUFF HERE
+    for a in dom_elem.cssselect(selector): 
+            #title = a.text_context() 
+
+            print iter, a.attrib['href']
+            data_repo.append({
+                "artist_id": iter, 
+                #"artwork": title,
+                "artwork_url": a.attrib['href']
+            })
+
+            for ze in dom_elem.cssselect('li#pageSetEntries-nextSet'): 
+                if ze.cssselect('a'):
+                    newer_link = 1
+                else:
+                    newer_link = 0
+                    break
+                    
+                
+                if newer_link is not 0:
+                    print 'link eq TRUE'
+                    for re in ze.cssselect('a'):
+                        __next = re.attrib['href']
+                
+                        _next_url = base_url+__next
+                        print _next_url
+                    #next_dom = lxml.html.fromstring(requests.get(next_url).content)
+
+                    
+                        br_obj.open(_next_url)
+                        _sub_doc =  lxml.html.fromstring(br_obj.response().read())
+                        _scrape_it_look_for_next(_sub_doc, selector, iter, data_repo, br_obj)
+
+                    
 
 
 scraperwiki.sqlite.save(unique_keys=["id"], data=get_artists(), table_name="degenerate_artists")
