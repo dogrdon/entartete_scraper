@@ -61,6 +61,7 @@ def get_artists():
 def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj, newer_link = 0):
     '''use this if after the original scrape it appears there is a next link'''
     #DO STUFF HERE
+    list_of_ind = [] #only starts appending 125...
     for a in dom_elem.cssselect(selector): 
             #title = a.text_context() 
 
@@ -70,10 +71,11 @@ def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj, newer_
                 #"artwork": title,
                 "artwork_url": a.attrib['href']
             })
-
+            
             for ze in dom_elem.cssselect('li#pageSetEntries-nextSet'): 
                 if ze.cssselect('a'):
                     newer_link = 1
+                    
                 else:
                     newer_link = 0
                     break
@@ -87,10 +89,10 @@ def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj, newer_
                 
                         _next_url = base_url+__next
                         print 'Now I am going to scrape:  ', _next_url
-                        print 'Newer link = ', newer_link
+                        #print 'Newer link = ', newer_link
                         #next_dom = lxml.html.fromstring(requests.get(next_url).content)
-
-                    
+                        list_of_ind.append(_next_url.rsplit('=')[-1])
+                        print list_of_ind
                         br_obj.open(_next_url)
                         _sub_doc =  lxml.html.fromstring(br_obj.response().read())
                         _scrape_it_look_for_next(_sub_doc, selector, iter, data_repo, br_obj)
