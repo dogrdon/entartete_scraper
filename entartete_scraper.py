@@ -11,6 +11,7 @@ headers = [('User-agent', 'Mozilla/5.0 (compatible; MSIE 9.0; AOL 9.7; AOLBuild 
 
 home_url = 'http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&lang=en'
 base_url = 'http://emuseum.campus.fu-berlin.de'
+
 restart_session='http://emuseum.campus.fu-berlin.de/eMuseumPlus;jsessionid=F14A1EBACD365A9C7C2593B189761791.node1?service=restart'
 
 
@@ -60,43 +61,45 @@ def get_artists():
 
 def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj, newer_link = 0):
     '''use this if after the original scrape it appears there is a next link'''
-    #DO STUFF HERE
-    list_of_ind = [] #only starts appending 125...
+
+
     for a in dom_elem.cssselect(selector): 
-            #title = a.text_context() 
+        #title = a.text_context() 
 
-            #print iter, a.attrib['href']
-            data_repo.append({
-                "artist_id": iter, 
-                #"artwork": title,
-                "artwork_url": a.attrib['href']
-            })
+        print iter, a.attrib['href']
+
+        data_repo.append({
+            "artist_id": iter, 
+            #"artwork": title,
+            "artwork_url": a.attrib['href']
+        })
+
+    for ze in dom_elem.cssselect('li#pageSetEntries-nextSet'): 
+        if ze.cssselect('a'):
+            newer_link = 1
             
-            for ze in dom_elem.cssselect('li#pageSetEntries-nextSet'): 
-                if ze.cssselect('a'):
-                    newer_link = 1
-                    
-                else:
-                    newer_link = 0
-                    break
-                    
-                
-                if newer_link is not 0:
-                    #print 'link eq TRUE'
-                    
-                    for re in ze.cssselect('a'):
-                        __next = re.attrib['href']
-                
-                        _next_url = base_url+__next
-                        print 'Now I am going to scrape:  ', _next_url
-                        #print 'Newer link = ', newer_link
-                        #next_dom = lxml.html.fromstring(requests.get(next_url).content)
-                        list_of_ind.append(_next_url.rsplit('=')[-1])
-                        print list_of_ind
-                        br_obj.open(_next_url)
-                        _sub_doc =  lxml.html.fromstring(br_obj.response().read())
-                        _scrape_it_look_for_next(_sub_doc, selector, iter, data_repo, br_obj)
+        else:
+            newer_link = 0 
+        
+        if newer_link is 1:
+            #print 'link eq TRUE'
+            
+            for re in ze.cssselect('a'):
+                __next = re.attrib['href']
+        
+                _next_url = base_url+__next
+                print 'Now I am going to scrape:  ', _next_url
 
+                #print 'Newer link = ', newer_link
+                #next_dom = lxml.html.fromstring(requests.get(next_url).content)
+
+
+                br_obj.open(_next_url)
+                _sub_doc =  lxml.html.fromstring(br_obj.response().read())
+                _scrape_it_look_for_next(_sub_doc, selector, iter, data_repo, br_obj)
+                '''need to check again if link exists, its not checking'''
+        else:
+            break
                     
 
 
