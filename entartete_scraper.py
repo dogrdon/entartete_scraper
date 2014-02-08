@@ -40,6 +40,8 @@ def get_artwork():
 
         for z in doc.cssselect('li#pageSetEntries-nextSet'): 
             if z.cssselect('a'):
+                new_link = 1
+                
                 print 'link eq TRUE'
                 for r in z.cssselect('a'):
                     _next = r.attrib['href']
@@ -52,30 +54,11 @@ def get_artwork():
                     br.open(next_url)
                     sub_doc =  lxml.html.fromstring(br.response().read())
                     _scrape_it(sub_doc, main_selector, i, data2)  #ok, it gets to next page, need to keep checking for link before moving on.
+
+                    '''Do a check here for yet another link - this where recursion comes in handy and I think I am missing something here
+                       - or maybe just get a result count for one's with next links, divide by 25, get the floor value and loop through the click/scrape action that many times'''
             else:
                 print 'link eq FALSE'
-            '''
-            if zerd == 1: #check if there are multiple pages
-                for n in doc.cssselect('li#pageSetEntries-nextSet a'):
-                    _next = n.attrib['href']
-                
-                    next_url = base_url+_next
-                
-                    next_dom = lxml.html.fromstring(requests.get(next_url).content)
-                   
-                    if next_dom is not None:        
-                        print 'fetching nextpage...' 
-
-                        _scrape_it(next_dom, main_selector, i, data2)
-
-                        for z in next_dom.cssselect('li#pageSetEntries-nextSet'):
-                            if z.cssselect('a'):
-                                zerd = 1
-                            else:
-                                zerd = 0
-                    else:
-                        print ' you fucker there is nothing here '
-                 '''   
 
     return data2
 
