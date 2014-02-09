@@ -1,10 +1,12 @@
+#!/usr/bin/env python
+
 import scraperwiki
 import lxml.html
 import requests
 import mechanize
 import time
 
-'''currently at https://classic.scraperwiki.com/scrapers/entartete_kunst_datenbank/edit/# because I don't want to have to deal with 
+'''currently at https://scraperwiki.com/dataset/fzmt4qq because I don't want to have to deal with 
    all the issues of installing mechanize and lxml on my current local env'''
 
 headers = [('User-agent', 'Mozilla/5.0 (compatible; MSIE 9.0; AOL 9.7; AOLBuild 4343.19; Windows NT 6.1; WOW64; Trident/5.0; FunWebProducts)')]
@@ -59,20 +61,31 @@ def get_artists():
 
 #======================== internal use =====================
 
-def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj, newer_link = 0):
+def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, newer_link = 0):
     '''use this if after the original scrape it appears there is a next link'''
 
 
     for a in dom_elem.cssselect(selector): 
         #title = a.text_context() 
 
-        print iter, a.attrib['href']
+        print iterator, a.attrib['href']
+        
+        to_details_url = base_url + a.attrib['href']
+        
+        br_obj.open(to_details_url)
+        
+        details_page = lxml.html.fromstring(br_obj.response().read())
 
-        data_repo.append({
-            "artist_id": iter, 
-            #"artwork": title,
-            "artwork_url": a.attrib['href']
-        })
+        for b in details_page.cssselect('div.listDescription ul li span.tspValue'):
+            
+            title = b.text_content()
+            
+            
+            data_repo.append({
+                "artist_id": iterator, 
+                "artwork": title
+                #"artwork_url": a.attrib['href']
+            })
 
     for ze in dom_elem.cssselect('li#pageSetEntries-nextSet'): 
         if ze.cssselect('a'):
@@ -96,15 +109,16 @@ def _scrape_it_look_for_next(dom_elem, selector, iter, data_repo, br_obj, newer_
 
                 br_obj.open(_next_url)
                 _sub_doc =  lxml.html.fromstring(br_obj.response().read())
-                _scrape_it_look_for_next(_sub_doc, selector, iter, data_repo, br_obj)
-                '''need to check again if link exists, its not checking'''
+                _scrape_it_look_for_next(_sub_doc, selector, iterator, data_repo, br_obj)
         else:
             break
                     
 
 
-scraperwiki.sqlite.save(unique_keys=["id"], data=get_artists(), table_name="degenerate_artists")
-scraperwiki.sqlite.save(unique_keys=["artwork_url"], data=get_artwork(), table_name="degenerate_artists_work")
+scraperwiki.sql.save(unique_keys=["id"], data=get_artists(), table_name="degenerate_artists")
+scraperwiki.sql.save(unique_keys=["artwork_url"], data=get_artwork(), table_name="degenerate_artists_work")
 
 
 
+
+# scraperwiki.sql.save(unique_keys, data)
