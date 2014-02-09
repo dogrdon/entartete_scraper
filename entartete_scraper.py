@@ -68,7 +68,7 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
     for a in dom_elem.cssselect(selector): 
         #title = a.text_context() 
 
-        print iterator, a.attrib['href']
+        #print iterator, a.attrib['href']
         
         to_details_url = base_url + a.attrib['href']
         
@@ -76,16 +76,36 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
         
         details_page = lxml.html.fromstring(br_obj.response().read())
 
-        for b in details_page.cssselect('div.listDescription ul li span.tspValue'):
+        for b in details_page.cssselect('div.listDescription ul li.ekTitel span.tspValue'):
             
             title = b.text_content()
             
+        for c in details_page.cssselect('div.listDescription ul li.ekInventarNr span.tspValue'):
             
-            data_repo.append({
-                "artist_id": iterator, 
-                "artwork": title
-                #"artwork_url": a.attrib['href']
-            })
+            ek_id = c.text_content()
+            
+        for d in details_page.cssselect('div.listDescription ul li.herkunftsort span.tspValue'):
+            
+            orig_museum = d.text_content()  
+            
+        for e in details_page.cssselect('div.listDescription ul li.gattung span.tspValue'):
+            
+            art_form = e.text_content() 
+            
+        for f in details_page.cssselect('div.listDescription ul li.objektstatus span.tspValue'):
+            
+            work_status = f.text_content() #not being assigned currently
+        
+        print iterator, title, ek_id, orig_museum, art_form #test print
+        data_repo.append({
+            "artist_id": iterator, 
+            "artwork": title,
+            "ek_inven_id": ek_id,
+            "museum_orig": orig_museum, 
+            "art_form": art_form 
+            #"work_status": work_status
+            #"artwork_url": a.attrib['href']
+        })
 
     for ze in dom_elem.cssselect('li#pageSetEntries-nextSet'): 
         if ze.cssselect('a'):
@@ -116,9 +136,5 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
 
 
 scraperwiki.sql.save(unique_keys=["id"], data=get_artists(), table_name="degenerate_artists")
-scraperwiki.sql.save(unique_keys=["artwork_url"], data=get_artwork(), table_name="degenerate_artists_work")
+scraperwiki.sql.save(unique_keys=["ek_inven_id"], data=get_artwork(), table_name="degenerate_artists_work")
 
-
-
-
-# scraperwiki.sql.save(unique_keys, data)
