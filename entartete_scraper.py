@@ -5,6 +5,7 @@ import lxml.html
 import requests
 import mechanize
 import time
+import re
 
 '''currently at https://scraperwiki.com/dataset/fzmt4qq because I don't want to have to deal with 
    all the issues of installing mechanize and lxml on my current local env'''
@@ -66,9 +67,6 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
 
 
     for a in dom_elem.cssselect(selector): 
-        #title = a.text_context() 
-
-        #print iterator, a.attrib['href']
         
         to_details_url = base_url + a.attrib['href']
         
@@ -76,6 +74,7 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
         
         details_page = lxml.html.fromstring(br_obj.response().read())
 
+        '''===============Gather all of the details for putting in the db================'''    
         for b in details_page.cssselect('div.listDescription ul li.ekTitel span.tspValue'):
             
             title = b.text_content()
@@ -91,24 +90,122 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
         for e in details_page.cssselect('div.listDescription ul li.gattung span.tspValue'):
             
             art_form = e.text_content() 
+           
+        #this one is a bit tricky because the markup is incorrect, there is a classless li elem after the labelled
+        #li element where the object status should be. so currently getting the sibling li where the status is
+        if details_page.cssselect('div.listDescription ul li.objektstatus + li span.tspValue'):
+            for f in details_page.cssselect('div.listDescription ul li.objektstatus + li span.tspValue'):
+                work_status = f.text_content()
+                
+        else:
+            work_status = 'NA'
+                
+        if details_page.cssselect('div.listDescription ul li.standort span.tspValue'):
+            for g in details_page.cssselect('div.listDescription ul li.standort span.tspValue'):
             
-        for f in details_page.cssselect('div.listDescription ul li.objektstatus span.tspValue'):
+                location = g.text_content() 
+        else:
+            location = 'NA'
             
-            work_status = f.text_content() #not being assigned currently
+        if details_page.cssselect('div.listDescription ul li.verlustDurch span.tspValue'):
+            for h in details_page.cssselect('div.listDescription ul li.verlustDurch span.tspValue'):
+            
+                loss_thru = h.text_content() 
+        else:
+            loss_thru = 'NA'
+            
         
-        print iterator, title, ek_id, orig_museum, art_form #test print
+        if details_page.cssselect('div.listDescription ul li.datierung span.tspValue'):
+            for j in details_page.cssselect('div.listDescription ul li.datierung span.tspValue'):
+            
+                artwork_date = j.text_content() 
+        else:
+            artwork_date = 'NA'
+            
+        if details_page.cssselect('div.listDescription ul li.material span.tspValue'):
+            for k in details_page.cssselect('div.listDescription ul li.material span.tspValue'):
+                material = k.text_content() 
+        else:
+            material = 'NA'
+        
+        #copyright    
+        if details_page.cssselect('div.listDescription ul li.copyright span.tspValue'):
+            for l in details_page.cssselect('div.listDescription ul li.copyright span.tspValue'):
+                copyright = l.text_content() 
+        else:
+            copyright = 'NA'
+            
+        #herkunftsinventar - inv of origin
+        if details_page.cssselect('div.listDescription ul li.herkunftsinventar span.tspValue'):
+            for m in details_page.cssselect('div.listDescription ul li.herkunftsinventar span.tspValue'):
+                inv_origin = m.text_content() 
+        else:
+            inv_origin = 'NA'
+        
+        #verlustDatum - date lost
+        if details_page.cssselect('div.listDescription ul li.verlustDatum span.tspValue'):
+            for n in details_page.cssselect('div.listDescription ul li.verlustDatum span.tspValue'):
+                date_lost = n.text_content() 
+        else:
+            date_lost = 'NA'
+        
+        #werkverzeichnis
+        if details_page.cssselect('div.listDescription ul li.werkverzeichnis span.tspValue'):
+            for o in details_page.cssselect('div.listDescription ul li.werkverzeichnis span.tspValue'):
+                catalog_id = o.text_content() 
+        else:
+            catalog_id = 'NA'
+        
+        #konvolut
+        if details_page.cssselect('div.listDescription ul li.konvolut span.tspValue'):
+            for p in details_page.cssselect('div.listDescription ul li.konvolut span.tspValue'):
+                envelope = p.text_content() 
+        else:
+            envelope = 'NA'
+        
+        #konvolutTeile
+        if details_page.cssselect('div.listDescription ul li.konvolutTeile span.tspValue'):
+            for q in details_page.cssselect('div.listDescription ul li.konvolutTeile span.tspValue'):
+                env_part = q.text_content() 
+        else:
+            env_part = 'NA'
+            
+        
+        #======================= END OF GRID ITEMS =============================================      
+        
+        #IMAGE encoded base64
+        
+        #Bookmark ID
+        for bmref in details_page.cssselect('a.bookmarkLink'):
+            sessionless_uri = bmref.attrib['href']
+            
+            db_obj_id = re.search('&objectId=(.+?)&viewType=', sessionless_uri).group(1)
+        
+        print iterator, title, ek_id, orig_museum, art_form, work_status, location, loss_thru #test print
         data_repo.append({
             "artist_id": iterator, 
-            "artwork": title,
+            "artwork_title": title,
             "ek_inven_id": ek_id,
             "museum_orig": orig_museum, 
-            "art_form": art_form 
-            #"work_status": work_status
-            #"artwork_url": a.attrib['href']
+            "art_form": art_form, 
+            "uri": sessionless_uri,
+            "db_id": db_obj_id,
+            "work_status": work_status,
+            "location": location,
+            "loss_thru": loss_thru,
+            "date": artwork_date, 
+            "material": material, 
+            "copyright": copyright,
+            "inv_orig": inv_origin,
+            "date_lost": date_lost,
+            "catalog_id": catalog_id,
+            "envelope": envelope,
+            "env_part": env_part
+
         })
 
-    for ze in dom_elem.cssselect('li#pageSetEntries-nextSet'): 
-        if ze.cssselect('a'):
+    for zef in dom_elem.cssselect('li#pageSetEntries-nextSet'): 
+        if zef.cssselect('a'):
             newer_link = 1
             
         else:
@@ -117,8 +214,8 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
         if newer_link is 1:
             #print 'link eq TRUE'
             
-            for re in ze.cssselect('a'):
-                __next = re.attrib['href']
+            for ref in zef.cssselect('a'):
+                __next = ref.attrib['href']
         
                 _next_url = base_url+__next
                 print 'Now I am going to scrape:  ', _next_url
@@ -133,8 +230,13 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
         else:
             break
                     
+def _check_if_val(string):
+    if string is not '' or string is not None:
+        return string
+    else:
+        string = 'NA'
+        return string
 
-
-scraperwiki.sql.save(unique_keys=["id"], data=get_artists(), table_name="degenerate_artists")
+#scraperwiki.sql.save(unique_keys=["id"], data=get_artists(), table_name="degenerate_artists")
 scraperwiki.sql.save(unique_keys=["ek_inven_id"], data=get_artwork(), table_name="degenerate_artists_work")
 
