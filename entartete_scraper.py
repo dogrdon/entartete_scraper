@@ -6,6 +6,9 @@ import requests
 import mechanize
 import time
 import re
+import base64
+from PIL import Image
+import urllib, cStringIO #for opening url images
 
 '''currently at https://scraperwiki.com/dataset/fzmt4qq because I don't want to have to deal with 
    all the issues of installing mechanize and lxml on my current local env'''
@@ -174,14 +177,45 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
         #======================= END OF GRID ITEMS =============================================      
         
         #IMAGE encoded base64
+        #if details_page.cssselect('div.listImg a img'):
+        #    for img in details_page.cssselect('div.listImg a img'):
+        #        img_url = img.attrib['src']
+        #        img_url = base_url+img_url
+                
+        #        tmp_file = cStringIO.StringIO(urllib.urlopen(img_url).read())
+        #        tmp_img_file = Image.open(tmp_file)
+                
+        #        with open(tmp_img_file, "rb") as image_file:
+        #            artwork_image = base64.b64encode(image_file.read())
+        #else:
+        #    artwork_image = 'NA'
         
         #Bookmark ID
         for bmref in details_page.cssselect('a.bookmarkLink'):
+            
             sessionless_uri = bmref.attrib['href']
+            print sessionless_uri
             
             db_obj_id = re.search('&objectId=(.+?)&viewType=', sessionless_uri).group(1)
-        
-        print iterator, title, ek_id, orig_museum, art_form, work_status, location, loss_thru #test print
+            
+        #get image from sessionless url
+        br_obj.open(sessionless_uri)
+        thmb_doc = lxml.html.fromstring(br_obj.response().read())
+        if thmb_doc.cssselect('div.listImg a img'):
+            for img_a in thmb_doc.cssselect('div.listImg a img'):
+                thmb_url = img_a.attrib['src']
+                thmb_url = base_url + thmb_url
+                br_obj.open(thmb_url)
+                img_doc = lxml.html.fromstring(br_obj.response().read())
+                for img_b in img_doc.cssselect('div.listImg a img'):
+                    img_url = img_b.attrib['src']
+                    img_url = base_url + img_url
+        else:
+            img_url = 'NA'
+                
+        print img_url    
+
+        #print iterator, title, ek_id, orig_museum, art_form, work_status, location, loss_thru #test print
         data_repo.append({
             "artist_id": iterator, 
             "artwork_title": title,
@@ -225,7 +259,7 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
 
 
                 br_obj.open(_next_url)
-                _sub_doc =  lxml.html.fromstring(br_obj.response().read())
+                _sub_doc = lxml.html.fromstring(br_obj.response().read())
                 _scrape_it_look_for_next(_sub_doc, selector, iterator, data_repo, br_obj)
         else:
             break
@@ -237,6 +271,6 @@ def _check_if_val(string):
         string = 'NA'
         return string
 
-#scraperwiki.sql.save(unique_keys=["id"], data=get_artists(), table_name="degenerate_artists")
+scraperwiki.sql.save(unique_keys=["id"], data=get_artists(), table_name="degenerate_artists")
 scraperwiki.sql.save(unique_keys=["ek_inven_id"], data=get_artwork(), table_name="degenerate_artists_work")
 
