@@ -13,7 +13,10 @@ import urllib, cStringIO #for opening url images
 '''currently at https://scraperwiki.com/dataset/fzmt4qq because I don't want to have to deal with 
    all the issues of installing mechanize and lxml on my current local env'''
 
-headers = [('User-agent', 'Mozilla/5.0 (compatible; MSIE 9.0; AOL 9.7; AOLBuild 4343.19; Windows NT 6.1; WOW64; Trident/5.0; FunWebProducts)')]
+#headers = [('User-agent', 'Mozilla/5.0 (compatible; MSIE 9.0; AOL 9.7; AOLBuild 4343.19; Windows NT 6.1; WOW64; Trident/5.0; FunWebProducts)')]
+headers = [('User-agent', 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/25.0')]
+#headers = [('User-agent', 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36')]
+
 
 home_url = 'http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&lang=en'
 base_url = 'http://emuseum.campus.fu-berlin.de'
@@ -23,8 +26,16 @@ restart_session='http://emuseum.campus.fu-berlin.de/eMuseumPlus;jsessionid=F14A1
 
 def get_artwork():
     test_list = [2, 311,312,313]
+    
     data2 = []
-    #for i in range(1,627):
+    
+    #for i in range(1,101):
+    #for i in range(101, 201):
+    #for i in range(201, 301):
+    #for i in range(301, 401):
+    #for i in range(401, 501):
+    #for i in range(501, 601):
+    #for i in range(601, 674):
     for i in test_list:
         br = mechanize.Browser()
         br.addheaders = headers
@@ -53,14 +64,12 @@ def get_artists():
     data = []
 
     for opt in dom.xpath('.//select[@id="field_21"]/option'):
-        #print opt.attrib['value'], opt.text_content() #get all possible artists and their db values from db dropdown
         data.append({
             'id': opt.attrib['value'],
             'artist': opt.text_content()
         })
     time.sleep(10)
     return data
-
 
 
 #======================== internal use =====================
@@ -194,28 +203,30 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
         for bmref in details_page.cssselect('a.bookmarkLink'):
             
             sessionless_uri = bmref.attrib['href']
-            print sessionless_uri
-            
+
             db_obj_id = re.search('&objectId=(.+?)&viewType=', sessionless_uri).group(1)
             
         #get image from sessionless url
         br_obj.open(sessionless_uri)
-        thmb_doc = lxml.html.fromstring(br_obj.response().read())
-        if thmb_doc.cssselect('div.listImg a img'):
-            for img_a in thmb_doc.cssselect('div.listImg a img'):
+        img_doc = lxml.html.fromstring(br_obj.response().read())
+
+        if img_doc.cssselect('div.listImg a img'):
+            for img_a in img_doc.cssselect('div.listImg a img'):
                 thmb_url = img_a.attrib['src']
                 thmb_url = base_url + thmb_url
-                br_obj.open(thmb_url)
-                img_doc = lxml.html.fromstring(br_obj.response().read())
-                for img_b in img_doc.cssselect('div.listImg a img'):
-                    img_url = img_b.attrib['src']
-                    img_url = base_url + img_url
-        else:
-            img_url = 'NA'
                 
-        print img_url    
+                #print "thumb url = ", thmb_url
+            
+            #for img_b in img_doc.cssselect('div.listImg a'):
+            #    img_url = img_b.attrib['href']
+            #    print 'image url = ', re.search('\(\'(.+?)\'', img_url).group(1)
 
-        #print iterator, title, ek_id, orig_museum, art_form, work_status, location, loss_thru #test print
+        else:
+            thmb_url = 'NA'
+                
+
+        print iterator, title, ek_id, orig_museum, art_form, work_status, location, loss_thru #test print
+        
         data_repo.append({
             "artist_id": iterator, 
             "artwork_title": title,
@@ -234,8 +245,8 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
             "date_lost": date_lost,
             "catalog_id": catalog_id,
             "envelope": envelope,
-            "env_part": env_part
-
+            "env_part": env_part,
+            "thumb_url": thmb_url
         })
 
     for zef in dom_elem.cssselect('li#pageSetEntries-nextSet'): 
@@ -246,16 +257,12 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
             newer_link = 0 
         
         if newer_link is 1:
-            #print 'link eq TRUE'
-            
+
             for ref in zef.cssselect('a'):
                 __next = ref.attrib['href']
         
                 _next_url = base_url+__next
                 print 'Now I am going to scrape:  ', _next_url
-
-                #print 'Newer link = ', newer_link
-                #next_dom = lxml.html.fromstring(requests.get(next_url).content)
 
 
                 br_obj.open(_next_url)
@@ -273,4 +280,3 @@ def _check_if_val(string):
 
 scraperwiki.sql.save(unique_keys=["id"], data=get_artists(), table_name="degenerate_artists")
 scraperwiki.sql.save(unique_keys=["ek_inven_id"], data=get_artwork(), table_name="degenerate_artists_work")
-
