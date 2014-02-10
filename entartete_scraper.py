@@ -29,10 +29,10 @@ def get_artwork():
     
     data2 = []
     
-    for i in range(1,101):
-    #for i in range(101, 201):
-    #for i in range(201, 301):
-    #for i in range(301, 401):
+    #for i in range(1,101): DONE!
+    #for i in range(101, 201): DONE!
+    #for i in range(201, 301): DONE!
+    for i in range(301, 601):
     #for i in range(401, 501):
     #for i in range(501, 601):
     #for i in range(601, 674):
