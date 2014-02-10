@@ -25,18 +25,18 @@ restart_session='http://emuseum.campus.fu-berlin.de/eMuseumPlus;jsessionid=F14A1
 
 
 def get_artwork():
-    test_list = [2, 311,312,313]
+    #test_list = [2, 311,312,313]
     
     data2 = []
     
-    #for i in range(1,101):
+    for i in range(1,101):
     #for i in range(101, 201):
     #for i in range(201, 301):
     #for i in range(301, 401):
     #for i in range(401, 501):
     #for i in range(501, 601):
     #for i in range(601, 674):
-    for i in test_list:
+    #for i in test_list:
         br = mechanize.Browser()
         br.addheaders = headers
         br.open(home_url)
@@ -87,21 +87,40 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
         details_page = lxml.html.fromstring(br_obj.response().read())
 
         '''===============Gather all of the details for putting in the db================'''    
-        for b in details_page.cssselect('div.listDescription ul li.ekTitel span.tspValue'):
+        if details_page.cssselect('div.listDescription ul li.titel span.tspValue'):
+            for b in details_page.cssselect('div.listDescription ul li.titel span.tspValue'):
             
-            title = b.text_content()
+                title = b.text_content()
+        else: 
+            title = 'NA'
             
-        for c in details_page.cssselect('div.listDescription ul li.ekInventarNr span.tspValue'):
+        if details_page.cssselect('div.listDescription ul li.ekTitel span.tspValue'):
+            for bb in details_page.cssselect('div.listDescription ul li.ekTitel span.tspValue'):
             
-            ek_id = c.text_content()
+                ek_title = bb.text_content()
+        else: 
+            ek_title = 'NA'
             
-        for d in details_page.cssselect('div.listDescription ul li.herkunftsort span.tspValue'):
+        if details_page.cssselect('div.listDescription ul li.ekInventarNr span.tspValue'):
+            for c in details_page.cssselect('div.listDescription ul li.ekInventarNr span.tspValue'):
+                
+                ek_id = c.text_content()
+        else:
+            ek_id = 'NA'
             
-            orig_museum = d.text_content()  
-            
-        for e in details_page.cssselect('div.listDescription ul li.gattung span.tspValue'):
-            
-            art_form = e.text_content() 
+        if details_page.cssselect('div.listDescription ul li.herkunftsort span.tspValue'):
+            for d in details_page.cssselect('div.listDescription ul li.herkunftsort span.tspValue'):
+                
+                orig_museum = d.text_content()  
+        else:
+            orig_museum = 'NA'
+                
+        if details_page.cssselect('div.listDescription ul li.gattung span.tspValue'):        
+            for e in details_page.cssselect('div.listDescription ul li.gattung span.tspValue'):
+                
+                art_form = e.text_content() 
+        else:
+            art_form = 'NA'
            
         #this one is a bit tricky because the markup is incorrect, there is a classless li elem after the labelled
         #li element where the object status should be. so currently getting the sibling li where the status is
@@ -230,6 +249,7 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
         data_repo.append({
             "artist_id": iterator, 
             "artwork_title": title,
+            "db_title": ek_title,
             "ek_inven_id": ek_id,
             "museum_orig": orig_museum, 
             "art_form": art_form, 
@@ -248,7 +268,8 @@ def _scrape_it_look_for_next(dom_elem, selector, iterator, data_repo, br_obj, ne
             "env_part": env_part,
             "thumb_url": thmb_url
         })
-
+    time.sleep(4) #sleep 15 seconds so as not to piss off the server 
+    
     for zef in dom_elem.cssselect('li#pageSetEntries-nextSet'): 
         if zef.cssselect('a'):
             newer_link = 1
@@ -280,3 +301,4 @@ def _check_if_val(string):
 
 scraperwiki.sql.save(unique_keys=["id"], data=get_artists(), table_name="degenerate_artists")
 scraperwiki.sql.save(unique_keys=["ek_inven_id"], data=get_artwork(), table_name="degenerate_artists_work")
+
