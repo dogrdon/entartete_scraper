@@ -7,7 +7,7 @@ import keys
 _BING_API = keys.bing_api
 
 g = geocoders.GoogleV3()
-b = geocoders.Bing(_BING_API)
+b = geocoders.Bing(_BING_API, timeout=60)
 
 with open('./data/entartete_kunst_full_11FEB2014.csv', 'rb') as file:
     r = csv.reader(file)
@@ -17,7 +17,7 @@ with open('./data/entartete_kunst_full_11FEB2014.csv', 'rb') as file:
     w.writerow(header)
     
     for row in r:
-        results = g.geocode(row[5], exactly_one=False)
+        results = b.geocode(row[5], exactly_one=False)
              
         
         if results:
