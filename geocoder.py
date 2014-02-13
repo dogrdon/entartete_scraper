@@ -29,16 +29,16 @@ with open('./data/entartete_kunst_full_11FEB2014.csv', 'rb') as file:
                 
                 place, (lat, lng) = results[0]
                 row.extend([str(lat), str(lng)])
-                print "adding for %s - %.5f, %.5f" % (row[5], lat, lng) 
+                print total, "- adding for %s - %.5f, %.5f" % (row[5], lat, lng) 
                 w.writerow(row)
                 success += 1
             else:
                 no_res += 1
-                print 'no results for: ', row[5]
+                print total, '- no results for: ', row[5]
                 
         else:
             unknown += 1
-            print 'location is unknown: ', row[5]
+            print total, '- location is unknown: ', row[5]
             
     print 'All Done! Total Geocodes: %i, Unknown: %i, Successfully Geocoded: %i, No Results: %i' % (total, unknown, success, no_res)
     print 'Success rate today = ', round(float(success)/float(total)*100), '%'
