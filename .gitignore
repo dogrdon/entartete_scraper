@@ -3,3 +3,4 @@ venv/
 .DS_Store
 data/.DS_Store
 keys.py
+doc/error*
