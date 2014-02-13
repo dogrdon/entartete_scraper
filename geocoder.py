@@ -16,17 +16,34 @@ with open('./data/entartete_kunst_full_11FEB2014.csv', 'rb') as file:
     header.extend(['lat', 'lng'])
     w.writerow(header)
     
+    unknown = 0
+    no_res = 0
+    total = 0
+    success = 0
     for row in r:
+        total += 1
         results = b.geocode(row[5], exactly_one=False)
              
-        
-        if results:
-            place, (lat, lng) = results[0]
-            row.extend([str(lat), str(lng)])
-            print "adding: %.5f, %.5f" % (lat, lng) 
-            w.writerow(row)
+        if row[5] != 'NA' and row[5] != 'unbekannt':
+            if results:
+                
+                place, (lat, lng) = results[0]
+                row.extend([str(lat), str(lng)])
+                print "adding for %s - %.5f, %.5f" % (row[5], lat, lng) 
+                w.writerow(row)
+                success += 1
+            else:
+                no_res += 1
+                print 'no results for: ', row[5]
+                
         else:
-            print 'no results'
+            unknown += 1
+            print 'location is unknown: ', row[5]
+            
+    print 'All Done! Total Geocodes: %i, Unknown: %i, Successfully Geocoded: %i, No Results: %i' % (total, unknown, success, no_res)
+    print 'Success rate today = ', round(float(success)/float(total)*100), '%'
+            
+    
             
         
             
