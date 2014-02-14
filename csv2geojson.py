@@ -49,7 +49,7 @@ for row in file:
         url = row[9]
         img_src = row[18]
         status = row[12]
-        output += template % (art_id, lat, lng, artist, artwork, date, location, url, img_src, status)
+        output += template % (art_id, lng, lat, artist, artwork, date, location, url, img_src, status)
         
 output += \
     ''' \
