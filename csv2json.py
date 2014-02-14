@@ -2,7 +2,7 @@
 
 import csv, json
 
-
+'''quick grabbed from here: http://www.andymboyle.com/2011/11/02/quick-csv-to-json-parser-in-python/'''
 
 
 file = open('./data/entartete_kunst_geocoded.csv', 'rU')
