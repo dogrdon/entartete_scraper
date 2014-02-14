@@ -15,7 +15,7 @@ template = \
     { "type" : "Feature",
         "id" : %s,
         "geometry" : {
-            "type" : "Point"
+            "type" : "Point",
             "coordinates" : ["%s", "%s"]},
         "properties" : {
             "artist" : "%s",
