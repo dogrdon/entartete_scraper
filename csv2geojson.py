@@ -30,7 +30,7 @@ template = \
     
 output = \
     '''\
-{"type": "FeatureCollection,
+{"type": "FeatureCollection",
     {"features": [
     '''
     
