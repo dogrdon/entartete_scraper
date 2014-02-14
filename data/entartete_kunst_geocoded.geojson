@@ -1,5 +1,5 @@
 {"type": "FeatureCollection",
-    {"features": [
+    "features": [
          { "type" : "Feature",
         "id" : 109591,
         "geometry" : {

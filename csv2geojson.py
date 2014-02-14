@@ -31,7 +31,7 @@ template = \
 output = \
     '''\
 {"type": "FeatureCollection",
-    {"features": [
+    "features": [
     '''
     
 count = 0
