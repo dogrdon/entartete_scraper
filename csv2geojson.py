@@ -50,12 +50,29 @@ for row in file:
         img_src = row[18]
         status = row[12]
         output += template % (art_id, lng, lat, artist, artwork, date, location, url, img_src, status)
+
         
 output += \
     ''' \
     ]
 }
     '''
+    
+#replace last part, to close and validate json
+wrong = \
+    '''\
+        },
+         ]
+}
+    '''
+#--to--
+right = \
+    '''\
+        }
+         ]
+}
+    '''
+output.replace(wrong, right)
     
 #open a new file and dump contents from above
 outFile = open("./data/entartete_kunst_geocoded.geojson", "w")
