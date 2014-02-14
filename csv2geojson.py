@@ -12,26 +12,26 @@ file = csv.reader(open('./data/entartete_kunst_geocoded.csv', 'rb'))
 
 template = \
     ''' \
-    { "type": "Feature",
-        "id": %s,
-        "geometry":{
-            "type": "Point"
-            "coordinates": ["%s", "%s"]},
-        "properties": {
-            "artist": "%s",
-            "artwork": "%s",
-            "date": "%s",
-            "location": "%s",
-            "url": "%s",
-            "img_src": "%s",
-            "status: "%s"}
+    { type: "Feature",
+        id: %s,
+        geometry:{
+            type: "Point"
+            coordinates: ["%s", "%s"]},
+        properties: {
+            artist: "%s",
+            artwork: "%s",
+            date: "%s",
+            location: "%s",
+            url: "%s",
+            img_src: "%s",
+            status: "%s"}
         },
     '''
     
 output = \
     '''\
-{"type": "FeatureCollection",
-    {"features": [
+{type: "FeatureCollection",
+    {features: [
     '''
     
 count = 0
