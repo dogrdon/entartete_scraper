@@ -2,6 +2,7 @@
 
 import csv
 
+'''TODO: Last record should not outout a final comma (,)'''
 
 
 '''ref: http://www.andrewdyck.com/how-to-convert-csv-data-to-geojson/'''
