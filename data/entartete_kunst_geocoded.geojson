@@ -119,7 +119,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Dexel, Walter",
-            "artwork" : "Abstrakte Komposition, Blatt 4 der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Abstrakte Komposition, Blatt 4 der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1919",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112094&viewType=detailView",
@@ -245,7 +245,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Dix, Otto",
-            "artwork" : "Schwangerschaft, Blatt 4 der Mappe "Tod und Auferstehung" von Dix",
+            "artwork" : "Schwangerschaft, Blatt 4 der Mappe _Tod und Auferstehung_ von Dix",
             "date" : "1922",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112360&viewType=detailView",
@@ -259,7 +259,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Dix, Otto",
-            "artwork" : "Die Barrikade, Blatt 3 der Mappe "Tod und Auferstehung" von Dix",
+            "artwork" : "Die Barrikade, Blatt 3 der Mappe _Tod und Auferstehung_ von Dix",
             "date" : "1922",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112361&viewType=detailView",
@@ -273,7 +273,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Dix, Otto",
-            "artwork" : "Dompteuse, Blatt aus der Mappe "Zirkus" von Dix",
+            "artwork" : "Dompteuse, Blatt aus der Mappe _Zirkus_ von Dix",
             "date" : "1922",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112362&viewType=detailView",
@@ -287,7 +287,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Dix, Otto",
-            "artwork" : "Sketch, Blatt aus der Mappe "Zirkus" von Dix",
+            "artwork" : "Sketch, Blatt aus der Mappe _Zirkus_ von Dix",
             "date" : "1922",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112363&viewType=detailView",
@@ -483,7 +483,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Dressler, August Wilhelm",
-            "artwork" : "Der Bettler, Blatt 2 aus der Mappe "Sechs Steingravuren" von August Wilhelm Dressler",
+            "artwork" : "Der Bettler, Blatt 2 aus der Mappe _Sechs Steingravuren_ von August Wilhelm Dressler",
             "date" : "1927",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112531&viewType=detailView",
@@ -581,7 +581,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Der Ruderer mit dem toten Wolmerod, Illustration 7 zu "Die Pole des Eros" von Curt Moreck, Verlag Heinrich Böhme, Hannover 1920",
+            "artwork" : "Der Ruderer mit dem toten Wolmerod, Illustration 7 zu _Die Pole des Eros_ von Curt Moreck, Verlag Heinrich Böhme, Hannover 1920",
             "date" : "1920",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112666&viewType=detailView",
@@ -595,7 +595,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Im Lokal, Blatt 6 der Illustrationsfolge zu Curt Moreck "Die Pole des Eros", Verlag Heinrich Böhme, Hannover 1920",
+            "artwork" : "Im Lokal, Blatt 6 der Illustrationsfolge zu Curt Moreck _Die Pole des Eros_, Verlag Heinrich Böhme, Hannover 1920",
             "date" : "1920",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112667&viewType=detailView",
@@ -609,7 +609,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Umarmung, Blatt 5 der Illustrationsfolge zu Curt Moreck "Die Pole des Eros", Verlag Heinrich Böhme, Hannover 1920",
+            "artwork" : "Umarmung, Blatt 5 der Illustrationsfolge zu Curt Moreck _Die Pole des Eros_, Verlag Heinrich Böhme, Hannover 1920",
             "date" : "1920",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112668&viewType=detailView",
@@ -623,7 +623,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Wolmerod und Anna im Freien, Blatt 4 der Illustrationsfolge zu Curt Moreck "Die Pole des Eros", Verlag Heinrich Böhme, Hannover 1920",
+            "artwork" : "Wolmerod und Anna im Freien, Blatt 4 der Illustrationsfolge zu Curt Moreck _Die Pole des Eros_, Verlag Heinrich Böhme, Hannover 1920",
             "date" : "1920",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112669&viewType=detailView",
@@ -637,7 +637,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Wolmerod und Anna im Raum, Blatt 3 der Illustrationsfolge zu Curt Moreck "Die Pole des Eros", Verlag Heinrich Böhme, Hannover 1920",
+            "artwork" : "Wolmerod und Anna im Raum, Blatt 3 der Illustrationsfolge zu Curt Moreck _Die Pole des Eros_, Verlag Heinrich Böhme, Hannover 1920",
             "date" : "1920",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112670&viewType=detailView",
@@ -651,7 +651,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Wolmerod und der Fremde, Blatt 1 der Illustrationsfolge zu Curt Moreck "Die Pole des Eros", Verlag Heinrich Böhme, Hannover 1920",
+            "artwork" : "Wolmerod und der Fremde, Blatt 1 der Illustrationsfolge zu Curt Moreck _Die Pole des Eros_, Verlag Heinrich Böhme, Hannover 1920",
             "date" : "1920",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112672&viewType=detailView",
@@ -665,7 +665,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Titelblatt der Mappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Josef Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Titelblatt der Mappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Josef Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112677&viewType=detailView",
@@ -679,7 +679,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Die Agave, Blatt 8 der Mappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Josef Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Die Agave, Blatt 8 der Mappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Josef Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112678&viewType=detailView",
@@ -693,7 +693,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Die Brücke, Blatt 1 der Mappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Josef Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Die Brücke, Blatt 1 der Mappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Josef Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112679&viewType=detailView",
@@ -707,7 +707,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Das Vogelhaus, Blatt 2 der Mappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Josef Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Das Vogelhaus, Blatt 2 der Mappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Josef Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112680&viewType=detailView",
@@ -721,7 +721,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Palmen am Teich, Blatt 7 der Mappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Josef Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Palmen am Teich, Blatt 7 der Mappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Josef Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112681&viewType=detailView",
@@ -735,7 +735,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Weide am Teich, Blatt 9 der Mappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Josef Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Weide am Teich, Blatt 9 der Mappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Josef Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112682&viewType=detailView",
@@ -749,7 +749,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Kakteenfeld, Blatt 4 der Mappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Josef Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Kakteenfeld, Blatt 4 der Mappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Josef Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112683&viewType=detailView",
@@ -763,7 +763,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Stiller Weg, Blatt 10 der Mappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Josef Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Stiller Weg, Blatt 10 der Mappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Josef Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112684&viewType=detailView",
@@ -777,7 +777,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Das Haus des Eichhörnchens, Blatt 6 der Graphikmappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Josef Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Das Haus des Eichhörnchens, Blatt 6 der Graphikmappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Josef Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112685&viewType=detailView",
@@ -791,7 +791,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Die Grotte, Blatt 3 der Mappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Josef Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Die Grotte, Blatt 3 der Mappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Josef Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112686&viewType=detailView",
@@ -805,7 +805,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Eberz, Josef",
-            "artwork" : "Der sonnige Weg, Blatt 5 der Mappe "Der Garten Heinrich Kirchhoff - Wiesbaden" von Joseph Eberz, Goltz Verlag, München 1917",
+            "artwork" : "Der sonnige Weg, Blatt 5 der Mappe _Der Garten Heinrich Kirchhoff - Wiesbaden_ von Joseph Eberz, Goltz Verlag, München 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112687&viewType=detailView",
@@ -816,15 +816,15 @@
         "id" : 112750,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Nathanael jagd wie gepeitscht davon", Blatt 12 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112750&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarWltgrNtrFaqZqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Nathanael jagd wie gepeitscht davon_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 12 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2309",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112752,
@@ -833,7 +833,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Das Geheimnis des Reiches, Blatt 14 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
+            "artwork" : "Das Geheimnis des Reiches, Blatt 14 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112752&viewType=detailView",
@@ -844,85 +844,85 @@
         "id" : 112754,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Rittergutsbesitzer Herr von Kellwinkel", Blatt 16 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112754&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarULkN0ejWf8fJqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Rittergutsbesitzer Herr von Kellwinkel_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 16 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2313",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112755,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Der böhmische Josef fragt nach den Geheimnissen des Reiches", Blatt 17 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112755&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarXtvOYL%2Fxo2%2BJqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Der böhmische Josef fragt nach den Geheimnissen des Reiches_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 17 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2314",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112756,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Ausartungen während der Betstunden in der Talmühle", Blatt 18 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112756&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarWRaGcBL0VH8ZqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Ausartungen während der Betstunden in der Talmühle_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 18 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2315",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112757,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Quint kommt in die Talmühle", Blatt 19 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112757&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarUVg8wjLP2ifJqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Quint kommt in die Talmühle_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 19 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2316",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112758,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Ruth Heidebrand erblickt den heimkehrenden Quint", Blatt 15 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112758&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarVvxTRpWvT9lJqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Ruth Heidebrand erblickt den heimkehrenden Quint_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 15 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2317",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112759,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Von Kellwinkel führt Ruth heim", Blatt 21 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112759&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarViZwvnk03KT5qlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Von Kellwinkel führt Ruth heim_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 21 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2318",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112761,
@@ -931,7 +931,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Steinigung Quints mit von Kellwinkel und der Dienstmagd Katzinzek, Blatt 23 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
+            "artwork" : "Steinigung Quints mit von Kellwinkel und der Dienstmagd Katzinzek, Blatt 23 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112761&viewType=detailView",
@@ -945,7 +945,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Der Narr in Christo oder der Langwaltersdorfer Heiland, Blatt 24 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
+            "artwork" : "Der Narr in Christo oder der Langwaltersdorfer Heiland, Blatt 24 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112762&viewType=detailView",
@@ -956,15 +956,15 @@
         "id" : 112767,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Ruth Heidebrand kommt zum Quint", Blatt 20 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112767&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarXQX0%2BCVympYpqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Ruth Heidebrand kommt zum Quint_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 20 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2326",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112768,
@@ -973,7 +973,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "“Stammtisch in der Breslauer Kneipe“, Blatt 29 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
+            "artwork" : "“Stammtisch in der Breslauer Kneipe“, Blatt 29 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112768&viewType=detailView",
@@ -984,71 +984,71 @@
         "id" : 112769,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Gebrüder Scharf bei ihrem sterbenden Vater", Blatt 1 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112769&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarWBR94cXBwHIpqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Gebrüder Scharf bei ihrem sterbenden Vater_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 1 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2328",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112770,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Nathanael Schwarz predigt in der Dorfschule", Blatt 2 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112770&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarUZSCqUU7bBDJqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Nathanael Schwarz predigt in der Dorfschule_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 2 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2329",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112771,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Quint kommt zum Hirten", Blatt 3 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112771&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarXM6lg8sHFrBJqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Quint kommt zum Hirten_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 3 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2330",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112772,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Das Weib des Webers Schubert erzählt Quint ihr Leid", Blatt 4 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112772&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarWLPqqiiXtWtZqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Das Weib des Webers Schubert erzählt Quint ihr Leid_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 4 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2331",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112773,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarX2%2BAWOIsreMZqlPqbqrNmy&sp=Simage%2Fjpeg", "Düsseldorf, Kunstsammlungen der Stadt"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Die Siechen, Lahmen, Blinden vor Schuberts Hütte", Blatt 5 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112773&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarX2%2BAWOIsreMZqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "NA",
+            "artwork" : "_"Die Siechen",
+            "date" : "NA",
+            "location" : " Lahmen",
+            "url" : "NA",
+            "img_src" : "© Nachlass Heinrich Ehmsen",
+            "status" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112773&viewType=detailView"}
         },
          { "type" : "Feature",
         "id" : 112774,
@@ -1057,7 +1057,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Hundertvierjährige singt „Komm o komm du letzte lange Nacht“, Blatt 6 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
+            "artwork" : "Hundertvierjährige singt „Komm o komm du letzte lange Nacht“, Blatt 6 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112774&viewType=detailView",
@@ -1068,57 +1068,57 @@
         "id" : 112775,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Quint und Gebrüder Scharf werden der deutschen Grenzpolizei übergeben", Blatt 7 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112775&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarXyK0Bh43TQZJqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Quint und Gebrüder Scharf werden der deutschen Grenzpolizei übergeben_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 7 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2334",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112776,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Jesus Christus erscheint dem Quint im Traum", Blatt 8 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112776&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarWA3vH9TIR1u5qlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Jesus Christus erscheint dem Quint im Traum_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 8 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2335",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112777,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Christus im Irrenhaus", Blatt 9 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112777&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarU7qxVYGi78kJqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Christus im Irrenhaus_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 9 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2336",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112778,
         "geometry" : {
             "type" : "Point",
-            "coordinates" : ["54.0873985291", "12.1329498291"]},
+            "coordinates" : ["Ehmsen, Heinrich", "54.0873985291"]},
         "properties" : {
-            "artist" : "Ehmsen, Heinrich",
-            "artwork" : ""Der Pastor will Quints Wesen erforschen", Blatt 10 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen (30 Probedrucke)",
-            "date" : "1927",
-            "location" : "Rostock, Kulturhistorisches Museum",
-            "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112778&viewType=detailView",
-            "img_src" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVZijfWfAYnGsjIQqD6GXSFMez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV3L%0D%0ATpwyJeR7NMPvp3RRP61q%2FZaOrpMIarWnPRdnLyUM1JqlPqbqrNmy&sp=Simage%2Fjpeg",
-            "status" : "Rostock, Kulturhistorisches Museum"}
+            "artist" : "Düsseldorf, Kunstsammlungen der Stadt",
+            "artwork" : "_"Der Pastor will Quints Wesen erforschen_",
+            "date" : "Illustration zu: Emanuel Quint",
+            "location" : " Blatt 10 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen (30 Probedrucke)"",
+            "url" : "2337",
+            "img_src" : "NA",
+            "status" : "NA"}
         },
          { "type" : "Feature",
         "id" : 112780,
@@ -1141,7 +1141,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 18 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 18 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112748&viewType=detailView",
@@ -1155,7 +1155,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 6 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 6 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112749&viewType=detailView",
@@ -1183,7 +1183,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 1 der Illustrationsfolge zu "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 1 der Illustrationsfolge zu _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112818&viewType=detailView",
@@ -1197,7 +1197,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 2 der Illsutratinsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 2 der Illsutratinsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112819&viewType=detailView",
@@ -1211,7 +1211,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 3 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 3 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112820&viewType=detailView",
@@ -1225,7 +1225,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 5 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 5 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112821&viewType=detailView",
@@ -1239,7 +1239,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 4 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 4 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112822&viewType=detailView",
@@ -1253,7 +1253,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 7 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 7 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112824&viewType=detailView",
@@ -1267,7 +1267,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 11 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 11 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112826&viewType=detailView",
@@ -1281,7 +1281,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 9 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 9 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112827&viewType=detailView",
@@ -1295,7 +1295,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 10 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 10 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112828&viewType=detailView",
@@ -1309,7 +1309,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 12 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 12 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112829&viewType=detailView",
@@ -1323,7 +1323,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 13 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 13 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112830&viewType=detailView",
@@ -1337,7 +1337,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 14 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 14 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112831&viewType=detailView",
@@ -1351,7 +1351,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 15 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 15 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112832&viewType=detailView",
@@ -1365,7 +1365,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 16 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 16 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112833&viewType=detailView",
@@ -1379,7 +1379,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 17 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 17 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112834&viewType=detailView",
@@ -1393,7 +1393,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 18 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 18 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112835&viewType=detailView",
@@ -1407,7 +1407,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 22 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 22 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112839&viewType=detailView",
@@ -1421,7 +1421,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 23 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 23 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112840&viewType=detailView",
@@ -1435,7 +1435,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 24 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 24 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112841&viewType=detailView",
@@ -1449,7 +1449,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 25 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 25 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112842&viewType=detailView",
@@ -1463,7 +1463,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 26 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 26 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112843&viewType=detailView",
@@ -1477,7 +1477,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 27 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 27 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112844&viewType=detailView",
@@ -1491,7 +1491,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 29 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 29 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112846&viewType=detailView",
@@ -1505,7 +1505,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 30 der Illustrationsfolge "Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 30 der Illustrationsfolge _Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112847&viewType=detailView",
@@ -1519,7 +1519,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 9 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 9 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112746&viewType=detailView",
@@ -1533,7 +1533,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Ehmsen, Heinrich",
-            "artwork" : "Blatt 8 der Mappe "Gerhart Hauptmann. Der Narr in Christo Emanuel Quint" von Ehmsen",
+            "artwork" : "Blatt 8 der Mappe _Gerhart Hauptmann. Der Narr in Christo Emanuel Quint_ von Ehmsen",
             "date" : "1927",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=112747&viewType=detailView",
@@ -1757,7 +1757,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Vulkan, Blatt 2 der Mappe "Zwölf Holzschnitte" von Feininger",
+            "artwork" : "Vulkan, Blatt 2 der Mappe _Zwölf Holzschnitte_ von Feininger",
             "date" : "1918",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=113143&viewType=detailView",
@@ -1869,7 +1869,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Druckvermerk der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Druckvermerk der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1921",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=127726&viewType=detailView",
@@ -1883,7 +1883,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Titelblatt der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Titelblatt der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1921",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=127727&viewType=detailView",
@@ -1897,7 +1897,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Impressum der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Impressum der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1921",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=127728&viewType=detailView",
@@ -1911,7 +1911,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Inhaltsverzeichnis der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Inhaltsverzeichnis der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1921",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=127729&viewType=detailView",
@@ -2037,7 +2037,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Die Architektur, Blatt 11 der Mappe "Zwölf Holzschnitte" von Feininger",
+            "artwork" : "Die Architektur, Blatt 11 der Mappe _Zwölf Holzschnitte_ von Feininger",
             "date" : "1920",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=113114&viewType=detailView",
@@ -2079,7 +2079,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Druckvermerk der 5. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Druckvermerk der 5. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "um 1923",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=127862&viewType=detailView",
@@ -2093,7 +2093,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Titelblatt der 5. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Titelblatt der 5. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=127863&viewType=detailView",
@@ -2107,7 +2107,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Impressum der 5. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Impressum der 5. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "um 1923",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=127864&viewType=detailView",
@@ -2121,7 +2121,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Inhaltsverzeichnis der 5. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Inhaltsverzeichnis der 5. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "um 1923",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=127865&viewType=detailView",
@@ -2135,7 +2135,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Dampfer "Odin"",
+            "artwork" : "Dampfer _Odin_",
             "date" : "1918",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=113183&viewType=detailView",
@@ -2401,7 +2401,7 @@
             "coordinates" : ["38.6401596069", "-90.2950973511"]},
         "properties" : {
             "artist" : "Feininger, Lyonel",
-            "artwork" : "Sieg der Sloop "Maria"",
+            "artwork" : "Sieg der Sloop _Maria_",
             "date" : "1926",
             "location" : "St. Louis, Saint Louis Art Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=113318&viewType=detailView",
@@ -2877,7 +2877,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Felixmüller, Conrad",
-            "artwork" : "Soldat im Irrenhaus (II), Blatt 15 der Zeitschrift "Die Schaffenden", I. Jahrgang, 2. Mappe",
+            "artwork" : "Soldat im Irrenhaus (II), Blatt 15 der Zeitschrift _Die Schaffenden_, I. Jahrgang, 2. Mappe",
             "date" : "1918",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=113409&viewType=detailView",
@@ -3101,7 +3101,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Fischer, Oskar",
-            "artwork" : "Reitendes Paar, Blatt 5 der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Reitendes Paar, Blatt 5 der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "um 1921",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=113592&viewType=detailView",
@@ -3465,7 +3465,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Gleichmann, Otto",
-            "artwork" : "Theaterloge, Blatt 3 der 5. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Theaterloge, Blatt 3 der 5. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1922",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=113918&viewType=detailView",
@@ -3479,7 +3479,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Gleizes, Albert",
-            "artwork" : "Komposition nach dem Gemälde "Peinture à trois Éléments"",
+            "artwork" : "Komposition nach dem Gemälde _Peinture à trois Éléments_",
             "date" : "1927 - 1929",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=123377&viewType=detailView",
@@ -3535,7 +3535,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Goldschmitt, Bruno",
-            "artwork" : "Hiob im Glück, Blatt 1 der Mappe "Das Buch Hiob" von Goldschmitt",
+            "artwork" : "Hiob im Glück, Blatt 1 der Mappe _Das Buch Hiob_ von Goldschmitt",
             "date" : "NA",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131469&viewType=detailView",
@@ -3549,7 +3549,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Goldschmitt, Bruno",
-            "artwork" : "Der Satan besucht Hiob, Blatt 2 der Mappe "Das Buch Hiob" von Goldschmitt",
+            "artwork" : "Der Satan besucht Hiob, Blatt 2 der Mappe _Das Buch Hiob_ von Goldschmitt",
             "date" : "NA",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131575&viewType=detailView",
@@ -3563,7 +3563,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Goldschmitt, Bruno",
-            "artwork" : "Besuch der Freunde, Blatt 3 der Mappe "Das Buch Hiob" von Goldschmitt",
+            "artwork" : "Besuch der Freunde, Blatt 3 der Mappe _Das Buch Hiob_ von Goldschmitt",
             "date" : "NA",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131576&viewType=detailView",
@@ -3577,7 +3577,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Goldschmitt, Bruno",
-            "artwork" : "Denn ich weiß, du wirst mich dem Tode überantworten, Blatt 4 der Mappe "Das Buch Hiob" von Goldschmitt",
+            "artwork" : "Denn ich weiß, du wirst mich dem Tode überantworten, Blatt 4 der Mappe _Das Buch Hiob_ von Goldschmitt",
             "date" : "NA",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131577&viewType=detailView",
@@ -3591,7 +3591,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Goldschmitt, Bruno",
-            "artwork" : "Blatt 5 der Mappe "Das Buch Hiob" von Goldschmitt",
+            "artwork" : "Blatt 5 der Mappe _Das Buch Hiob_ von Goldschmitt",
             "date" : "NA",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131578&viewType=detailView",
@@ -3675,7 +3675,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Stehende Frau auf halber Kellertreppe, Blatt 1 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Stehende Frau auf halber Kellertreppe, Blatt 1 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126969&viewType=detailView",
@@ -3689,7 +3689,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Träumender Jüngling, Blatt 2 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Träumender Jüngling, Blatt 2 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126970&viewType=detailView",
@@ -3703,7 +3703,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Das Paar im Gespräch, Blatt 3 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Das Paar im Gespräch, Blatt 3 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126971&viewType=detailView",
@@ -3717,7 +3717,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Der Seufzerstein, Blatt 4 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Der Seufzerstein, Blatt 4 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126972&viewType=detailView",
@@ -3731,7 +3731,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Die Wiege, Blatt 5 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Die Wiege, Blatt 5 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126973&viewType=detailView",
@@ -3745,7 +3745,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Die Puppe, Blatt 6 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Die Puppe, Blatt 6 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126974&viewType=detailView",
@@ -3759,7 +3759,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Hohe Unterweisung, Blatt 7 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Hohe Unterweisung, Blatt 7 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126975&viewType=detailView",
@@ -3773,7 +3773,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Der Verletzte, Blatt 8 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Der Verletzte, Blatt 8 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126976&viewType=detailView",
@@ -3787,7 +3787,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Der Alb, Blatt 9 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Der Alb, Blatt 9 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126977&viewType=detailView",
@@ -3801,7 +3801,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Verzweifelter Alb, Blatt 10 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Verzweifelter Alb, Blatt 10 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126978&viewType=detailView",
@@ -3815,7 +3815,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Kniende Mutter am Bett des schlafenden Sohnes, Blatt 11 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Kniende Mutter am Bett des schlafenden Sohnes, Blatt 11 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126979&viewType=detailView",
@@ -3829,7 +3829,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Auf Mord bedacht, Blatt 12 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Auf Mord bedacht, Blatt 12 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126980&viewType=detailView",
@@ -3843,7 +3843,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Die Mörderin, Blatt 13 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Die Mörderin, Blatt 13 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126981&viewType=detailView",
@@ -3857,7 +3857,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Besenbein auf dem toten Roß Herzhorn II, Blatt 14 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Besenbein auf dem toten Roß Herzhorn II, Blatt 14 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126982&viewType=detailView",
@@ -3871,7 +3871,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Der Blutflecken 1, Blatt 15 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Der Blutflecken 1, Blatt 15 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126983&viewType=detailView",
@@ -3885,7 +3885,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Der Blutflecken 2, Blatt 16 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Der Blutflecken 2, Blatt 16 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126984&viewType=detailView",
@@ -3899,7 +3899,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Die Frau am Herd, Blatt 17 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Die Frau am Herd, Blatt 17 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126985&viewType=detailView",
@@ -3913,7 +3913,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Mit fremder Schuld beladen, Blatt 18 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Mit fremder Schuld beladen, Blatt 18 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126986&viewType=detailView",
@@ -3927,7 +3927,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Die Schuldbewußte, Blatt 19 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Die Schuldbewußte, Blatt 19 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126987&viewType=detailView",
@@ -3941,7 +3941,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Das Unsichtbare 1, Blatt 20 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Das Unsichtbare 1, Blatt 20 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126988&viewType=detailView",
@@ -3955,7 +3955,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Das Unsichtbare 2, Blatt 21 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Das Unsichtbare 2, Blatt 21 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126989&viewType=detailView",
@@ -3969,7 +3969,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Der Rufende, Blatt 22 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Der Rufende, Blatt 22 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126990&viewType=detailView",
@@ -3983,7 +3983,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Ruf im Nebel, Blatt 23 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Ruf im Nebel, Blatt 23 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126991&viewType=detailView",
@@ -3997,7 +3997,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Erscheinung im Nebel, Blatt 24 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Erscheinung im Nebel, Blatt 24 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126992&viewType=detailView",
@@ -4011,7 +4011,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Aufbruch und Abwehr, Blatt 25 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Aufbruch und Abwehr, Blatt 25 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126993&viewType=detailView",
@@ -4025,7 +4025,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Verfluchung, Blatt 26 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Verfluchung, Blatt 26 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126994&viewType=detailView",
@@ -4039,7 +4039,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Stürzende Frau, Blatt 27 der Mappe "Der tote Tag" von Barlach",
+            "artwork" : "Stürzende Frau, Blatt 27 der Mappe _Der tote Tag_ von Barlach",
             "date" : "1912",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=109843&viewType=detailView",
@@ -4067,7 +4067,7 @@
             "coordinates" : ["37.9178504944", "-107.694381714"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Erlkönig 1, Blatt 19 aus der Mappe "Goethe, Gedichte" von Barlach",
+            "artwork" : "Erlkönig 1, Blatt 19 aus der Mappe _Goethe, Gedichte_ von Barlach",
             "date" : "um 1923/24",
             "location" : "Güstrow, Stadtmuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=110112&viewType=detailView",
@@ -4389,7 +4389,7 @@
             "coordinates" : ["53.5542297363", "10.0039796829"]},
         "properties" : {
             "artist" : "Barlach, Ernst",
-            "artwork" : "Die Schuldbewusste, Zeichnung zur Illustrationsfolge "Der tote Tag"",
+            "artwork" : "Die Schuldbewusste, Zeichnung zur Illustrationsfolge _Der tote Tag_",
             "date" : "1912",
             "location" : "Hamburg, Hamburger Kunsthalle",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=110196&viewType=detailView",
@@ -4557,7 +4557,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Großmann, Rudolf",
-            "artwork" : "Garten bei Sorrent, Blatt 3 der Mappe "5. Jahresgabe des Kreises graphischer Künstler und Sammler"",
+            "artwork" : "Garten bei Sorrent, Blatt 3 der Mappe _5. Jahresgabe des Kreises graphischer Künstler und Sammler_",
             "date" : "1925",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=132078&viewType=detailView",
@@ -4627,7 +4627,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Grosz, George",
-            "artwork" : "Tod auf der Straße, Blatt 3 der Zeitschrift "Die Schaffenden", 4. Jahrgang, 4. Mappe",
+            "artwork" : "Tod auf der Straße, Blatt 3 der Zeitschrift _Die Schaffenden_, 4. Jahrgang, 4. Mappe",
             "date" : "1920/21",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=114481&viewType=detailView",
@@ -4641,7 +4641,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Grosz, George",
-            "artwork" : "Straßenszene (Großstadttypen), Blatt 4 der 5. Mappe "Neue europäische Graphik. Deutsche Künstler", Bauhaus Drucke, Weimar 1921",
+            "artwork" : "Straßenszene (Großstadttypen), Blatt 4 der 5. Mappe _Neue europäische Graphik. Deutsche Künstler_, Bauhaus Drucke, Weimar 1921",
             "date" : "1919/20",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=114491&viewType=detailView",
@@ -4669,7 +4669,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Grosz, George",
-            "artwork" : "Straßenszene (Großstadttypen), Blatt 4 der 5. Mappe "Neue europäische Graphik. Deutsche Künstler", Bauhaus Drucke, Weimar 1921",
+            "artwork" : "Straßenszene (Großstadttypen), Blatt 4 der 5. Mappe _Neue europäische Graphik. Deutsche Künstler_, Bauhaus Drucke, Weimar 1921",
             "date" : "um 1922",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=114473&viewType=detailView",
@@ -4865,7 +4865,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Grosz, George",
-            "artwork" : "Studie zu "Tartarin bei der Abreise"",
+            "artwork" : "Studie zu _Tartarin bei der Abreise_",
             "date" : "1920",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131457&viewType=detailView",
@@ -4893,7 +4893,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Grosz, George",
-            "artwork" : "Studie zu "Tartarin im Waffenkabinett" (Rückseite von Tartarin mit dem Prinzen von Montenegro auf dem arabischen Markt)",
+            "artwork" : "Studie zu _Tartarin im Waffenkabinett_ (Rückseite von Tartarin mit dem Prinzen von Montenegro auf dem arabischen Markt)",
             "date" : "1920",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131458&viewType=detailView",
@@ -5341,7 +5341,7 @@
             "coordinates" : ["42.3385314941", "-71.0938568115"]},
         "properties" : {
             "artist" : "Heckel, Erich",
-            "artwork" : "Titelblatt zu I.B. Neumanns Bilderheft "Erich Heckel"",
+            "artwork" : "Titelblatt zu I.B. Neumanns Bilderheft _Erich Heckel_",
             "date" : "1922",
             "location" : "Boston, Museum of Fine Arts",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=115202&viewType=detailView",
@@ -5607,7 +5607,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Heckel, Erich",
-            "artwork" : "Der Narr, Blatt 5 der 5. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Der Narr, Blatt 5 der 5. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1917",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=115311&viewType=detailView",
@@ -6041,7 +6041,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Heemskerck, Jacoba van",
-            "artwork" : "Komposition, Blatt 6 der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Komposition, Blatt 6 der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "um 1921",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=115579&viewType=detailView",
@@ -6055,7 +6055,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Bauer, Rudolf",
-            "artwork" : "Bantama, Blatt 1 der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Bantama, Blatt 1 der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "um 1921",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=110247&viewType=detailView",
@@ -6153,7 +6153,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Hoetger, Bernhard",
-            "artwork" : "Blatt 1 der I. Mappe " 6 Lithographien" von Hoetger",
+            "artwork" : "Blatt 1 der I. Mappe _ 6 Lithographien_ von Hoetger",
             "date" : "1921",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130785&viewType=detailView",
@@ -6167,7 +6167,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Hoetger, Bernhard",
-            "artwork" : "Blatt 2 der I. Mappe "6 Lithographien" von Hoetger",
+            "artwork" : "Blatt 2 der I. Mappe _6 Lithographien_ von Hoetger",
             "date" : "1921",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130786&viewType=detailView",
@@ -6181,7 +6181,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Hoetger, Bernhard",
-            "artwork" : "Blatt 3 der I. Mappe "6 Lithographien" von Hoetger",
+            "artwork" : "Blatt 3 der I. Mappe _6 Lithographien_ von Hoetger",
             "date" : "1921",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130787&viewType=detailView",
@@ -6195,7 +6195,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Hoetger, Bernhard",
-            "artwork" : "Blatt 4 der I. Mappe "6 Lithographien" von Hoetger",
+            "artwork" : "Blatt 4 der I. Mappe _6 Lithographien_ von Hoetger",
             "date" : "1921",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130788&viewType=detailView",
@@ -6209,7 +6209,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Hoetger, Bernhard",
-            "artwork" : "Blatt 5 der I. Mappe "6 Lithographien" von Hoetger",
+            "artwork" : "Blatt 5 der I. Mappe _6 Lithographien_ von Hoetger",
             "date" : "1921",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130789&viewType=detailView",
@@ -6223,7 +6223,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Hoetger, Bernhard",
-            "artwork" : "Blatt 6 der I. Mappe "6 Lithographien" von Hoetger",
+            "artwork" : "Blatt 6 der I. Mappe _6 Lithographien_ von Hoetger",
             "date" : "1921",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=115821&viewType=detailView",
@@ -6237,7 +6237,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Hoetger, Bernhard",
-            "artwork" : "Zusatz-Blatt der  I: Mappe "6 Lithographien" von Hoetger",
+            "artwork" : "Zusatz-Blatt der  I: Mappe _6 Lithographien_ von Hoetger",
             "date" : "1921",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130790&viewType=detailView",
@@ -6251,7 +6251,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Hoetger, Bernhard",
-            "artwork" : "Figürliche Komposition, Blatt 7 der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Figürliche Komposition, Blatt 7 der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1921",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=115820&viewType=detailView",
@@ -6293,7 +6293,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 4 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 4 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116020&viewType=detailView",
@@ -6307,7 +6307,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 6 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 6 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116021&viewType=detailView",
@@ -6321,7 +6321,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 9 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 9 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116022&viewType=detailView",
@@ -6419,7 +6419,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Masken, Blatt 1 der Mappe "Shakespeare Visionen. Eine Huldigung deutscher Künstler"",
+            "artwork" : "Masken, Blatt 1 der Mappe _Shakespeare Visionen. Eine Huldigung deutscher Künstler_",
             "date" : "1917/18",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=115933&viewType=detailView",
@@ -6433,7 +6433,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 1 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 1 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129801&viewType=detailView",
@@ -6447,7 +6447,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 2 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 2 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129802&viewType=detailView",
@@ -6461,7 +6461,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 3 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 3 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129803&viewType=detailView",
@@ -6475,7 +6475,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 4 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 4 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129804&viewType=detailView",
@@ -6489,7 +6489,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 5 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 5 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129805&viewType=detailView",
@@ -6503,7 +6503,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 6 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 6 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129806&viewType=detailView",
@@ -6517,7 +6517,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 7 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 7 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129807&viewType=detailView",
@@ -6531,7 +6531,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 8 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 8 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129808&viewType=detailView",
@@ -6545,7 +6545,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 9 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 9 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129809&viewType=detailView",
@@ -6559,7 +6559,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 10 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 10 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129810&viewType=detailView",
@@ -6573,7 +6573,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 11 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 11 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129811&viewType=detailView",
@@ -6587,7 +6587,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Hofer, Karl",
-            "artwork" : "Blatt 12 der Mappe "Tanz" von Hofer",
+            "artwork" : "Blatt 12 der Mappe _Tanz_ von Hofer",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=129812&viewType=detailView",
@@ -6895,7 +6895,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Huth, Willy Robert",
-            "artwork" : "Artisten, Blatt 1 der Mappe "Varieté" von Huth",
+            "artwork" : "Artisten, Blatt 1 der Mappe _Varieté_ von Huth",
             "date" : "1923",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130360&viewType=detailView",
@@ -6909,7 +6909,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Huth, Willy Robert",
-            "artwork" : "Equilibristen, Blatt 2 der Mappe "Varieté" von Huth",
+            "artwork" : "Equilibristen, Blatt 2 der Mappe _Varieté_ von Huth",
             "date" : "1923",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130357&viewType=detailView",
@@ -6923,7 +6923,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Huth, Willy Robert",
-            "artwork" : "Clowns, Blatt 3 der Mappe "Varieté" von Huth",
+            "artwork" : "Clowns, Blatt 3 der Mappe _Varieté_ von Huth",
             "date" : "1923",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130358&viewType=detailView",
@@ -6937,7 +6937,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Huth, Willy Robert",
-            "artwork" : "Tänzer, Blatt 4 der Mappe "Varieté" von Huth",
+            "artwork" : "Tänzer, Blatt 4 der Mappe _Varieté_ von Huth",
             "date" : "1923",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130361&viewType=detailView",
@@ -6951,7 +6951,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Huth, Willy Robert",
-            "artwork" : "Jongleure, Blatt 5 der Mappe "Varieté" von Huth",
+            "artwork" : "Jongleure, Blatt 5 der Mappe _Varieté_ von Huth",
             "date" : "1923",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130356&viewType=detailView",
@@ -6965,7 +6965,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Huth, Willy Robert",
-            "artwork" : "Zwei Clowns, Blatt 6 der Mappe "Varieté" von Huth",
+            "artwork" : "Zwei Clowns, Blatt 6 der Mappe _Varieté_ von Huth",
             "date" : "1923",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=130359&viewType=detailView",
@@ -7021,7 +7021,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Baumeister, Willi",
-            "artwork" : "Sitzende Figur, Blatt 2 der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Sitzende Figur, Blatt 2 der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1921",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=110295&viewType=detailView",
@@ -7035,7 +7035,7 @@
             "coordinates" : ["50.9760093689", "11.0343103409"]},
         "properties" : {
             "artist" : "Baumeister, Willi",
-            "artwork" : "Sitzende Figur (Visieren), Blatt 2 der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Sitzende Figur (Visieren), Blatt 2 der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1921",
             "location" : "Erfurt, Angermuseum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=110274&viewType=detailView",
@@ -7133,7 +7133,7 @@
             "coordinates" : ["31.6830692291", "-92.1328277588"]},
         "properties" : {
             "artist" : "Baumeister, Willi",
-            "artwork" : "Sitzende Figur (Visieren), Blatt 2 der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Sitzende Figur (Visieren), Blatt 2 der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1921",
             "location" : "Jena, Städtische Museen - Kunstsammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=110293&viewType=detailView",
@@ -7203,7 +7203,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Baumeister, Willi",
-            "artwork" : "Sitzende Figur (Visieren), Blatt 2 der 3. Mappe "Neue europäische Graphik. Deutsche Künstler"",
+            "artwork" : "Sitzende Figur (Visieren), Blatt 2 der 3. Mappe _Neue europäische Graphik. Deutsche Künstler_",
             "date" : "1921",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=110277&viewType=detailView",
@@ -7343,7 +7343,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Itten, Johannes",
-            "artwork" : "Die Erschaffung Evas. Kompositionsanalyse, Blatt 1 der Illustrationsfolge "Utopia: Dokumente der Wirklichkeit" von Itten",
+            "artwork" : "Die Erschaffung Evas. Kompositionsanalyse, Blatt 1 der Illustrationsfolge _Utopia: Dokumente der Wirklichkeit_ von Itten",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116358&viewType=detailView",
@@ -7357,7 +7357,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Itten, Johannes",
-            "artwork" : "Die Erschaffung Evas. Spruch, Blatt 2 der Illustrationsfolge "Utopia: Dokumente der Wirklichkeit" von Itten",
+            "artwork" : "Die Erschaffung Evas. Spruch, Blatt 2 der Illustrationsfolge _Utopia: Dokumente der Wirklichkeit_ von Itten",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128482&viewType=detailView",
@@ -7371,7 +7371,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Itten, Johannes",
-            "artwork" : "Die Geburt Christi. Kompositionsanalyse, Blatt 3 der Illustrationsfolge "Utopia: Dokumente der Wirklichkeit" von Itten",
+            "artwork" : "Die Geburt Christi. Kompositionsanalyse, Blatt 3 der Illustrationsfolge _Utopia: Dokumente der Wirklichkeit_ von Itten",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128483&viewType=detailView",
@@ -7385,7 +7385,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Itten, Johannes",
-            "artwork" : "Die Geburt Christi. Spruch, Blatt 4 der Illustrationsfolge "Utopia: Dokumente der Wirklichkeit" von Itten",
+            "artwork" : "Die Geburt Christi. Spruch, Blatt 4 der Illustrationsfolge _Utopia: Dokumente der Wirklichkeit_ von Itten",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128484&viewType=detailView",
@@ -7399,7 +7399,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Itten, Johannes",
-            "artwork" : "Anbetung der Könige. Kompositionsanalyse, Blatt 5 der Illustrationsfolge "Utopia: Dokumente der Wirklichkeit" von Itten",
+            "artwork" : "Anbetung der Könige. Kompositionsanalyse, Blatt 5 der Illustrationsfolge _Utopia: Dokumente der Wirklichkeit_ von Itten",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128485&viewType=detailView",
@@ -7413,7 +7413,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Itten, Johannes",
-            "artwork" : "Anbetung der Könige. Spruch, Blatt 6 der Illustrationsfolge "Utopia: Dokumente der Wirklichkeit" von Itten",
+            "artwork" : "Anbetung der Könige. Spruch, Blatt 6 der Illustrationsfolge _Utopia: Dokumente der Wirklichkeit_ von Itten",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128486&viewType=detailView",
@@ -7427,7 +7427,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Itten, Johannes",
-            "artwork" : "Arhat Vanavasi. Kompositionsanalyse, Blatt 7 der Illustrationsfolge "Utopia: Dokumente der Wirklichkeit" von Itten",
+            "artwork" : "Arhat Vanavasi. Kompositionsanalyse, Blatt 7 der Illustrationsfolge _Utopia: Dokumente der Wirklichkeit_ von Itten",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128487&viewType=detailView",
@@ -7441,7 +7441,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Itten, Johannes",
-            "artwork" : "Arhat Vanavasi. Spruch, Blatt 8 der Illustrationsfolge "Utopia: Dokumente der Wirklichkeit" von Itten",
+            "artwork" : "Arhat Vanavasi. Spruch, Blatt 8 der Illustrationsfolge _Utopia: Dokumente der Wirklichkeit_ von Itten",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128488&viewType=detailView",
@@ -7455,7 +7455,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Itten, Johannes",
-            "artwork" : "Der Großinquisitor. Kompositionsanalyse, Blatt 9 der Illustrationsfolge "Utopia: Dokumente der Wirklichkeit" von Itten",
+            "artwork" : "Der Großinquisitor. Kompositionsanalyse, Blatt 9 der Illustrationsfolge _Utopia: Dokumente der Wirklichkeit_ von Itten",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128489&viewType=detailView",
@@ -7469,7 +7469,7 @@
             "coordinates" : ["50.9785614014", "11.3177604675"]},
         "properties" : {
             "artist" : "Itten, Johannes",
-            "artwork" : "Der Großinquisitor. Spruch, Blatt 10 der Illustrationsfolge "Utopia: Dokumente der Wirklichkeit" von Itten",
+            "artwork" : "Der Großinquisitor. Spruch, Blatt 10 der Illustrationsfolge _Utopia: Dokumente der Wirklichkeit_ von Itten",
             "date" : "1921",
             "location" : "Weimar, Klassik Stiftung Weimar",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=128490&viewType=detailView",
@@ -7525,7 +7525,7 @@
             "coordinates" : ["52.5079803467", "13.3671503067"]},
         "properties" : {
             "artist" : "Jaeckel, Willy",
-            "artwork" : "Der Judas-Kuß, Blatt 5 der Mappe "Die Matthäus-Passion" von Jaeckel",
+            "artwork" : "Der Judas-Kuß, Blatt 5 der Mappe _Die Matthäus-Passion_ von Jaeckel",
             "date" : "1920",
             "location" : "Berlin, Kupferstichkabinett",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116421&viewType=detailView",
@@ -7553,7 +7553,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Jaeckel, Willy",
-            "artwork" : "Hiob sieht einen Regenbogen, Blatt 7 zu "Das Buch Hiob", Erich Reiß Verlag, Berlin, 1917",
+            "artwork" : "Hiob sieht einen Regenbogen, Blatt 7 zu _Das Buch Hiob_, Erich Reiß Verlag, Berlin, 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116410&viewType=detailView",
@@ -7567,7 +7567,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Jaeckel, Willy",
-            "artwork" : "Hiob, in einer Landschaft kniend, Blatt zu "Das Buch Hiob", Erich Reiß Verlag Berlin, 1917",
+            "artwork" : "Hiob, in einer Landschaft kniend, Blatt zu _Das Buch Hiob_, Erich Reiß Verlag Berlin, 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116411&viewType=detailView",
@@ -7581,7 +7581,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Jaeckel, Willy",
-            "artwork" : "Hiob und seine Familie, Blatt 2 zu "Das Buch Hiob", Erich Reiß Verlag, Berlin, 1917",
+            "artwork" : "Hiob und seine Familie, Blatt 2 zu _Das Buch Hiob_, Erich Reiß Verlag, Berlin, 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116412&viewType=detailView",
@@ -7595,7 +7595,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Jaeckel, Willy",
-            "artwork" : "Hiob im Gebet, Blatt 11 der Illustrationen zu: "Das Buch Hiob", Erich Reiß Verlag, Berlin, 1917",
+            "artwork" : "Hiob im Gebet, Blatt 11 der Illustrationen zu: _Das Buch Hiob_, Erich Reiß Verlag, Berlin, 1917",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116413&viewType=detailView",
@@ -7763,7 +7763,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Kandinsky, Wassily",
-            "artwork" : "Komposition, Blatt 8 der 4. Mappe "Neue europäische Graphik. Italienische und russische Künstler", Bauhaus Drucke, Weimar 1924",
+            "artwork" : "Komposition, Blatt 8 der 4. Mappe _Neue europäische Graphik. Italienische und russische Künstler_, Bauhaus Drucke, Weimar 1924",
             "date" : "1922",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116836&viewType=detailView",
@@ -7847,7 +7847,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Kanoldt, Alexander",
-            "artwork" : "Olevano V, Blatt 8 der Mappe "5. Jahresgabe des Kreises graphischer Künstler und Sammler"",
+            "artwork" : "Olevano V, Blatt 8 der Mappe _5. Jahresgabe des Kreises graphischer Künstler und Sammler_",
             "date" : "1925",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=132080&viewType=detailView",
@@ -8001,7 +8001,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Baur-Nütten, Gisela",
-            "artwork" : "Pieta ("Leid Dein - Leid Mein")",
+            "artwork" : "Pieta (_Leid Dein - Leid Mein_)",
             "date" : "1925",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=110325&viewType=detailView",
@@ -8113,7 +8113,7 @@
             "coordinates" : ["54.0873985291", "12.1329498291"]},
         "properties" : {
             "artist" : "Kaus, Max",
-            "artwork" : "Sieger mit Hund und schwarzer Fahne (Illustration zu: "Dumpfe Trommel und berauschtes Gong" von Klabund)",
+            "artwork" : "Sieger mit Hund und schwarzer Fahne (Illustration zu: _Dumpfe Trommel und berauschtes Gong_ von Klabund)",
             "date" : "1917",
             "location" : "Rostock, Kulturhistorisches Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=116926&viewType=detailView",
@@ -8673,7 +8673,7 @@
             "coordinates" : ["34.0627098083", "-118.358840942"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Titel zu "Petrarka, Triumph der Liebe"",
+            "artwork" : "Titel zu _Petrarka, Triumph der Liebe_",
             "date" : "1911",
             "location" : "Los Angeles, Los Angeles County Museum of Art",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=117366&viewType=detailView",
@@ -8701,7 +8701,7 @@
             "coordinates" : ["39.9574890137", "-95.9718933105"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Titelblatt der Mappe "Petrarka, Triumpf der Liebe" mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
+            "artwork" : "Titelblatt der Mappe _Petrarka, Triumpf der Liebe_ mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
             "date" : "1918",
             "location" : "Bern, Galerie Kornfeld und Cie.",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=117353&viewType=detailView",
@@ -8715,7 +8715,7 @@
             "coordinates" : ["39.9574890137", "-95.9718933105"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Anziehung und Abstoßung, Blatt 2 der Mappe "Petrarka, Triumpf der Liebe" mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
+            "artwork" : "Anziehung und Abstoßung, Blatt 2 der Mappe _Petrarka, Triumpf der Liebe_ mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
             "date" : "1918",
             "location" : "Bern, Galerie Kornfeld und Cie.",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=117368&viewType=detailView",
@@ -8743,7 +8743,7 @@
             "coordinates" : ["39.9574890137", "-95.9718933105"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Mann und Weib zusammen vor den Menschen (Die Vorstellung), Blatt 3 der Mappe "Petrarka, Triumpf der Liebe" mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
+            "artwork" : "Mann und Weib zusammen vor den Menschen (Die Vorstellung), Blatt 3 der Mappe _Petrarka, Triumpf der Liebe_ mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
             "date" : "1918",
             "location" : "Bern, Galerie Kornfeld und Cie.",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=117370&viewType=detailView",
@@ -8757,7 +8757,7 @@
             "coordinates" : ["39.9574890137", "-95.9718933105"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Die Besiegung des Weibes durch den Mann, Blatt 4 der Mappe "Petrarka, Triumpf der Liebe" mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
+            "artwork" : "Die Besiegung des Weibes durch den Mann, Blatt 4 der Mappe _Petrarka, Triumpf der Liebe_ mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
             "date" : "1918",
             "location" : "Bern, Eberhard W. Kornfeld",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=117371&viewType=detailView",
@@ -8771,7 +8771,7 @@
             "coordinates" : ["39.9574890137", "-95.9718933105"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Die Entselbstung des Mannes, Blatt 6 der Mappe "Petrarka, Triumpf der Liebe" mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
+            "artwork" : "Die Entselbstung des Mannes, Blatt 6 der Mappe _Petrarka, Triumpf der Liebe_ mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
             "date" : "1918",
             "location" : "Bern, Eberhard W. Kornfeld",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=117372&viewType=detailView",
@@ -8785,7 +8785,7 @@
             "coordinates" : ["39.9574890137", "-95.9718933105"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Die Entselbstung des Weibes, Blatt 7 der Mappe "Petrarka, Triumpf der Liebe" mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
+            "artwork" : "Die Entselbstung des Weibes, Blatt 7 der Mappe _Petrarka, Triumpf der Liebe_ mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
             "date" : "1918",
             "location" : "Bern, Eberhard W. Kornfeld",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=117373&viewType=detailView",
@@ -8799,7 +8799,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Titelblatt der Mappe "Absalom" von Kirchner",
+            "artwork" : "Titelblatt der Mappe _Absalom_ von Kirchner",
             "date" : "1918",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131465&viewType=detailView",
@@ -8813,7 +8813,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "David und Absalom, Blatt 1 der Mappe "Absalom" von Kirchner",
+            "artwork" : "David und Absalom, Blatt 1 der Mappe _Absalom_ von Kirchner",
             "date" : "1918",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126683&viewType=detailView",
@@ -8827,7 +8827,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Absalom entzweit sich mit seinem Vater, Blatt 2 der Mappe "Absalom" von Kirchner",
+            "artwork" : "Absalom entzweit sich mit seinem Vater, Blatt 2 der Mappe _Absalom_ von Kirchner",
             "date" : "1918",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126685&viewType=detailView",
@@ -8841,7 +8841,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Absalom und seine Ratgeber, Blatt 3 der Mappe "Absalom" von Kirchner",
+            "artwork" : "Absalom und seine Ratgeber, Blatt 3 der Mappe _Absalom_ von Kirchner",
             "date" : "1918",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126687&viewType=detailView",
@@ -8855,7 +8855,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Absalom schändet die Kebsweiber seines Vaters, Blatt 4 der Mappe "Absalom" von Kirchner",
+            "artwork" : "Absalom schändet die Kebsweiber seines Vaters, Blatt 4 der Mappe _Absalom_ von Kirchner",
             "date" : "1918",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126688&viewType=detailView",
@@ -8869,7 +8869,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Absalom spricht Recht an seines Vaters statt, Blatt 5 der Mappe "Absalom" von Kirchner",
+            "artwork" : "Absalom spricht Recht an seines Vaters statt, Blatt 5 der Mappe _Absalom_ von Kirchner",
             "date" : "1918",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126689&viewType=detailView",
@@ -8883,7 +8883,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Absaloms Tod, Blatt 6 der Mappe "Absalom" von Kirchner",
+            "artwork" : "Absaloms Tod, Blatt 6 der Mappe _Absalom_ von Kirchner",
             "date" : "1918",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126690&viewType=detailView",
@@ -8897,7 +8897,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "David klagt um Absalom, Blatt 7 der Mappe "Absalom" von Kirchner",
+            "artwork" : "David klagt um Absalom, Blatt 7 der Mappe _Absalom_ von Kirchner",
             "date" : "1918",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=117374&viewType=detailView",
@@ -8911,7 +8911,7 @@
             "coordinates" : ["48.1446113586", "11.5661401749"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Schlußvignette der Mappe "Absalom" von Kirchner",
+            "artwork" : "Schlußvignette der Mappe _Absalom_ von Kirchner",
             "date" : "1918",
             "location" : "München, Staatliche Graphische Sammlung",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=131466&viewType=detailView",
@@ -9289,7 +9289,7 @@
             "coordinates" : ["47.369178772", "8.56669998169"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Das Eisenbahnunglück; zu Zola "La bete humaine", Bl. 2",
+            "artwork" : "Das Eisenbahnunglück; zu Zola _La bete humaine_, Bl. 2",
             "date" : "1914",
             "location" : "Zürich, Coninx-Museum",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=117469&viewType=detailView",
@@ -9429,7 +9429,7 @@
             "coordinates" : ["39.9574890137", "-95.9718933105"]},
         "properties" : {
             "artist" : "Kirchner, Ernst Ludwig",
-            "artwork" : "Die ewige Sehnsucht, Blatt 8 der Mappe "Petrarka, Triumpf der Liebe" mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
+            "artwork" : "Die ewige Sehnsucht, Blatt 8 der Mappe _Petrarka, Triumpf der Liebe_ mit 8 Holzschnitten und Titelholzschnitt von Kirchner",
             "date" : "1918",
             "location" : "Bern, Eberhard W. Kornfeld",
             "url" : "http://emuseum.campus.fu-berlin.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=126301&viewType=detailView",
