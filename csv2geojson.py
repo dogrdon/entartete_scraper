@@ -58,8 +58,23 @@ output += \
 }
     '''
     
+#replace last part, to close and validate json
+wrong = \
+    '''\
+        },
+         ]
+}
+    '''
+#--to--
+right = \
+    '''\
+        }
+         ]
+}
+    '''
+    
 
-output = output.replace(output[-15], '')
+output = output.replace(wrong, right)
     
 #open a new file and dump contents from above
 outFile = open("./data/entartete_kunst_geocoded_bing2.geojson", "w")
