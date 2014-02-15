@@ -58,7 +58,7 @@ output += \
 }
     '''
     
-#replace last part, to close and validate json - not working
+#replace last part, to close and validate json
 wrong = \
     '''\
         },
