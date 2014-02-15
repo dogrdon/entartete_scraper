@@ -58,7 +58,7 @@ output += \
 }
     '''
     
-#replace last part, to close and validate json
+#replace last part, to close and validate json - not working
 wrong = \
     '''\
         },
@@ -72,7 +72,7 @@ right = \
          ]
 }
     '''
-output.replace(wrong, right)
+output = output.replace(wrong, right)
     
 #open a new file and dump contents from above
 outFile = open("./data/entartete_kunst_geocoded.geojson", "w")
