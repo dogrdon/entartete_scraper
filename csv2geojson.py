@@ -9,7 +9,7 @@ import csv
 
 headers = ['artist_id', 'catalog_id', 'db_id', 'loss_thru', 'artwork_title', 'location', 'date_lost', 'material', 'ek_inven_id', 'uri', 'art_form', 'envelope', 'work_status', 'db_title', 'date', 'copyright', 'inv_orig', 'env_part', 'thumb_url', 'museum_orig', 'artist', 'lat', 'lng']
 
-file = csv.reader(open('./data/entartete_kunst_geocoded.csv', 'rb'))
+file = csv.reader(open('./data/entartete_kunst_geocoded_bing2.csv', 'rb'))
 
 template = \
     ''' \
@@ -75,6 +75,6 @@ right = \
 output = output.replace(wrong, right)
     
 #open a new file and dump contents from above
-outFile = open("./data/entartete_kunst_geocoded.geojson", "w")
+outFile = open("./data/entartete_kunst_geocoded_bing2.geojson", "w")
 outFile.write(output)
 outFile.close()
