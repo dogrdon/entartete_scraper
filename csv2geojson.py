@@ -40,15 +40,15 @@ for row in file:
     count += 1
     if count >= 2:
         art_id = row[2]
-        lat = row[21]
-        lng = row[22]
-        artist = row[20]
-        artwork = row[4]
-        date = row[14]
-        location = row[5]
-        url = row[9]
-        img_src = row[18]
-        status = row[12]
+        lat = row[22]
+        lng = row[23]
+        artist = row[21]
+        artwork = row[5]
+        date = row[15]
+        location = row[6]
+        url = row[10]
+        img_src = row[19]
+        status = row[13]
         output += template % (art_id, lng, lat, artist, artwork, date, location, url, img_src, status)
 
         
@@ -58,21 +58,8 @@ output += \
 }
     '''
     
-#replace last part, to close and validate json
-wrong = \
-    '''\
-        },
-         ]
-}
-    '''
-#--to--
-right = \
-    '''\
-        }
-         ]
-}
-    '''
-output = output.replace(wrong, right)
+
+output = output.replace(output[-15], '')
     
 #open a new file and dump contents from above
 outFile = open("./data/entartete_kunst_geocoded_bing2.geojson", "w")
