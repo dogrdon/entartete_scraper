@@ -1,0 +1,6 @@
+Auberjonois, René -> Auberjonois, Ren\xc3\xa9
+Bäumer, Eduard -> B\xc3\xa4umer, Eduard
+Baur-Nütten, Gisela -> Baur-N\xc3\xbctten, Gisela
+Bösken, Lorenz -> B\xc3\xb6sken, Lorenz
+Čapek, Josef -> \xc4\x8capek, Josef
+Großmann, Rudolf -> Gro\xc3\x9fmann, Rudolf
