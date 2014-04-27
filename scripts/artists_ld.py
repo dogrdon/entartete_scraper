@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-
 from rdflib import Graph, URIRef
 import csv
 import io
@@ -53,16 +52,20 @@ def create_uri(artist_name):
 
   name = artist_name.split(",")
 
-  uri_name = u"%s_%s" % (name[1].encode('utf-8').strip(), name[0].encode('utf-8').strip())
+  uri_name = "%s_%s" % (name[1].strip(), name[0].strip())
 
-  uri = _DBP_BASE + uri_name
+  uri = "http://dbpedia.org/resource/" + uri_name
 
   #return uri
   print uri
 
-create_uri('Name, Non_Accent')
-create_uri('Auberjonois, René')
+names = ['Djablowme, Heywood', 'Spectable, Hernest', 'Auberjonois, René']
 
-if __name__ == "__main__":
-  g = Graph()
-  get_artist_uris()
+for i in names:
+
+  create_uri(i)
+
+
+#if __name__ == "__main__":
+#  g = Graph()
+#  get_artist_uris()
