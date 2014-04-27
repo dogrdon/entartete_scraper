@@ -1,12 +1,11 @@
 id,artist
-0,
 1,"Abbo, Jussuf"
 2,"Achmann, Josef"
 3,"Adler, Jankel"
 4,"Albers, Josef"
 5,"Altherr, Heinrich"
 6,"Angrand, Charles"
-7,Anhalzer
+7,"!Anhalzer"
 8,"Annot-Jacobi, Maria"
 9,"Archipenko, Alexander"
 10,"Arnold, B"
@@ -91,7 +90,7 @@ id,artist
 89,"Chirico, Giorgio de"
 90,"Cissarz, Johann Vinzenz"
 91,"Coester, Otto"
-92,Cohn
+92,"!Cohn"
 93,"Cohn-Wiener, Ernst"
 94,"Corinth, Lovis"
 95,"Crodel, Charles"
@@ -211,7 +210,7 @@ id,artist
 209,"Grosz, George"
 210,"Grundig, Hans"
 211,"Grünfeldt, Paula"
-212,Gunzinger
+212,"!Gunzinger"
 213,"Gütersloh, Albert Paris von"
 214,"Haberfeld, Alfred"
 215,"Haberfeld, Julius"
@@ -331,7 +330,7 @@ id,artist
 329,"Kollwitz, Käthe"
 330,"König, Leo von"
 331,"Kost, Julius"
-332,Köster = Otto Coester?
+332,"!Köster = Otto Coester?"
 333,"Kowalski, Ludwig Peter"
 334,"Krauskopf, Bruno"
 335,"Kreidt, Hermann"
@@ -344,7 +343,7 @@ id,artist
 342,"Kuhn, Alfred"
 343,"Kuhn, Erich"
 344,"Kuisl, Josef"
-345,Kunowski
+345,"!Kunowski"
 346,"Kunstreich, Siegfried"
 347,"Kunze, Erich"
 348,"Küpper, Will"
@@ -415,7 +414,7 @@ id,artist
 413,"Molzahn, Johannes"
 414,"Mondrian, Piet"
 415,"Montanari, Giuseppe"
-416,Monticelli
+416,"!Monticelli"
 417,"Moor, Henrik"
 418,"Moore, Henry"
 419,"Morgner, Wilhelm"
@@ -441,7 +440,7 @@ id,artist
 439,"Oberländer, Hans Emil"
 440,"Oeltjen-Kasimir, Elsa"
 441,"Oeltjen, Jan"
-442,Olms
+442,"!Olms"
 443,"Opfermann, Karl"
 444,"Ophey, Walter"
 445,"Orlowski, Hans"
@@ -457,7 +456,7 @@ id,artist
 455,"Peiffer-Watenphul, Max"
 456,"Peiner, Werner"
 457,"Pellegrini, Alfred Heinrich"
-458,Pfeifer-Calwey
+458,"!Pfeifer-Calwey"
 459,"Philipp, Wilhelm"
 460,"Picasso, Pablo"
 461,"Pieper, Josef"
@@ -547,7 +546,7 @@ id,artist
 545,"Schröers, Hans"
 546,"Schubert, Otto"
 547,"Schuftan, Käthe"
-548,Schule Bertold Löffler
+548,"!Schule Bertold Löffler"
 549,"Schulsinger, Jechiel"
 550,"Schulte im Hofe, Rudolf"
 551,"Schulze-Sölde, Max"
@@ -647,7 +646,7 @@ id,artist
 645,"Weber, Otto Friedrich"
 646,"Wecus, Walter von"
 647,"Wedderkop, Hermann von"
-648,Weichmüller
+648,"!Weichmüller"
 649,"Weinzheimer, Friedrich August"
 650,"Weiss, Emil Rudolf"
 651,"Weisz, Josef"

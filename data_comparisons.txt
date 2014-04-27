@@ -1,3 +1,20 @@
+Issue 1: Artists Table has 10 incomplete or malfornmed names:
+
+  7,Anhalzer
+  92,Cohn
+  212,Gunzinger = http://www.artprice.com/artist/141366/eduard-gunzinger?
+  332,Köster = Otto Coester?
+  345,Kunowski = http://cs.wikipedia.org/wiki/Wanda_von_Debschitz-Kunowski?
+  416,Monticelli = http://en.wikipedia.org/wiki/Adolphe_Joseph_Thomas_Monticelli?
+  42,Olms
+  458,Pfeifer-Calwey
+  548,Schule Bertold Löffler = http://en.wikipedia.org/wiki/Bertold_L%C3%B6ffler?
+  648,Weichmüller
+
+
+
+
+Data Comparisons (Feb-Apr) - Result: Same data.
 
 //FEB//
                              work_status

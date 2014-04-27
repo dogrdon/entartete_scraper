@@ -15,7 +15,7 @@ This script is used to grad additional information about each artist in the ~/da
 '''
 
 
-_DBP_BASE = 'http://dbpedia.org/page/'
+_DBP_BASE = 'http://dbpedia.org/resource/'
 
 def get_artist_uris():
   '''
@@ -28,8 +28,10 @@ def get_artist_uris():
       if row[1].startswith('!'):
         pass
       else:
-        print create_uri(row[1])
+        g.parse(create_uri(row[1]).encode('UTF-8'))
+
       #print row[1]
+    print "your rdf graph is: ", len(g), "long"
 
 
 def create_uri(artist_name):
@@ -45,4 +47,9 @@ def create_uri(artist_name):
 
   return uri
 
-get_artist_uris()
+
+
+
+if __name__ == "__main__":
+  g = Graph()
+  get_artist_uris()
