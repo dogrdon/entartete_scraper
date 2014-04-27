@@ -1,0 +1,61 @@
+
+//FEB//
+                             work_status
+ unbekannt                         :5859
+ zerstört                          :1723
+ Rostock, Kulturhistorisches Museum: 572
+ Berlin, Kupferstichkabinett       : 335
+ Privatbesitz                      : 251
+ (Other)                           :1599
+ NA's                              :   2
+
+                                                          loss_thru
+ Beschlagnahme                                                 :10145
+ Tausch                                                        :   46
+ Verkauf                                                       :   31
+ Beschlagnahme aus dem Magazin                                 :   14
+ Beschlagnahme, aber von Halle nicht ausgeliefert am 21.08.1937:   14
+ (Other)                                                       :   27
+ NA's                                                          :   64
+
+
+                                                                 location
+ unbekannt                                                           :5939
+ Rostock, Kulturhistorisches Museum                                  : 603
+ Berlin, Kupferstichkabinett                                         : 344
+ Privatbesitz                                                        : 252
+ München, Bayerische Staatsgemäldesammlungen – Pinakothek der Moderne: 148
+ (Other)                                                             :1306
+ NA's                                                                :1749
+
+
+//APR//
+
+                             work_status
+ unbekannt                         :5859
+ zerstört                          :1723
+ Rostock, Kulturhistorisches Museum: 572
+ Berlin, Kupferstichkabinett       : 335
+ Privatbesitz                      : 251
+ (Other)                           :1599
+ NA's                              :   2
+
+
+                                                          loss_thru
+ Beschlagnahme                                                 :10145
+ Tausch                                                        :   46
+ Verkauf                                                       :   31
+ Beschlagnahme aus dem Magazin                                 :   14
+ Beschlagnahme, aber von Halle nicht ausgeliefert am 21.08.1937:   14
+ (Other)                                                       :   27
+ NA's                                                          :   64
+
+
+                                                                 location
+ unbekannt                                                           :5939
+ Rostock, Kulturhistorisches Museum                                  : 603
+ Berlin, Kupferstichkabinett                                         : 344
+ Privatbesitz                                                        : 252
+ München, Bayerische Staatsgemäldesammlungen – Pinakothek der Moderne: 148
+ (Other)                                                             :1306
+ NA's                                                                :1749
