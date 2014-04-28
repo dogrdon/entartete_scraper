@@ -11,10 +11,12 @@ Issue 1: Artists Table has 10 incomplete or malformed names:
   548,Schule Bertold Löffler = http://en.wikipedia.org/wiki/Bertold_L%C3%B6ffler?
   648,Weichmüller
 
-Issue 1: Artists Table has character encoding problem:
+Issue 2: Artists Table has character encoding problem:
 
   starts to choke on `14,"Auberjonois, René"`
     `UnicodeEncodeError: 'ascii' codec can't encode character u'\xe9' in position 17: ordinal not in range(128)`
+
+Issue 3: Three name names (and René Auberjonois is actually René Victor Auberjonois).
 
 
 Data Comparisons (Feb-Apr) - Result: Same data.
