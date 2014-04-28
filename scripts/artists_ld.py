@@ -7,6 +7,7 @@ import io
 import os
 from repr import repr
 import urllib
+import time
 
 
 '''
@@ -21,6 +22,15 @@ This script is used to grad additional information about each artist in the ~/da
 
 
 _DBP_BASE = "http://dbpedia.org/resource/"
+
+
+def read_graph(graph):
+
+  for stmt in graph.subject_objects(URIRef("http://dbpedia.org/ontology/movement")):
+    print str(stmt[0]), 'was part of the', str(stmt[1]), 'movement'
+
+
+
 
 def get_artist_uris():
   '''
@@ -40,8 +50,13 @@ def get_artist_uris():
 
         print "your rdf graph is: ", len(g), "long"
 
-        #print repr(row[1])
-    #print "your rdf graph is: ", len(g), "long"
+
+    print 'generating graph...'
+    time.sleep(10)
+
+
+
+    return g
 
 
 def create_uri(artist_name):
@@ -66,3 +81,4 @@ def create_uri(artist_name):
 if __name__ == "__main__":
   g = Graph()
   get_artist_uris()
+  read_graph(g)
