@@ -6,6 +6,7 @@ import csv
 import io
 import os
 from repr import repr
+import urllib
 
 
 '''
@@ -54,18 +55,14 @@ def create_uri(artist_name):
 
   uri_name = "%s_%s" % (name[1].strip(), name[0].strip())
 
-  uri = "http://dbpedia.org/resource/" + uri_name
+  uri_name_esc = urllib.quote(uri_name) #hacky work around for unicode problems
 
-  #return uri
-  print uri
+  uri = "http://dbpedia.org/resource/" + uri_name_esc
 
-names = ['Djablowme, Heywood', 'Spectable, Hernest', 'Auberjonois, René']
-
-for i in names:
-
-  create_uri(i)
+  return uri
 
 
-#if __name__ == "__main__":
-#  g = Graph()
-#  get_artist_uris()
+
+if __name__ == "__main__":
+  g = Graph()
+  get_artist_uris()
