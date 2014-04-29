@@ -8,7 +8,7 @@ import os
 from repr import repr
 import urllib
 import time
-
+from datetime import datetime
 
 '''
 This script is used to grad additional information about each artist in the ~/data/degenerate_artisists.csv file such as:
@@ -20,6 +20,7 @@ This script is used to grad additional information about each artist in the ~/da
   -nationality and much, much more.
 '''
 
+filenamern = '../data/artists-'+datetime.now().isoformat()+'.rdf'
 
 _DBP_BASE = "http://dbpedia.org/resource/"
 
@@ -32,18 +33,27 @@ def read_graph(graph):
 
 
 
+
+
 def get_artist_uris():
   '''
   Loop through artist names and get their uris made in quick succession
   '''
   with open('../data/apr-2014/degenerate_artists.csv', 'rb') as file:
+
+    print 'this will print to', filenamern, 'when finished'
+
+    time.sleep(4)
+
+
     r = csv.reader(file)
 
     r.next() #skip the header
     for row in r:
       if row[1].startswith('!'):
         pass
-      else:
+      #else:
+      if row[1].startswith('A'):
         print "now adding record for: ", row[1]
 
         g.parse(create_uri(row[1]))
@@ -52,9 +62,17 @@ def get_artist_uris():
 
 
     print 'generating graph...'
-    time.sleep(10)
+    time.sleep(5)
+    print 'saving graph as rdf file'
+    time.sleep(5)
 
-
+    with open(filenamern, 'w') as ld:
+      ld.write(g.serialize(format='xml'))
+      ld.close
+    #try:
+    #  g.serialize(filenamern, format='pretty-xml')
+    #except Exception as err:
+    #  print 'you got an error:', err
 
     return g
 
