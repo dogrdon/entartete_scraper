@@ -70,6 +70,8 @@ def create_uri(artist_name):
 
   uri_name = "%s_%s" % (name[1].strip(), name[0].strip())
 
+  uri_name = uri_name.replace(' ', '_')
+
   uri_name_esc = urllib.quote(uri_name) #hacky work around for unicode problems
 
   uri = "http://dbpedia.org/resource/" + uri_name_esc
