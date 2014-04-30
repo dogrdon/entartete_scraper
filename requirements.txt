@@ -4,7 +4,8 @@ html5lib==0.999
 isodate==0.5.0
 lxml==3.3.1
 mechanize==0.2.5
-pyparsing==2.0.2
+pyparsing==1.5.7
+rdfextras==0.4
 rdflib==4.1.2
 requests==2.2.1
 six==1.6.1

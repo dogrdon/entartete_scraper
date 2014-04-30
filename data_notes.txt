@@ -1,4 +1,4 @@
-Issue 1: Artists Table has 10 incomplete or malformed names:
+X_Issue 1: Artists Table has 10 incomplete or malformed names:
 
   7,Anhalzer
   92,Cohn
@@ -11,17 +11,35 @@ Issue 1: Artists Table has 10 incomplete or malformed names:
   548,Schule Bertold Löffler = http://en.wikipedia.org/wiki/Bertold_L%C3%B6ffler?
   648,Weichmüller
 
-Issue 2: Artists Table has character encoding problem:
+X_Issue 2: Artists Table has character encoding problem:
 
   starts to choke on `14,"Auberjonois, René"`
     `UnicodeEncodeError: 'ascii' codec can't encode character u'\xe9' in position 17: ordinal not in range(128)`
 
-Issue 3: Three name names (and René Auberjonois is actually René Victor Auberjonois).
+X_Issue 3: Three name names (and René Auberjonois is actually René Victor Auberjonois).
 
 Issue 4: How to get from graph to data in a csv file.
   0) I don't quite get RDF, it's very messy and cluttered, hard to tell how many discrete artists made it in. Maybe check if each URI has the proper result or not, flag that in the flat file.
   1) save the URI used to access the resource in the flat file
   2) match additional data on that URI
+
+Solution 1: Simple RDF Query
+
+  import rdflib
+
+  g = rdflib.Graph()
+
+  g.parse('./data/artists-2014-04-29_mini.rdf')
+
+  qry = g.query(
+       """PREFIX dbo: <http://dbpedia.org/ontology/>
+       SELECT ?m
+       WHERE {
+          ?person dbo:movement ?m .
+       }""")
+
+  for row in qry:
+      print row
 
 
 Data Comparisons (Feb-Apr) - Result: Same data.
