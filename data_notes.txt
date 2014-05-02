@@ -41,6 +41,13 @@ Solution 1: Simple RDF Query
   for row in qry:
       print row
 
+Solution 2: RDF Query for specific property of a specific artist
+  qry_specfic = g.query(
+     """SELECT DISTINCT ?o
+     WHERE {
+         <http://dbpedia.org/resource/Josef_Albers> <http://dbpedia.org/property/placeOfDeath> ?o .
+     }""")
+
 
 Data Comparisons (Feb-Apr) - Result: Same data.
 
