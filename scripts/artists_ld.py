@@ -11,13 +11,7 @@ import time
 from datetime import datetime
 
 '''
-This script is used to grad additional information about each artist in the ~/data/degenerate_artisists.csv file such as:
-  -movement they were associated with
-  -influences
-  -influenced
-  -dates of birth/death
-  -whether they have a wikipedia record or not
-  -nationality and much, much more.
+This script goes through our set of artist names, goes to dbpedia and pulls down each of there resources into a triple store .rdf file
 '''
 
 filenamern = '../data/artists-'+datetime.now().isoformat()+'.rdf'
