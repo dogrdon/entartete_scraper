@@ -27,3 +27,28 @@ This script is used to take our csv list of artists and our new rdf grapch and g
   - if nothing, make a note of it
   - where should we be logging the fact that some artists will not have db
 '''
+
+
+g = Graph()
+
+g.parse('../data/artists_mini.rdf')
+
+qry = g.query(
+     """PREFIX dbo: <http://dbpedia.org/ontology/>
+     SELECT ?person ?m ?dob ?dod ?n ?img
+     WHERE {
+        ?person dbo:movement ?m .
+        ?person dbo:birthDate ?dob .
+        ?person dbo:deathDate ?dod .
+        ?person dbo:nationality ?n .
+        ?person dbo:thumbnail ?img
+     }""")
+
+for row in qry:
+    artist = row[0]
+    movement = row[1]
+    dob = row[2]
+    dod = row[3]
+    nation = row[4]
+
+    print '%s, from %s, was born %s and died %s' % (artist, nation, dob, dod)
