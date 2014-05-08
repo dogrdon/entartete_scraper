@@ -1,23 +1,17 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-from rdflib import Graph, URIRef
 import csv
-import io
-import os
-from repr import repr
-import urllib
-import time
-from datetime import datetime
-
+import lxml.html
+import requests
 
 '''
-This script is used to take our csv list of artists and our new rdf grapch and grab additional information about each artist in the ~/data/degenerate_artisists.csv file such as:
+This script is used to take our csv list of artists and grab additional information about each artist from their dbpedia resource such as:
   -movement they were associated with
-  -influences
-  -influenced
+  -influences?
+  -influenced?
   -dates of birth/death
-  -whether they have a wikipedia record or not
+  -whether they have a wikipedia record or not, in the first place
   -nationality and much, much more.
 '''
 
@@ -29,26 +23,39 @@ This script is used to take our csv list of artists and our new rdf grapch and g
 '''
 
 
-g = Graph()
+with open('../data/artists_ld.csv', 'r') as file:
+  r = csv.reader(file)
+  w = csv.writer(open('../data/artists_full.csv', 'w'))
 
-g.parse('../data/artists_mini.rdf')
+  header = r.next()
 
-qry = g.query(
-     """PREFIX dbo: <http://dbpedia.org/ontology/>
-     SELECT ?person ?m ?dob ?dod ?n ?img
-     WHERE {
-        ?person dbo:movement ?m .
-        ?person dbo:birthDate ?dob .
-        ?person dbo:deathDate ?dod .
-        ?person dbo:nationality ?n .
-        ?person dbo:thumbnail ?img
-     }""")
+  header.extend(['ntnl', 'mvmnt'])
 
-for row in qry:
-    artist = row[0]
-    movement = row[1]
-    dob = row[2]
-    dod = row[3]
-    nation = row[4]
+  w.writerow(header)
 
-    print '%s, from %s, was born %s and died %s' % (artist, nation, dob, dod)
+  for row in r:
+
+    if row[2] != 'nA':
+
+
+      dom = lxml.html.fromstring(requests.get(row[2]).content)
+      mvmnt = []
+      ntnl = []
+      if dom.cssselect('a[rel="dbpedia-owl:movement"]'):
+        for a in dom.cssselect('a[rel="dbpedia-owl:movement"]'):
+          mvmnt.append(a.text_content().split(':')[1])
+      else:
+        mvmnt.append('nA')
+
+      if dom.cssselect('a[rel="dbpedia-owl:nationality"]'):
+        for a in dom.cssselect('a[rel="dbpedia-owl:nationality"]'):
+          ntnl.append(a.text_content().split(':')[1])
+      else:
+        ntnl.append('nA')
+
+      row.extend([str(u','.join(ntnl)), str(u','.join(mvmnt))])
+      w.writerow(row)
+
+      '''failing here
+      ["Expressionism", "Berlin_Secession", "Der_Blaue_Reiter", "Die_Brücke", "November_Group_(German)"]
+      '''

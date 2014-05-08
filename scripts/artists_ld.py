@@ -26,13 +26,11 @@ def read_graph(graph):
 
 
 
-
-
-
 def get_artist_uris():
   '''
   Loop through artist names and get their uris made in quick succession
   '''
+
   with open('../data/apr-2014/degenerate_artists.csv', 'rb') as file:
 
     print 'this will print to', filenamern, 'when finished'
@@ -41,20 +39,36 @@ def get_artist_uris():
 
 
     r = csv.reader(file)
+    w = csv.writer(open('../data/artists_ld.csv', 'w'))
 
-    r.next() #skip the header
+    header = r.next() #skip the header
+    header.extend(['uri'])
+
+    w.writerow(header)
+
     for row in r:
       if row[1].startswith('!'):
+
+        print 'nothing to add'
+        row.extend([str('nA')])
+        w.writerow(row)
         pass
-      #else:
-      if row[1].startswith('A'):
+      else:
+      #if row[1].startswith('A'):
         print "now adding record for: ", row[1]
 
-        g.parse(create_uri(row[1]))
+        this_uri = create_uri(row[1])
+
+        g.parse(this_uri)
 
         print "your rdf graph is: ", len(g), "long"
 
+        #add the uri to the new csv file
+        row.extend([str(this_uri)])
 
+        w.writerow(row)
+
+    '''
     print 'generating graph...'
     time.sleep(5)
     print 'saving graph as rdf file'
@@ -63,6 +77,8 @@ def get_artist_uris():
     with open(filenamern, 'w') as ld:
       ld.write(g.serialize(format='xml'))
       ld.close
+    '''
+
     #try:
     #  g.serialize(filenamern, format='pretty-xml')
     #except Exception as err:
@@ -95,4 +111,4 @@ def create_uri(artist_name):
 if __name__ == "__main__":
   g = Graph()
   get_artist_uris()
-  read_graph(g)
+  #read_graph(g)

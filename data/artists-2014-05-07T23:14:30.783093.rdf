@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+   xmlns:dbpprop="http://dbpedia.org/property/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns8="http://www.w3.org/ns/prov#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ren%C3%A9_Victor_Auberjonois">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Post-impressionistPainters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SwissPainters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <foaf:surname xml:lang="en">Auberjonois</foaf:surname>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1957-10-10</dbpedia-owl:deathDate>
+    <dbpedia-owl:abstract xml:lang="fr">René Victor Auberjonois, né le 18 août 1872 à Montagny-près-Yverdon et mort le 11 octobre 1957 à Lausanne, est un artiste peintre, dessinateur, caricaturiste et illustrateur vaudois.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageOutLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</dbpedia-owl:wikiPageOutLinkCount>
+    <dbpprop:caption xml:lang="en">Oil on canvas, 64 × 53 cm</dbpprop:caption>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/René_Auberjonois_(Maler)"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-artist-noun-1"/>
+    <dbpprop:shortDescription xml:lang="en">Swiss artist</dbpprop:shortDescription>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <dbpprop:field rdf:resource="http://dbpedia.org/resource/Graphic_arts"/>
+    <dbpprop:placeOfDeath xml:lang="en">Lausanne</dbpprop:placeOfDeath>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/René_Victor_Auberjonois?oldid=544047857"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <rdfs:label xml:lang="fr">René Auberjonois (peintre)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dbpprop:name xml:lang="en">Auberjonois, Rene Victor</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/René_Auberjonois_(peintre)"/>
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_C%C3%A9zanne"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Lausanne"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AlumniOfThe%C3%89coleDesBeaux-Arts"/>
+    <dbpedia-owl:abstract xml:lang="en">René Victor Auberjonois (18 August 1872 – 11 October 1957) was a post-Impressionist Swiss painter and one of the leading Swiss artists of the 20th century.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="en">René Victor Auberjonois (18 August 1872 – 11 October 1957) was a post-Impressionist Swiss painter and one of the leading Swiss artists of the 20th century.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347"/>
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Illustration"/>
+    <rdfs:label xml:lang="en">René Victor Auberjonois</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315"/>
+    <foaf:name xml:lang="en">Rene Victor Auberjonois</foaf:name>
+    <dbpprop:nationality rdf:resource="http://dbpedia.org/resource/Switzerland"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artcyclopedia.com/artists/auberjonois_rene.html"/>
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Painting"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1957-10-10</dbpprop:deathDate>
+    <dbpprop:field rdf:resource="http://dbpedia.org/resource/Painting"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Swiss_painters"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Lausanne"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/3/33/Portrait_de_l'_Artiste_-_René_Victor_Auberjonois.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <rdfs:comment xml:lang="fr">René Victor Auberjonois, né le 18 août 1872 à Montagny-près-Yverdon et mort le 11 octobre 1957 à Lausanne, est un artiste peintre, dessinateur, caricaturiste et illustrateur vaudois.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <dbpedia-owl:wikiPageInLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</dbpedia-owl:wikiPageInLinkCount>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_the_%C3%89cole_des_Beaux-Arts"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06mrp5"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1872_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor"/>
+    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/Kensington_School_of_Art"/>
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Switzerland"/>
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Caricature"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Portrait_de_l'_Artiste_-_René_Victor_Auberjonois.jpg/200px-Portrait_de_l'_Artiste_-_René_Victor_Auberjonois.jpg"/>
+    <rdfs:comment xml:lang="de">René Victor Auberjonois war ein Schweizer Maler.</rdfs:comment>
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Graphic_arts"/>
+    <rdfs:label xml:lang="de">René Auberjonois (Maler)</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1957_deaths"/>
+    <dbpprop:field rdf:resource="http://dbpedia.org/resource/Caricature"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/René_Victor_Auberjonois"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Lausanne"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Swiss_military_officers"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Lausanne"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ren%C3%A9_Victor_Auberjonois"/>
+    <dbpprop:training rdf:resource="http://dbpedia.org/resource/Kensington_School_of_Art"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/%C3%89cole_nationale_sup%C3%A9rieure_des_Beaux-Arts"/>
+    <dbpprop:birthName xml:lang="en">René Victor Auberjonois</dbpprop:birthName>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q683105"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Paul_C%C3%A9zanne"/>
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Post-Impressionism"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Post-impressionist_painters"/>
+    <foaf:name xml:lang="en">René Victor Auberjonois</foaf:name>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1872-08-17</dbpprop:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338"/>
+    <dc:description xml:lang="en">Swiss artist</dc:description>
+    <dbpprop:training rdf:resource="http://dbpedia.org/resource/%C3%89cole_nationale_sup%C3%A9rieure_des_Beaux-Arts"/>
+    <dbpprop:deathPlace xml:lang="en">Lausanne</dbpprop:deathPlace>
+    <dbpprop:field rdf:resource="http://dbpedia.org/resource/Illustration"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbpprop:dateOfDeath>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/René_Victor_Auberjonois"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">544047857</dbpedia-owl:wikiPageRevisionID>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/René_Victor_Auberjonois"/>
+    <dbpprop:name xml:lang="en">René Victor Auberjonois</dbpprop:name>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbpprop:dateOfBirth>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <foaf:givenName xml:lang="en">Rene Victor</foaf:givenName>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1872-08-17</dbpedia-owl:birthDate>
+    <dbpprop:caption xml:lang="en">Portrait de l' Artiste / Portrait of the Artist</dbpprop:caption>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2109603</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:abstract xml:lang="de">René Victor Auberjonois war ein Schweizer Maler.</dbpedia-owl:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Archipenko">
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1964-02-24</dbpprop:dateOfDeath>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emigrant110051975"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Alexander_Archipenko"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Kiev"/>
+    <dbpedia-owl:abstract xml:lang="pt">Alexander Porfyrovych Archipenko foi um artista plástico vanguardista ucraniano.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03b29d"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ukrainian_avant-garde"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RussianArtists"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Alexander_Archipenko"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cubist_artists"/>
+    <dbpedia-owl:abstract xml:lang="ja">アレクサンダー・アーキペンコ（英語式：Alexander Archipenko、ウクライナ語：Александр Порфирьевич Архипенко；, 1887年5月30日 - 1964年2月25日）はウクライナのキエフ出身（後にアメリカに移住）の彫刻家、グラフィック・アーティスト。キュビスムを志向したピュトー・グループのメンバー。 1902年から1905年までKiev Art Schoolで学ぶ。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Alexander Porfyrovych Archipenko (also referred to as Olexandr, Oleksandr, or Aleksandr) (May 30, 1887 – February 25, 1964) was a Ukrainian avant-garde artist, sculptor, and graphic artist.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="ja">アレクサンダー・アーキペンコ（英語式：Alexander Archipenko、ウクライナ語：Александр Порфирьевич Архипенко；, 1887年5月30日 - 1964年2月25日）はウクライナのキエフ出身（後にアメリカに移住）の彫刻家、グラフィック・アーティスト。キュビスムを志向したピュトー・グループのメンバー。 1902年から1905年までKiev Art Schoolで学ぶ。</rdfs:comment>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UkrainianSculptors"/>
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Aleksandar_Arhipenko"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromKiev"/>
+    <dbpprop:placeOfDeath xml:lang="en">New York City, New York</dbpprop:placeOfDeath>
+    <dbpedia-owl:abstract xml:lang="sv">Alexander Archipenko, född 30 maj 1887 i Kiev, Ukraina, död 25 februari 1964 i New York, USA, var en ukrainsk-amerikansk skulptör. Archipenko utgick från impressionismen, utvecklades genom stilismen, kubismen och konstruktivismen och företrädde på 1920-talet den yttersta "vänstern" inom skulpturen. Stora utställningar av hans verk ägde rum i Berlin 1922 och New York 1924, då han också bosatte sig i USA. Han kom 1908 till Paris, där han slöt sig till kretsen kring Picasso och blev en tidig förespråkare för den moderna, framför allt den kubistiska, skulpturen. I hans tidigare verk är naturformerna endast svagt skönjbara, men i de senare återvänder han till en mera realistisk uppfattning. Materialet är oftast sten eller metall. 1937 ingick hans verk i den nationalsocialistiska konstutställningen Entartete Kunst i München.</dbpedia-owl:abstract>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1887-05-29</dbpprop:birthDate>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Alexander_Archipenko"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Eastern_Orthodox_Christians_from_the_Russian_Empire"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Woodlawn_Cemetery_(Bronx)"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artcyclopedia.com/artists/archipenko_alexander.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sculptor110566072"/>
+    <rdfs:label xml:lang="pl">Alexander Archipenko</rdfs:label>
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_artists"/>
+    <foaf:name xml:lang="en">Alexander Archipenko</foaf:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artlover.com.ua/node/3199"/>
+    <dbpprop:deathPlace xml:lang="en">New York City, New York U.S.</dbpprop:deathPlace>
+    <rdfs:label xml:lang="de">Alexander Archipenko</rdfs:label>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alexander_Archipenko,_ca._1920,_Atelier_Riess,_photographer._Alexander_Archipenko_papers,_Archives_of_American_Art,_Smithsonian_Institution..jpg/200px-Alexander_Archipenko,_ca._1920,_Atelier_Riess,_photographer._Alexander_Archipenko_papers,_Archives_of_American_Art,_Smithsonian_Institution..jpg"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ukrainian_sculptors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1964_deaths"/>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Аляксандр_Парфір'евіч_Архіпенка"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_avant-garde"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Alexander_Archipenko"/>
+    <dbpedia-owl:wikiPageOutLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">119</dbpedia-owl:wikiPageOutLinkCount>
+    <dbpedia-owl:abstract xml:lang="fr">Alexander Archipenko est un sculpteur américain d'origine ukrainienne, né à Kiev en 1887 et mort à New York le 25 février 1964. Il se forme à la peinture et à la sculpture à Kiev et à Moscou. En 1908 il s'installe à Paris où il entre en contact avec les courants d'avant-garde, en particulier le groupe des cubistes. Il développe une expression plastique fondée sur les oppositions de lignes droites et courbes, verticales et obliques, de surfaces concaves et convexes, de vides et de pleins. Sa recherche sur les matières transparait dans ses "sculpto-peintures" et ses assemblages. Après la Première Guerre mondiale, il quitte la France pour l'Allemagne, puis les États-Unis où il poursuit une longue carrière d'enseignant.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="pl">Alexander Archipenko, Alexander Porfiryevich Archipenko (Olexandr, Oleksandr, lub Aleksandr) - ukraiński rzeźbiarz, rysownik, malarz, grafik i pedagog tworzący we Francji i Stanach Zjednoczonych.</rdfs:comment>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">544900736</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Alexander_Archipenko"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_sculptors"/>
+    <dbpedia-owl:abstract xml:lang="de">Alexander Archipenko war ein US-amerikanischer Bildhauer ukrainischer Herkunft. Er gehört zu den Wegbereitern der modernen Bildhauerei.</dbpedia-owl:abstract>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Kiev"/>
+    <dbpprop:shortDescription xml:lang="en">American artist</dbpprop:shortDescription>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Archives_of_American_Art_related"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdfs:label xml:lang="fr">Alexander Archipenko</rdfs:label>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Russian_Empire"/>
+    <rdfs:label xml:lang="pt">Alexander Archipenko</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbpprop:birthName xml:lang="en">Olexandr Porfyrovych Arkhypenko</dbpprop:birthName>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Alexander_Archipenko"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347"/>
+    <rdfs:comment xml:lang="de">Alexander Archipenko war ein US-amerikanischer Bildhauer ukrainischer Herkunft. Er gehört zu den Wegbereitern der modernen Bildhauerei.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Alexander Porfyrovitsch Archipenko, ook bekend als: Olexandr, Oleksandr, Aleksandr of Alexander was een Oekraïens-Amerikaans avant-gardistisch kunstenaar, beeldhouwer en grafisch ontwerper.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archipenko.org/pdfs/arch_essay.pdf"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <dbpprop:caption xml:lang="en">Archipenko around 1920</dbpprop:caption>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modern_sculptors"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor"/>
+    <dbpprop:name xml:lang="en">Archipenko, Alexander</dbpprop:name>
+    <dbpedia-owl:wikiPageInLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</dbpedia-owl:wikiPageInLinkCount>
+    <dbpprop:field rdf:resource="http://dbpedia.org/resource/Sculpture"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Alexander_Archipenko"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/4/4a/Alexander_Archipenko,_ca._1920,_Atelier_Riess,_photographer._Alexander_Archipenko_papers,_Archives_of_American_Art,_Smithsonian_Institution..jpg"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Alexander_Archipenko"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1887_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Oleksandr_Porfirovič_Arhipenko"/>
+    <rdfs:comment xml:lang="es">Oleksandr Porfírovich Arjípenko, fue un artista, escultor y artista gráfico ucraniano de vanguardia. Su nombre puede verse escrito, también, como Olexandr, Alexander, o Aleksandr, mientras que su apellido puede aparecer transcrito como Archipenko.</rdfs:comment>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Alexander_Archipenko?oldid=544900736"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-artist-noun-1"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CubistArtists"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1887-05-29</dbpedia-owl:birthDate>
+    <rdfs:label xml:lang="sv">Alexander Archipenko</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q157578"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1964-02-24</dbpprop:deathDate>
+    <rdfs:comment xml:lang="pt">Alexander Porfyrovych Archipenko foi um artista plástico vanguardista ucraniano.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <dbpprop:name xml:lang="en">Alexander Archipenko</dbpprop:name>
+    <rdfs:comment xml:lang="sv">Alexander Archipenko, född 30 maj 1887 i Kiev, Ukraina, död 25 februari 1964 i New York, USA, var en ukrainsk-amerikansk skulptör. Archipenko utgick från impressionismen, utvecklades genom stilismen, kubismen och konstruktivismen och företrädde på 1920-talet den yttersta "vänstern" inom skulpturen. Stora utställningar av hans verk ägde rum i Berlin 1922 och New York 1924, då han också bosatte sig i USA.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Migrant110314952"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPeopleOfUkrainianDescent"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archipenko.org/"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Alexander_Archipenko"/>
+    <dbpedia-owl:abstract xml:lang="ru">Александр Порфирьевич Архи́пенко – украинский и американский художник и скульптор, один из основателей кубизма в скульптуре.</dbpedia-owl:abstract>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Ukraine"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">770430</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Oleksandr_Arjípenko"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Alexander_Archipenko"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1887-05-29</dbpprop:dateOfBirth>
+    <rdfs:comment xml:lang="it">Studia scultura a Kiev e a Mosca; nel 1908 si trasferisce a Parigi e il suo stile è profondamente influenzato dai cubisti, in particolare Picasso e Léger. La sua scultura, molto dinamica, si struttura in un alternarsi di vuoti e pieni, concavi e convessi, linee rette e oblique. Nel 1914 mette a punto un'originale ricerca artistica, detta "Archipentura", che combinando insieme lamine colorate di materiali diversi ad un motore elettrico, dà un effetto di movimento alla superficie del quadro.</rdfs:comment>
+    <foaf:surname xml:lang="en">Archipenko</foaf:surname>
+    <dc:description xml:lang="en">American artist</dc:description>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_people_of_Ukrainian_descent"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Aleksander_Arhipenko"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+    <rdfs:comment xml:lang="fr">Alexander Archipenko est un sculpteur américain d'origine ukrainienne, né à Kiev en 1887 et mort à New York le 25 février 1964. Il se forme à la peinture et à la sculpture à Kiev et à Moscou. En 1908 il s'installe à Paris où il entre en contact avec les courants d'avant-garde, en particulier le groupe des cubistes. Il développe une expression plastique fondée sur les oppositions de lignes droites et courbes, verticales et obliques, de surfaces concaves et convexes, de vides et de pleins.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/ألكسندر_آرتشيبنكو"/>
+    <rdfs:label xml:lang="en">Alexander Archipenko</rdfs:label>
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Sculpture"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_American_Academy_of_Arts_and_Letters"/>
+    <rdfs:label xml:lang="ru">Архипенко, Александр Порфирьевич</rdfs:label>
+    <rdfs:label xml:lang="it">Alexander Archipenko</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ImperialRussianEmigrantsToTheUnitedStates"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/אלכסנדר_ארכיפנקו"/>
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Cubism"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanSculptors"/>
+    <dbpprop:training rdf:resource="http://dbpedia.org/resource/Kiev_Art_School"/>
+    <rdfs:comment xml:lang="en">Alexander Porfyrovych Archipenko (also referred to as Olexandr, Oleksandr, or Aleksandr) (May 30, 1887 – February 25, 1964) was a Ukrainian avant-garde artist, sculptor, and graphic artist.</rdfs:comment>
+    <dbpprop:elected rdf:resource="http://dbpedia.org/resource/American_Academy_of_Arts_and_Letters"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Imperial_Russian_emigrants_to_the_United_States"/>
+    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/Kiev_Art_School"/>
+    <rdfs:label xml:lang="es">Oleksandr Arjípenko</rdfs:label>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_York"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Alexander_Archipenko"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Alexander_Archipenko"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Alexander_Archipenko"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Aleksandr_Arhipenko"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Kiev"/>
+    <dbpedia-owl:abstract xml:lang="es">Oleksandr Porfírovich Arjípenko, fue un artista, escultor y artista gráfico ucraniano de vanguardia. Su nombre puede verse escrito, también, como Olexandr, Alexander, o Aleksandr, mientras que su apellido puede aparecer transcrito como Archipenko.</dbpedia-owl:abstract>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Alexander_Archipenko"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Архипенко,_Александр_Порфирьевич"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ModernSculptors"/>
+    <rdfs:label xml:lang="ja">アレクサンダー・アーキペンコ</rdfs:label>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アレクサンダー・アーキペンコ"/>
+    <rdfs:label xml:lang="nl">Alexander Archipenko</rdfs:label>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Архипенко_Олександр_Порфирович"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1964-02-24</dbpedia-owl:deathDate>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Ukraine"/>
+    <dbpedia-owl:abstract xml:lang="pl">Alexander Archipenko, Alexander Porfiryevich Archipenko (Olexandr, Oleksandr, lub Aleksandr) - ukraiński rzeźbiarz, rysownik, malarz, grafik i pedagog tworzący we Francji i Stanach Zjednoczonych.</dbpedia-owl:abstract>
+    <dbpprop:works xml:lang="en">The Boxers, 1914</dbpprop:works>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Ukraine"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Kiev"/>
+    <dbpedia-owl:abstract xml:lang="nl">Alexander Porfyrovitsch Archipenko, ook bekend als: Olexandr, Oleksandr, Aleksandr of Alexander was een Oekraïens-Amerikaans avant-gardistisch kunstenaar, beeldhouwer en grafisch ontwerper.</dbpedia-owl:abstract>
+    <foaf:givenName xml:lang="en">Alexander</foaf:givenName>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Alexander_Archipenko"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UkrainianArtists"/>
+    <rdfs:comment xml:lang="ru">Александр Порфирьевич Архи́пенко – украинский и американский художник и скульптор, один из основателей кубизма в скульптуре.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="it">Studia scultura a Kiev e a Mosca; nel 1908 si trasferisce a Parigi e il suo stile è profondamente influenzato dai cubisti, in particolare Picasso e Léger. La sua scultura, molto dinamica, si struttura in un alternarsi di vuoti e pieni, concavi e convessi, linee rette e oblique. Nel 1914 mette a punto un'originale ricerca artistica, detta "Archipentura", che combinando insieme lamine colorate di materiali diversi ad un motore elettrico, dà un effetto di movimento alla superficie del quadro. Nel 1921 si trasferisce a Berlino. Nel 1923 si trasferisce definitivamente negli Stati Uniti. Dagli anni Venti la sua produzione ha una svolta in senso classicista.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Ukrainian_artists"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q170071"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1976-03-25</dbpprop:dateOfDeath>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.aaa.si.edu/collections/josef-albers-letters-to-j-b-neumann-5952"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Printmaker110475687"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1976-03-24</dbpprop:deathDate>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Josef_Albers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Province_of_Westphalia"/>
+    <dbpedia-owl:abstract xml:lang="en">Josef Albers (March 19, 1888 – March 25, 1976) was a German-born American artist and educator whose work, both in Europe and in the United States, formed the basis of some of the most influential and far-reaching art education programs of the 20th century.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1888_births"/>
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Josef_Albers"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpprop:shortDescription xml:lang="en">Bauhaus artist and teacher</dbpprop:shortDescription>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1976-03-25</dbpedia-owl:deathDate>
+    <dbpprop:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</dbpprop:imagesize>
+    <rdfs:label xml:lang="de">Josef Albers</rdfs:label>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://thepacegallery.com"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Josef_Albers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.guggenheimcollection.org/site/artist_works_1_0.html"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Јозеф_Алберс"/>
+    <rdfs:label xml:lang="ru">Альберс, Джозеф</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">539480505</dbpedia-owl:wikiPageRevisionID>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:German_emigrants_to_the_United_States"/>
+    <rdfs:label xml:lang="pt">Josef Albers</rdfs:label>
+    <rdfs:comment xml:lang="sv">Josef Albers, född 19 mars 1888 i Bottrop, död 25 mars 1976 i New Haven, Connecticut, var en tysk konstnär och konstteoretiker. Albers studerade bland annat vid Bauhaus, där han även undervisade från 1923. Efter nazisternas maktövertagande emigrerade han 1933 till USA där han 1933-49 var lärare vid Black Mountain College och 1950-60 var ledare för konstskolan vid Yale University.</rdfs:comment>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:comment xml:lang="it"></rdfs:comment>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-03-18</dbpedia-owl:birthDate>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-03-18</dbpprop:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor"/>
+    <foaf:name xml:lang="en">Josef Albers</foaf:name>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Officers_Crosses_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GermanPainters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238"/>
+    <rdfs:label xml:lang="sv">Josef Albers</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="fr">Josef Albers est né le 19 mars 1888 à Bottrop et mort le 26 mars 1976 à New Haven. Peintre et pédagogue de l'art, Josef Albers enseigna au Bauhaus d'octobre 1923 à avril 1933. Il est considéré comme un des initiateurs de l'art optique, ou Op art.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_artists"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Josef_Albers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Archives_of_American_Art_related"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Josef_Albers"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/יוזף_אלברס"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FellowsOfTheAmericanAcademyOfArtsAndSciences"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Josef_Albers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Bottrop"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.aaa.si.edu/collections/josef-albers-papers-5803"/>
+    <dbpedia-owl:abstract xml:lang="nl">Josef Albers was een Duitse kunstenaar en leraar, wiens werk, zowel in Europa als in de Verenigde Staten, de basis vormde van een aantal van de invloedrijkste en verreikende kunstonderwijsprogramma's van de 20e eeuw. Albers werd geboren in Westfalen, en studeerde kunst in Berlijn, Essen en München (waar onder anderen Franz von Stuck zijn leermeester was), alvorens hij in 1920 aan het later beroemd geworden Bauhausinstituut in Weimar terecht kwam. Hij werd daar hoogleraar in 1925, het jaar dat het Bauhaus naar Dessau werd verplaatst. In 1922 zette hij in het Bauhaus een glazeniersatelier op en later stond hij ook aan het hoofd van het meubelmakersatelier. Met de sluiting van het Bauhaus onder druk van de nazi's in 1933, emigreerde Albers naar de Verenigde Staten en ging naar de faculteit van het Black Mountain College in North Carolina, waar hij tot 1949 het schilderprogramma organiseerde. Bij Black Mountain waren zijn studenten onder meer: Willem de Kooning, Robert Rauschenberg en Robert Motherwell. In 1950 verliet Albers Black Mountain om de afdeling Ontwerp te leiden bij Yale University in New Haven, Connecticut, tot hij zich in 1958 terugtrok uit het onderwijs. In 1963 publiceerde hij Interaction of Color (Kleurinteractie) over zijn theorie dat kleuren door een interne en bedrieglijke logica worden geregeerd. Hij bleef in New Haven wonen met zijn vrouw, de textielkunstenares Anni Albers, en bleef schilderen en schrijven tot zijn dood op 25 maart 1976. Vanaf 1949 maakte Albers zijn zogenaamde 'structurele constellaties'. Dit zijn een reeks architectonisch met elkaar verbonden tekeningen die optisch omgekeerd kunnen worden geïnterpreteerd (volgens het principe van de kubus van Necker). Voor Albers was de zelfstandigheid van kleur steeds een belangrijk thema in zijn werken. Hij noemde kleur 'het meest relatieve middel van de kunst'. Een van zijn belangrijkste werken is Hommage to the Square uit 1963, dat verschenen is in de vorm van olieverfschilderingen, in offset en in serigrafie. In de geboortestad van Albers bevindt zich sedert 1983 het Josef-Albers-Museum als onderdeel van museum Quadrat Bottrop.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanArtists"/>
+    <rdfs:label xml:lang="ja">ヨゼフ・アルバース</rdfs:label>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Альберс,_Джозеф"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_American_Academy_of_Arts_and_Letters"/>
+    <rdfs:comment xml:lang="pt">Josef Albers (19 de Março de 1888 - 25 de Março de 1976) foi um artista americano nascido na Alemanha, e um educador por excelência, cujas obras, tanto na Europa como nos Estados Unidos, representaram a base dos mais influentes programas sobre o estudo da arte do século XX.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">约瑟夫·亚伯斯（1888年3月19日-1976年3月25日）是生于德国的美国艺术家、教育家。在欧洲和美国，其作品成为20世纪一些极具影响力和深入的教育项目的基础。</rdfs:comment>
+    <rdfs:label xml:lang="zh">约瑟夫·亚伯斯</rdfs:label>
+    <dc:description xml:lang="en">Bauhaus artist and teacher</dc:description>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Abstract_art"/>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Bottrop"/>
+    <rdfs:comment xml:lang="fr">Josef Albers est né le 19 mars 1888 à Bottrop et mort le 26 mars 1976 à New Haven. Peintre et pédagogue de l'art, Josef Albers enseigna au Bauhaus d'octobre 1923 à avril 1933. Il est considéré comme un des initiateurs de l'art optique, ou Op art.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.baeditions.com/josef-albers-artwork.htm"/>
+    <dbpedia-owl:abstract xml:lang="pt">Josef Albers (19 de Março de 1888 - 25 de Março de 1976) foi um artista americano nascido na Alemanha, e um educador por excelência, cujas obras, tanto na Europa como nos Estados Unidos, representaram a base dos mais influentes programas sobre o estudo da arte do século XX.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Josef_Albers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Contestant109613191"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanArtistsOfGermanDescent"/>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/9/9e/Josef_Albers.jpg"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Josef_Albers"/>
+    <dbpedia-owl:abstract xml:lang="ja">ヨゼフ・アルバース（Josef Albers, 1888年3月19日 - 1976年3月25日）は、ドイツ出身で、のちアメリカに移住した美術家。ヨーゼフ・アルバース、ヨゼフ・アルベルス、ヨーゼフ・アルベルス、ジョセフ・アルバース（英語読み）などと記載されることもある。 バウハウスに学び、卒業後は、バウハウスにて教鞭をとる。 1933年のバウハウスの閉鎖に伴い、アメリカに移住。アメリカにおいては、ブラック・マウンテン・カレッジ（English版）（多くのアメリカの現代美術家がこの大学を卒業したことで知られる）やイエール大学などで美術教育を継続し。バウハウス的な教育理念をアメリカにもたらした。アメリカでの教え子の中には、ロバート・ラウシェンバーグやサイ・トゥオンブリなどがいる。 色彩と形態の関係について研究を深め、学生たちを指導した。一方、実作品としては、複数の正方形を規則正しく配置したような、シンプルな構成の抽象画が有名である。</dbpedia-owl:abstract>
+    <dbpprop:gnd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118501429</dbpprop:gnd>
+    <rdfs:label xml:lang="it">Josef Albers</rdfs:label>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_people_of_German_descent"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990"/>
+    <dbpedia-owl:abstract xml:lang="ru">Джозеф Альберс — немецкий и американский художник, дизайнер, поэт, теоретик и преподаватель.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">约瑟夫·亚伯斯（1888年3月19日-1976年3月25日）是生于德国的美国艺术家、教育家。在欧洲和美国，其作品成为20世纪一些极具影响力和深入的教育项目的基础。</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/یوزف_آلبرس"/>
+    <rdfs:label xml:lang="es">Josef Albers</rdfs:label>
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Geometric_abstraction"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artsignaturedictionary.com/artist/josef.albers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.cooperhewitt.org/exhibitions/albers/index.asp"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Josef_Albers"/>
+    <dbpedia-owl:abstract xml:lang="es">Josef Albers fue un artista y profesor alemán cuyo trabajo, tanto en Europa como en los Estados Unidos, creó la base de algunos de los programas de educación artística más influyentes del siglo XX.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.google.nl/images?q=google+josef+albers+images&amp;um=1&amp;ie=UTF-8&amp;source=univ&amp;sa=X&amp;ei=ZDlyTeO9J42DhQep_rU5&amp;ved=0CCoQsAQ&amp;biw=1600&amp;bih=905"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Medalist110305062"/>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Josef_Albers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Josef_Albers.jpg/200px-Josef_Albers.jpg"/>
+    <owl:sameAs rdf:resource="http://zh_min_nan.dbpedia.org/resource/Josef_Albers"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/约瑟夫·亚伯斯"/>
+    <dbpprop:field xml:lang="en">Abstract Painting, Study of Color</dbpprop:field>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Josef_Albers"/>
+    <dbpedia-owl:wikiPageInLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</dbpedia-owl:wikiPageInLinkCount>
+    <owl:sameAs rdf:resource="http://gag.dbpedia.org/resource/Josef_Albers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_painters"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ヨゼフ・アルバース"/>
+    <dbpedia-owl:abstract xml:lang="it"></dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.aaa.si.edu/collections/oralhistories/transcripts/albersj68.htm"/>
+    <rdfs:label xml:lang="en">Josef Albers</rdfs:label>
+    <foaf:surname xml:lang="en">Albers</foaf:surname>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/New_Haven,_Connecticut"/>
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/იოზეფ_ალბერსი"/>
+    <dbpedia-owl:abstract xml:lang="de">Josef Albers war ein deutscher Maler, Kunsttheoretiker und -pädagoge.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://tg.dbpedia.org/resource/Ҷосеф_Алберс"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Westphalia"/>
+    <dbpprop:placeOfBirth rdf:resource="http://dbpedia.org/resource/Bottrop"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://tate.org.uk/modern/exhibitions/albersmoholy"/>
+    <rdfs:label xml:lang="fr">Josef Albers</rdfs:label>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">335390</dbpedia-owl:wikiPageID>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPrintmakers"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Josef_Albers"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.albersfoundation.org"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromBottrop"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"/>
+    <owl:sameAs rdf:resource="http://pnb.dbpedia.org/resource/جوزف_البرز"/>
+    <rdfs:comment xml:lang="ja">ヨゼフ・アルバース（Josef Albers, 1888年3月19日 - 1976年3月25日）は、ドイツ出身で、のちアメリカに移住した美術家。ヨーゼフ・アルバース、ヨゼフ・アルベルス、ヨーゼフ・アルベルス、ジョセフ・アルバース（英語読み）などと記載されることもある。 バウハウスに学び、卒業後は、バウハウスにて教鞭をとる。 1933年のバウハウスの閉鎖に伴い、アメリカに移住。アメリカにおいては、ブラック・マウンテン・カレッジ（English版）（多くのアメリカの現代美術家がこの大学を卒業したことで知られる）やイエール大学などで美術教育を継続し。バウハウス的な教育理念をアメリカにもたらした。アメリカでの教え子の中には、ロバート・ラウシェンバーグやサイ・トゥオンブリなどがいる。 色彩と形態の関係について研究を深め、学生たちを指導した。一方、実作品としては、複数の正方形を規則正しく配置したような、シンプルな構成の抽象画が有名である。</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:German_painters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Winner110782940"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Bottrop"/>
+    <dbpprop:alternativeNames xml:lang="en">Albers, Joseph</dbpprop:alternativeNames>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Westphalia"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://nga.gov.au/InternationalPrints/Tyler/Default.cfm?MnuID=3&amp;ArtistIRN=18574&amp;List=True&amp;CREIRN=18574&amp;ORDER_SELECT=13&amp;VIEW_SELECT=5&amp;GrpNam=12&amp;TNOTES=TRUE"/>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Josef_Albers?oldid=539480505"/>
+    <dbpprop:nationality xml:lang="en">German-American</dbpprop:nationality>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Josef_Albers"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1888-03-18</dbpprop:dateOfBirth>
+    <foaf:givenName xml:lang="en">Josef</foaf:givenName>
+    <rdfs:comment xml:lang="es">Josef Albers fue un artista y profesor alemán cuyo trabajo, tanto en Europa como en los Estados Unidos, creó la base de algunos de los programas de educación artística más influyentes del siglo XX.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Josef Albers (March 19, 1888 – March 25, 1976) was a German-born American artist and educator whose work, both in Europe and in the United States, formed the basis of some of the most influential and far-reaching art education programs of the 20th century.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Josef_Albers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AIGAMedalists"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Josef_Albers"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01xf8t"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Josef_Albers"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1976_deaths"/>
+    <rdfs:comment xml:lang="ru">Джозеф Альберс — немецкий и американский художник, дизайнер, поэт, теоретик и преподаватель.</rdfs:comment>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Germany"/>
+    <dbpedia-owl:wikiPageOutLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</dbpedia-owl:wikiPageOutLinkCount>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347"/>
+    <dbpprop:placeOfDeath rdf:resource="http://dbpedia.org/resource/New_Haven,_Connecticut"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:AIGA_Medalists"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Josef_Albers"/>
+    <rdfs:comment xml:lang="de">Josef Albers war ein deutscher Maler, Kunsttheoretiker und -pädagoge.</rdfs:comment>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://brooklynrail.org/2009/12/artseen/albers-record-jackets-doing-an-artful-job"/>
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Geometric_abstraction"/>
+    <dbpprop:name xml:lang="en">Josef Albers</dbpprop:name>
+    <rdfs:label xml:lang="nl">Josef Albers</rdfs:label>
+    <dbpprop:name xml:lang="en">Albers, Josef</dbpprop:name>
+    <dbpedia-owl:abstract xml:lang="sv">Josef Albers, född 19 mars 1888 i Bottrop, död 25 mars 1976 i New Haven, Connecticut, var en tysk konstnär och konstteoretiker. Albers studerade bland annat vid Bauhaus, där han även undervisade från 1923. Efter nazisternas maktövertagande emigrerade han 1933 till USA där han 1933-49 var lärare vid Black Mountain College och 1950-60 var ledare för konstskolan vid Yale University. Sina tankar kring olika färgfenomen sammanfattade Albers 1963 i Interaction of Color (svensk översättning Albers färglära. Om färgers inverkan på varandra 1982). Redan under sin tid vid Bauhaus tog Albers ställning för den nonfigurativa måleriet. Under 1940-talet nådde han en konstnärlig mognad och koncentrerade under denna tid sitt måleri dels kring linjen, dels kring färgen. Linjeproblematiken kulminerade i hans svit Strukturella konstellationer (1950-58), där bilderna gavs möjlighet till alternativa avläsningar. Som färgkonstnär är Albers främst förknippad med sin svit Hyllning till kvadranten (1949-76). Dessa bilder bygger på hans teorier om hur de enskilda färgerna påverkar människors upplevelser av dem när de ställs intill varandra i olika konstellationer.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_printmakers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanPainters"/>
+    <rdfs:comment xml:lang="nl">Josef Albers was een Duitse kunstenaar en leraar, wiens werk, zowel in Europa als in de Verenigde Staten, de basis vormde van een aantal van de invloedrijkste en verreikende kunstonderwijsprogramma's van de 20e eeuw. Albers werd geboren in Westfalen, en studeerde kunst in Berlijn, Essen en München (waar onder anderen Franz von Stuck zijn leermeester was), alvorens hij in 1920 aan het later beroemd geworden Bauhausinstituut in Weimar terecht kwam.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/New_Haven,_Connecticut"/>
+    <dbpprop:lccn xml:lang="en">n/80/57250</dbpprop:lccn>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/German_Empire"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Bauhaus"/>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12347231</dbpprop:viaf>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jankel_Adler">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <foaf:surname xml:lang="en">Adler</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1895_births"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q213726"/>
+    <rdfs:label xml:lang="en">Jankel Adler</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="pl">Jankiel Adler – żydowski malarz, grafik, scenograf i poeta pochodzenia polskiego.</dbpedia-owl:abstract>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/'Two_Figures',_oil_on_canvas_painting_by_Jankel_Adler,_1944.jpg/200px-'Two_Figures',_oil_on_canvas_painting_by_Jankel_Adler,_1944.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Emigrant110051975"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Jankel_Adler"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12142753</dbpedia-owl:wikiPageID>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ModernArtists"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jankiel_Adler"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Polish_Jews"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Jankel_Adler"/>
+    <dbpedia-owl:wikiPageOutLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</dbpedia-owl:wikiPageOutLinkCount>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">544856227</dbpedia-owl:wikiPageRevisionID>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Jankel_Adler"/>
+    <dbpedia-owl:abstract xml:lang="nl">Jakub, bijgenaamd Jankel, Adler was een Pools kunstschilder en graveur.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jankel_Adler"/>
+    <rdfs:comment xml:lang="es">Jankel Adler fue un pintor y grabador polaco.</rdfs:comment>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/1/18/'Two_Figures',_oil_on_canvas_painting_by_Jankel_Adler,_1944.jpg"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Jankel_Adler"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdfs:label xml:lang="pl">Jankiel Adler</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="de">Jankel Adler war ein polnischer Maler und Graveur jüdischen Glaubens. Er gehörte zu den durch den Nationalsozialismus verfemten und verfolgten Künstlern.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PolishEmigrantsToTheUnitedKingdom"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Migrant110314952"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1949-04-24</dbpprop:dateOfDeath>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modern_artists"/>
+    <rdfs:label xml:lang="de">Jankel Adler</rdfs:label>
+    <rdfs:comment xml:lang="fr">Jankel Adler est un peintre et graveur d’origine polonaise.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1949-04-24</dbpedia-owl:deathDate>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Jankel_Adler"/>
+    <dbpedia-owl:abstract xml:lang="en">Jankel Adler (July 26, 1895 – April 25, 1949) was a Polish painter and printmaker.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_%C5%81%C3%B3d%C5%BA"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Jankel_Adler"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdfs:comment xml:lang="pl">Jankiel Adler – żydowski malarz, grafik, scenograf i poeta pochodzenia polskiego.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/JewishArtists"/>
+    <dc:description xml:lang="en">Painter and printmaker</dc:description>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Jankel_Adler?oldid=544856227"/>
+    <rdfs:label xml:lang="fr">Jankel Adler</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1895-07-25</dbpprop:dateOfBirth>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Jankel_Adler"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GermanArtists"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/יענקל_אדלר"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFrom%C5%81%C3%B3d%C5%BA"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Polish_emigrants_to_the_United_Kingdom"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Jankel_Adler"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Polish_painters_of_Jewish_descent"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1949_deaths"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PolishPaintersOfJewishDescent"/>
+    <dbpedia-owl:abstract xml:lang="es">Jankel Adler fue un pintor y grabador polaco.</dbpedia-owl:abstract>
+    <foaf:givenName xml:lang="en">Jankel</foaf:givenName>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347"/>
+    <rdfs:label xml:lang="es">Jankel Adler</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:German_artists"/>
+    <dbpedia-owl:wikiPageInLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</dbpedia-owl:wikiPageInLinkCount>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Jankel_Adler"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1895-07-25</dbpedia-owl:birthDate>
+    <rdfs:comment xml:lang="en">Jankel Adler (July 26, 1895 – April 25, 1949) was a Polish painter and printmaker.</rdfs:comment>
+    <dbpprop:name xml:lang="en">Adler, Jankel</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor"/>
+    <dbpprop:shortDescription xml:lang="en">Painter and printmaker</dbpprop:shortDescription>
+    <rdfs:comment xml:lang="de">Jankel Adler war ein polnischer Maler und Graveur jüdischen Glaubens. Er gehörte zu den durch den Nationalsozialismus verfemten und verfolgten Künstlern.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="fr">Jankel Adler est un peintre et graveur d’origine polonaise.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02vr6f7"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Jewish_artists"/>
+    <rdfs:label xml:lang="nl">Jankel Adler</rdfs:label>
+    <rdfs:comment xml:lang="nl">Jakub, bijgenaamd Jankel, Adler was een Pools kunstschilder en graveur.</rdfs:comment>
+    <foaf:name xml:lang="en">Jankel Adler</foaf:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Isidor_Aschheim">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Isidor_Aschheim"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Altherr">
+    <dbpprop:name xml:lang="en">Altherr, Heinrich</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q321284"/>
+    <rdfs:comment xml:lang="en">Heinrich Altherr (11 April 1878, Basel – 27 April 1947, Zurich) was a Swiss painter.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Heinrich_Altherr"/>
+    <foaf:givenName xml:lang="en">Heinrich</foaf:givenName>
+    <foaf:name xml:lang="en">Heinrich Altherr</foaf:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <dbpedia-owl:wikiPageInLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbpedia-owl:wikiPageInLinkCount>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21902596</dbpedia-owl:wikiPageID>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Heinrich_Altherr"/>
+    <dc:description xml:lang="en">Swiss painter</dc:description>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338"/>
+    <rdfs:comment xml:lang="fr">Heinrich Altherr né le 11 juillet 1878 à Bâle et mort le 27 avril 1947 à Zurich, est un artiste peintre suisse.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Heinrich_Altherr"/>
+    <dbpedia-owl:abstract xml:lang="en">Heinrich Altherr (11 April 1878, Basel – 27 April 1947, Zurich) was a Swiss painter.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="it">Fu discreto paesaggista e maestro di grande composizione. Le sue opere sono custodite a San Paolo e a Darmstadt</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05p9y75"/>
+    <rdfs:comment xml:lang="de">Heinrich Altherr war ein Schweizer Maler. Er schuf zahlreiche Wandgemälde in Kirchen und öffentlichen Gebäuden. Im Jahre 1913 kam er als Lehrer an die Kunstakademie in Stuttgart und wurde dort wenige Jahre später Direktor (1919–1921). Er lehrte dort vor allem Bildaufbau und Komposition und blieb bis 1939, als er nach Zürich zurückkehrte. Zwei Jahre zuvor war sein Stil von den herrschenden Nationalsozialisten der sogenannten entarteten Kunst zugerechnet worden.</rdfs:comment>
+    <rdfs:label xml:lang="en">Heinrich Altherr</rdfs:label>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Heinrich_Altherr"/>
+    <foaf:surname xml:lang="en">Altherr</foaf:surname>
+    <dbpedia-owl:abstract xml:lang="de">Heinrich Altherr war ein Schweizer Maler. Er schuf zahlreiche Wandgemälde in Kirchen und öffentlichen Gebäuden. Im Jahre 1913 kam er als Lehrer an die Kunstakademie in Stuttgart und wurde dort wenige Jahre später Direktor (1919–1921). Er lehrte dort vor allem Bildaufbau und Komposition und blieb bis 1939, als er nach Zürich zurückkehrte. Zwei Jahre zuvor war sein Stil von den herrschenden Nationalsozialisten der sogenannten entarteten Kunst zugerechnet worden. Einige von Heinrich Altherrs Wandgemälden sind zu sehen in der Universität Zürich und in der Paulskirche in Basel. Sein Stil ist expressionistisch, und die Motive sind oft politisch oder sozialkritisch ausgerichtet.</dbpedia-owl:abstract>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1878</dbpprop:dateOfBirth>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Heinrich_Altherr?oldid=542870597"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Heinrich_Altherr"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Heinrich_Altherr"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SwissPainters"/>
+    <rdfs:label xml:lang="it">Heinrich Altherr</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <dbpedia-owl:abstract xml:lang="fr">Heinrich Altherr né le 11 juillet 1878 à Bâle et mort le 27 avril 1947 à Zurich, est un artiste peintre suisse.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">Fu discreto paesaggista e maestro di grande composizione. Le sue opere sono custodite a San Paolo e a Darmstadt</dbpedia-owl:abstract>
+    <dbpprop:shortDescription xml:lang="en">Swiss painter</dbpprop:shortDescription>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1947</dbpprop:dateOfDeath>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347"/>
+    <rdfs:label xml:lang="fr">Heinrich Altherr</rdfs:label>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">542870597</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageOutLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbpedia-owl:wikiPageOutLinkCount>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1878_births"/>
+    <rdfs:label xml:lang="de">Heinrich Altherr</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Swiss_painters"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Heinrich_Altherr"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1947_deaths"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Angrand">
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Charles_Angrand"/>
+    <foaf:name xml:lang="en">Charles Angrand</foaf:name>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Rouen"/>
+    <dbpedia-owl:abstract xml:lang="ru">Ша́рль Теофи́л Ангра́н — французский художник-постимпрессионист и неоимпрессионист. Анархист.</dbpedia-owl:abstract>
+    <dbpprop:alternativeNames xml:lang="en">Angrand, Charles Théophile</dbpprop:alternativeNames>
+    <dbpedia-owl:abstract xml:lang="nl">Charles Theophile Angrand was een Frans neo-impressionistisch kunstschilder, pointillist en anarchist.</dbpedia-owl:abstract>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbpprop:dateOfDeath>
+    <rdfs:label xml:lang="en">Charles Angrand</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpprop:shortDescription xml:lang="en">French painter</dbpprop:shortDescription>
+    <rdfs:comment xml:lang="ru">Ша́рль Теофи́л Ангра́н — французский художник-постимпрессионист и неоимпрессионист. Анархист.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Charles_Angrand"/>
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Drawing"/>
+    <dbpprop:deathPlace xml:lang="en">Rouen, France</dbpprop:deathPlace>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-04-18</dbpedia-owl:birthDate>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Post-impressionistPainters"/>
+    <dbpprop:nationality xml:lang="en">French</dbpprop:nationality>
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Painting"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <dbpedia-owl:abstract xml:lang="pl">Charles Théophile Angrand, − francuski malarz, przedstawiciel neoimpresjonizmu, anarchista. Wśród jego prac przeważały pejzaże wykonane akwarelami oraz rysunki węglem. W 1884 roku wystawił swoje prace na Salonie Niezależnych (Salon des Artistes Indépendants).</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">538308568</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="sv">Charles Angrand</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <dbpedia-owl:wikiPageOutLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</dbpedia-owl:wikiPageOutLinkCount>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1854_births"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1926_deaths"/>
+    <foaf:givenName xml:lang="en">Charles</foaf:givenName>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_painters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FrenchPainters"/>
+    <dbpprop:name xml:lang="en">Angrand, Charles</dbpprop:name>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-04-18</dbpprop:birthDate>
+    <dbpprop:field rdf:resource="http://dbpedia.org/resource/Drawing"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06bb8_"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Impressionist_painters"/>
+    <dbpprop:name xml:lang="en">Charles Angrand</dbpprop:name>
+    <rdfs:label xml:lang="ru">Ангран, Шарль</rdfs:label>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Charles_Angrand"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1976327</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Self_Portrait_Charles_Angrand.jpg/200px-Self_Portrait_Charles_Angrand.jpg"/>
+    <dbpprop:caption xml:lang="en">Self-Portrait, 1892</dbpprop:caption>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Anarchist109791816"/>
+    <rdfs:comment xml:lang="de">Charles Théophile Angrand war ein französischer Maler des Spätimpressionismus.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Charles Theophile Angrand was een Frans neo-impressionistisch kunstschilder, pointillist en anarchist.</rdfs:comment>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Charles_Angrand?oldid=538308568"/>
+    <rdfs:comment xml:lang="en">Charles Angrand (19 April 1854 – 1 April 1926) was a French artist who gained renown for his Neo-Impressionist paintings and drawings. He was an important member of the Parisian avant-garde art scene in the late 1880s and early 1890s.</rdfs:comment>
+    <rdfs:label xml:lang="fr">Charles Angrand</rdfs:label>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Charles_Angrand"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <rdfs:comment xml:lang="es">Charles Théophile Angrand fue un pintor neoimpresionista anarquista francés. El normando Charles Angrand practicó el puntillismo en un primer momento, pero como amigo de Georges Pierre Seurat y Paul Signac se vio influido por el neoimpresionismo y en su obra posterior introdujo contrastes fuertes y tonos puros. Fue uno de los fundadores del Salon des Indépendants. También enseñó en el Lycée Chaptal de París.</rdfs:comment>
+    <dbpedia-owl:abstract xml:lang="es">Charles Théophile Angrand fue un pintor neoimpresionista anarquista francés. El normando Charles Angrand practicó el puntillismo en un primer momento, pero como amigo de Georges Pierre Seurat y Paul Signac se vio influido por el neoimpresionismo y en su obra posterior introdujo contrastes fuertes y tonos puros. Fue uno de los fundadores del Salon des Indépendants. También enseñó en el Lycée Chaptal de París.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Charles Angrand (19 April 1854 – 1 April 1926) was a French artist who gained renown for his Neo-Impressionist paintings and drawings. He was an important member of the Parisian avant-garde art scene in the late 1880s and early 1890s.</dbpedia-owl:abstract>
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Neo-impressionism"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Charles_Angrand"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ArtistsFromParis"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist"/>
+    <rdfs:comment xml:lang="sv">Charles Angrand, född den 19 april 1854 Criquetot-surOuville i Normandie i Frankrike, död den 1 april 1926 i Rouen, var en fransk konstnär som uppnådde berömmelse för sina neoimpressionistiska målningar och teckningar. Charles Théophile Angrand var son Charles P. Angrand (1829–96) och Marie Angrand (1833–1905). Han fick konstnärlig utbildning vid Académie de Peinture et de Dessin i Rouen. Han besökte Paris första gången 1875 för att se Jean-Baptiste-Camille Corots konst.</rdfs:comment>
+    <rdfs:label xml:lang="pl">Charles Angrand</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <dbpprop:placeOfBirth xml:lang="en">Criquetot-sur-Ouville, Normandy, France</dbpprop:placeOfBirth>
+    <dbpedia-owl:individualisedPnd xml:lang="de">119215616</dbpedia-owl:individualisedPnd>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FrenchAnarchists"/>
+    <dbpprop:bgcolour xml:lang="en">#6495ED</dbpprop:bgcolour>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Radical110503452"/>
+    <rdfs:label xml:lang="de">Charles Angrand</rdfs:label>
+    <dbpprop:field rdf:resource="http://dbpedia.org/resource/Painting"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347"/>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</dbpprop:dateOfBirth>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Charles_Angrand"/>
+    <dbpprop:placeOfDeath xml:lang="en">Rouen, France</dbpprop:placeOfDeath>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor"/>
+    <dbpprop:training xml:lang="en">Académie de Peinture et de Dessin, Rouen</dbpprop:training>
+    <rdfs:label xml:lang="es">Charles Angrand</rdfs:label>
+    <dbpedia-owl:abstract xml:lang="sv">Charles Angrand, född den 19 april 1854 Criquetot-surOuville i Normandie i Frankrike, död den 1 april 1926 i Rouen, var en fransk konstnär som uppnådde berömmelse för sina neoimpressionistiska målningar och teckningar. Charles Théophile Angrand var son Charles P. Angrand (1829–96) och Marie Angrand (1833–1905). Han fick konstnärlig utbildning vid Académie de Peinture et de Dessin i Rouen. Han besökte Paris första gången 1875 för att se Jean-Baptiste-Camille Corots konst. Angrands tidiga verk influerades av Corot. Angrand flyttade till Paris 1882 och efter att ha nekats inträdde i École des Beaux-Arts blev han lärare i matematik vid Collège Chaptal. I Paris bodde han i en kvarter nära Café d'Athènes, Café Guerbois, Le Chat Noir och andra kända tillhåll som besöktes regelbundet av artister. Han anslöt sig till den parisiska avantgarde rörelsen och blev vän med storheter som Georges Seurat, Vincent van Gogh och Paul Signac. År 1884 medgrundade han Société des artistes indépendants. Tidigt på 1890-talet övergav Angrand måleriet men återupptog det år 1906. Han påverkade bland annat van Gogh.</dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Ангран,_Шарль"/>
+    <dbpprop:birthName xml:lang="en">Charles Théophile Angrand</dbpprop:birthName>
+    <dbpedia-owl:abstract xml:lang="fr"></dbpedia-owl:abstract>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1063574"/>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-03-31</dbpprop:deathDate>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Criquetot-sur-Ouville"/>
+    <rdfs:comment xml:lang="pl">Charles Théophile Angrand, − francuski malarz, przedstawiciel neoimpresjonizmu, anarchista. Wśród jego prac przeważały pejzaże wykonane akwarelami oraz rysunki węglem. W 1884 roku wystawił swoje prace na Salonie Niezależnych (Salon des Artistes Indépendants).</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Pointillism"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Charles_Angrand"/>
+    <dbpedia-owl:abstract xml:lang="de">Charles Théophile Angrand war ein französischer Maler des Spätimpressionismus.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Post-impressionist_painters"/>
+    <dc:description xml:lang="en">French painter</dc:description>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Impressionism"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Seine-Maritime"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Artists_from_Paris"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Charles_Angrand"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ImpressionistPainters"/>
+    <dbpprop:movement xml:lang="en">Impressionism, Neo-Impressionism</dbpprop:movement>
+    <dbpedia-owl:wikiPageInLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</dbpedia-owl:wikiPageInLinkCount>
+    <foaf:surname xml:lang="en">Angrand</foaf:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_anarchists"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Charles_Angrand"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Normandy"/>
+    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/Rouen"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1926-03-31</dbpedia-owl:deathDate>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/e/e5/Self_Portrait_Charles_Angrand.jpg"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromSeine-Maritime"/>
+    <rdfs:label xml:lang="nl">Charles Angrand</rdfs:label>
+    <rdfs:comment xml:lang="fr"></rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+    <dbpprop:birthPlace xml:lang="en">Criquetot-sur-Ouville, Normandy, France</dbpprop:birthPlace>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerd_Arntz">
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Gerd_Arntz"/>
+    <dbpedia-owl:abstract xml:lang="fr">Gerd Arntz était un dessinateur et graphiste allemand.</dbpedia-owl:abstract>
+    <rdfs:comment xml:lang="fr">Gerd Arntz était un dessinateur et graphiste allemand.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Council_communism"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdfs:label xml:lang="en">Gerd Arntz</rdfs:label>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1900-12-10</dbpedia-owl:birthDate>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.gerdarntz.org"/>
+    <rdfs:comment xml:lang="pt">Gerd Arntz foi um gravurista e designer gráfico modernista e comunista alemão, famoso pelo desenho extremamente sintético de suas gravuras. Trabalhou com Otto Neurath na realização do sistema de linguagem visual ISOTYPE.</rdfs:comment>
+    <dbpedia-owl:wikiPageOutLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</dbpedia-owl:wikiPageOutLinkCount>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Expert109617867"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0cp8fs"/>
+    <rdfs:comment xml:lang="ru">Герд Арнц — немецкий художник — модернист и график, работавший в стилях «новая вещественность» и фигуративный конструктивизм. Коммунист по политическим взглядам.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Specialist110631941"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347"/>
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-12-03</dbpedia-owl:deathDate>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4811605</dbpedia-owl:wikiPageID>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Gerd_Arntz"/>
+    <foaf:givenName xml:lang="en">Gerd</foaf:givenName>
+    <dbpedia-owl:abstract xml:lang="ru">Герд Арнц — немецкий художник — модернист и график, работавший в стилях «новая вещественность» и фигуративный конструктивизм. Коммунист по политическим взглядам.</dbpedia-owl:abstract>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Remscheid"/>
+    <dbpedia-owl:abstract xml:lang="en">Gerd Arntz (11 December 1900, Remscheid – 4 December 1988, The Hague) was a German Modernist artist renowned for his black and white woodcuts. A core member of the Cologne Progressives he was also a council communist. The Cologne Progressives participated in the revolutionary unions AAUD and its offshoot the AAUE in the 1920s. In 1928 Arntz contributed prints to the AAUE paper Die Proletarische Revolution, calling for workers to abandon parliament and form and participate in worker's councils. These woodcut prints feature recurring themes of class.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:German_graphic_designers"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Gerd_Arntz"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:German_illustrators"/>
+    <dbpprop:name xml:lang="en">Arntz, Gerd</dbpprop:name>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.iisg.nl/exhibitions/art/indexarntz.html"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Gerd_Arntz"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Арнц,_Герд"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q213917"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.isotyperevisited.org"/>
+    <dbpedia-owl:abstract xml:lang="pt">Gerd Arntz foi um gravurista e designer gráfico modernista e comunista alemão, famoso pelo desenho extremamente sintético de suas gravuras. Trabalhou com Otto Neurath na realização do sistema de linguagem visual ISOTYPE.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">540563855</dbpedia-owl:wikiPageRevisionID>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Gerd_Arntz"/>
+    <rdfs:label xml:lang="es">Gerd Arntz</rdfs:label>
+    <rdfs:label xml:lang="fr">Gerd Arntz</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:German_artists"/>
+    <dbpedia-owl:abstract xml:lang="es">Gerd Arntz fue un artista gráfico alemán. Arntz fue miembro de los progresistas de Colonia. Durante el nacionalsocialismo die antifascista. En 1934 emigró a los Países Bajos.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Gerd Arntz</foaf:name>
+    <rdfs:label xml:lang="de">Gerd Arntz</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <dbpprop:placeOfBirth xml:lang="en">Remscheid</dbpprop:placeOfBirth>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Gerd_Arntz?oldid=540563855"/>
+    <dbpprop:shortDescription xml:lang="en">German artist</dbpprop:shortDescription>
+    <rdfs:label xml:lang="pt">Gerd Arntz</rdfs:label>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GermanIllustrators"/>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbpprop:dateOfDeath>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbpprop:dateOfBirth>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Gerd_Arntz"/>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/The_Hague"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerd_Arntz"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GraphicDesigner110144055"/>
+    <dbpedia-owl:abstract xml:lang="nl">Gerd Arntz was een Duits-Nederlandse grafisch ontwerper die vooral bekend was door zijn beeldstatistieken en pictogrammen. Hij bezocht in 1919 de kunstschool in Düsseldorf en maakte in 1920 in Keulen onder meer kennis met de progressieve kunstenaars Jankel Adler, Franz Wilhelm Seiwert en Heinrich Hoerle. Zijn eerste politieke houtsneden verschenen in 1926 in Die Proletarische Revolution. Arntz ging in 1928 werken voor het Gesellschafts- und Wirtschafts-museum in Wenen en was vanaf 1933 verbonden aan het Moscow Institute voor picturale statistieken. Na de overname van Duitsland door Hitler ging Arntz in 1934 naar Den Haag in Nederland. Zijn houtsnede Het Derde Rijk veroorzaakte in 1936 een politiek incident met Duitsland. In 1943 werd Arntz opgeroepen voor het Duitse leger. Na zijn terugkeer in 1946 ging hij werken voor het Nederlandse Instituut voor Statistiek. Een grote tentoonstelling van zijn werk werd in 1976 gehouden in Den Haag.</dbpedia-owl:abstract>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GermanArtists"/>
+    <rdfs:comment xml:lang="en">Gerd Arntz (11 December 1900, Remscheid – 4 December 1988, The Hague) was a German Modernist artist renowned for his black and white woodcuts. A core member of the Cologne Progressives he was also a council communist. The Cologne Progressives participated in the revolutionary unions AAUD and its offshoot the AAUE in the 1920s. In 1928 Arntz contributed prints to the AAUE paper Die Proletarische Revolution, calling for workers to abandon parliament and form and participate in worker's councils.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.datascope.be/sog.htm"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Illustrator109812068"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Gerd_Arntz"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://libcom.org/tags/gerd-arntz"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.remmertundbarth.de/kuenstler.html"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GermanGraphicDesigners"/>
+    <rdfs:comment xml:lang="nl">Gerd Arntz was een Duits-Nederlandse grafisch ontwerper die vooral bekend was door zijn beeldstatistieken en pictogrammen. Hij bezocht in 1919 de kunstschool in Düsseldorf en maakte in 1920 in Keulen onder meer kennis met de progressieve kunstenaars Jankel Adler, Franz Wilhelm Seiwert en Heinrich Hoerle. Zijn eerste politieke houtsneden verschenen in 1926 in Die Proletarische Revolution.</rdfs:comment>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Left_communists"/>
+    <rdfs:comment xml:lang="de">Gerd Arntz war ein gesellschaftskritischer Künstler und Grafiker; er gilt als Erfinder und Wegbereiter des modernen Piktogramms.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Gerd Arntz fue un artista gráfico alemán. Arntz fue miembro de los progresistas de Colonia. Durante el nacionalsocialismo die antifascista. En 1934 emigró a los Países Bajos.</rdfs:comment>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdfs:label xml:lang="nl">Gerd Arntz</rdfs:label>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gerd_Arntz"/>
+    <dbpedia-owl:abstract xml:lang="de">Gerd Arntz war ein gesellschaftskritischer Künstler und Grafiker; er gilt als Erfinder und Wegbereiter des modernen Piktogramms.</dbpedia-owl:abstract>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1900_births"/>
+    <rdfs:label xml:lang="ru">Арнц, Герд</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1988_deaths"/>
+    <dc:description xml:lang="en">German artist</dc:description>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Gerd_Arntz"/>
+    <dbpprop:placeOfDeath xml:lang="en">The Hague</dbpprop:placeOfDeath>
+    <dbpedia-owl:wikiPageInLinkCount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</dbpedia-owl:wikiPageInLinkCount>
+    <foaf:surname xml:lang="en">Arntz</foaf:surname>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Remscheid"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Charles_Angrand">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gag.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cora_Kelley_Ward">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albers">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auberjonois">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ren%C3%A9_Victor_Auberjonois"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Gerd_Arntz">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerd_Arntz"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Heinrich_Altherr">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Heinrich_Altherr"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenneth_Noland">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Jankel_Adler">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q170071">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Gerd_Arntz">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Gerd_Arntz"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/约瑟夫·亚伯斯">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Charles_Angrand">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ro.dbpedia.org/resource/Jankel_Adler">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh_min_nan.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isidor_Aschheim">
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Isidor_Aschheim?oldid=86747101"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Isidor_Aschheim"/>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Isidor_Aschheim"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7856391</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Isidor_Ascheim"/>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86747101</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="en">Isidor Aschheim</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Theophile_Angrand">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes_Matter">
+    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Jankel_Adler">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tg.dbpedia.org/resource/Ҷосеф_Алберс">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Jankel_Adler">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Heinrich_Altherr">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Heinrich_Altherr"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/Jankel_Adler">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elaine_de_Kooning">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Gorbaty">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adler">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fi.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://et.dbpedia.org/resource/Aleksandr_Arhipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ヨゼフ・アルバース">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archipenko,_Aleksandr_Porfiryevich">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/יענקל_אדלר">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_of_Sheba_(sculpture)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Charles_Angrand">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be.dbpedia.org/resource/Аляксандр_Парфір'евіч_Архіпенка">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksandr_Porfiryevich_Archipenko">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Charles_Angrand">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Gerd_Arntz">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerd_Arntz"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Альберс,_Джозеф">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Charles_Angrand">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timothy_App">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Jankel_Adler">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archipenko">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_P._Archipenko">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Арнц,_Герд">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerd_Arntz"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sh.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albers,_Josef">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q321284">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Heinrich_Altherr"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q1063574">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sr.dbpedia.org/resource/Јозеф_Алберс">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ka.dbpedia.org/resource/იოზეფ_ალბერსი">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Jankiel_Adler">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ar.dbpedia.org/resource/ألكسندر_آرتشيبنكو">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fi.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simple.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ren%C3%A9_Auberjonois_(painter)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ren%C3%A9_Victor_Auberjonois"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Josef_Albers">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pnb.dbpedia.org/resource/جوزف_البرز">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eva_Hesse_(sculptor)">
+    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/אלכסנדר_ארכיפנקו">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Gerd_Arntz">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerd_Arntz"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Charles_Angrand">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sh.dbpedia.org/resource/Aleksandar_Arhipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marion_Greenwood">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Архипенко_Олександр_Порфирович">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Th%C3%A9ophile_Angrand">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sl.dbpedia.org/resource/Aleksander_Arhipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/René_Victor_Auberjonois">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ren%C3%A9_Victor_Auberjonois"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Ангран,_Шарль">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q157578">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ca.dbpedia.org/resource/Gerd_Arntz">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerd_Arntz"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gerd_Arntz">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerd_Arntz"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Gerd_Arntz">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerd_Arntz"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Charles_Angrand">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Charles_Angrand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fa.dbpedia.org/resource/یوزف_آلبرس">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Albers">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rene_Victor_Auberjonois">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ren%C3%A9_Victor_Auberjonois"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Jankel_Adler">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandr_Archipenko">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hr.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Porfiryevich_Archipenko">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Alexander_Archipenko">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Архипенко,_Александр_Порфирьевич">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/アレクサンダー・アーキペンコ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Heinrich_Altherr">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Heinrich_Altherr"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q213726">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Oleksandr_Arjípenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q213917">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gerd_Arntz"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Jankel_Adler">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Jankel_Adler"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Heinrich_Altherr">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Heinrich_Altherr"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hr.dbpedia.org/resource/Oleksandr_Porfirovič_Arhipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/יוזף_אלברס">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/René_Victor_Auberjonois">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ren%C3%A9_Victor_Auberjonois"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Josef_Albers">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Alexander_Archipenko">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Alexander_Archipenko"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruth_Asawa">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Josef_Albers"/>
+  </rdf:Description>
+</rdf:RDF>
