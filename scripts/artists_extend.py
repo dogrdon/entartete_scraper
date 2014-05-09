@@ -29,7 +29,7 @@ with open('../data/artists_ld.csv', 'r') as file:
 
   header = r.next()
 
-  header.extend(['ntnl', 'mvmnt'])
+  header.extend(['ntnl', 'mvmnt', 'born', 'died'])
 
   w.writerow(header)
 
@@ -53,7 +53,20 @@ with open('../data/artists_ld.csv', 'r') as file:
       else:
         ntnl.append('nA')
 
-      row.extend([str(u','.join(ntnl)), str(u','.join(mvmnt))])
+      if dom.cssselect('span[property="dbpedia-owl:birthDate"]'):
+        for s in dom.cssselect('span[property="dbpedia-owl:birthDate"]'):
+          dob = s.text_content()
+      else:
+        dob = 'nA'
+
+      if dom.cssselect('span[property="dbpedia-owl:deathDate"]'):
+        for s in dom.cssselect('span[property="dbpedia-owl:deathDate"]'):
+          dod = s.text_content()
+      else:
+        dod = 'nA'
+
+      print 'adding: ', ntnl, mvmnt, dob, dod, 'for: ', row[1]
+      row.extend([', '.join(ntnl), ', '.join(mvmnt), str(dob), str(dod)])
       w.writerow(row)
 
       '''failing here
