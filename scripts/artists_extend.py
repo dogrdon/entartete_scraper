@@ -5,6 +5,10 @@ import csv
 import lxml.html
 import requests
 
+import time
+from datetime import datetime
+
+
 '''
 This script is used to take our csv list of artists and grab additional information about each artist from their dbpedia resource such as:
   -movement they were associated with
@@ -22,10 +26,11 @@ This script is used to take our csv list of artists and grab additional informat
   - where should we be logging the fact that some artists will not a page
 '''
 
+fname = '../data/artists-full-'+datetime.now().isoformat()+'.csv'
 
 with open('../data/artists_ld.csv', 'r') as file:
   r = csv.reader(file)
-  w = csv.writer(open('../data/artists_full.csv', 'w'))
+  w = csv.writer(open(fname, 'w'))
 
   header = r.next()
 
@@ -66,7 +71,7 @@ with open('../data/artists_ld.csv', 'r') as file:
         dod = 'nA'
 
       print 'adding: ', ntnl, mvmnt, dob, dod, 'for: ', row[1]
-      row.extend([', '.join(ntnl), ', '.join(mvmnt), str(dob), str(dod)])
+      row.extend([', '.join(ntnl), ', '.join(mvmnt), dob, dod])
       w.writerow(row)
 
       '''failing here
