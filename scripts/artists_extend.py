@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# coding=utf-8
+
 
 import csv
 import lxml.html
@@ -48,13 +48,13 @@ with open('../data/artists_ld.csv', 'r') as file:
       ntnl = []
       if dom.cssselect('a[rel="dbpedia-owl:movement"]'):
         for a in dom.cssselect('a[rel="dbpedia-owl:movement"]'):
-          mvmnt.append(unicode(a.text_content().split(':')[1]))
+          mvmnt.append(a.text_content().split(':')[1])
       else:
         mvmnt.append('nA')
 
       if dom.cssselect('a[rel="dbpedia-owl:nationality"]'):
         for a in dom.cssselect('a[rel="dbpedia-owl:nationality"]'):
-          ntnl.append(unicode(a.text_content().split(':')[1]))
+          ntnl.append(a.text_content().split(':')[1])
       else:
         ntnl.append('nA')
 
@@ -70,13 +70,15 @@ with open('../data/artists_ld.csv', 'r') as file:
       else:
         dod = 'nA'
 
+      ntnl = [v.replace('_', ' ') for v in ntnl]
+      mvmnt = [v.replace('_', ' ') for v in mvmnt]
+      
       print 'adding: ', ntnl, mvmnt, dob, dod, 'for: ', row[1]
-      row.extend([', '.join(ntnl), ', '.join(mvmnt), str(dob), str(dod)])
+      
+      row.extend([', '.join(ntnl).encode('utf8'), ', '.join(mvmnt).encode('utf8'), dob, dod])
       
       #row = [v.encode('utf8') for v in row]
       
       w.writerow(row)
 
-      '''failing here
-      ["Expressionism", "Berlin_Secession", "Der_Blaue_Reiter", "Die_Brücke", "November_Group_(German)"]
-      '''
+      
