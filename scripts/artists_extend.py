@@ -72,6 +72,9 @@ with open('../data/artists_ld.csv', 'r') as file:
 
       print 'adding: ', ntnl, mvmnt, dob, dod, 'for: ', row[1]
       row.extend([', '.join(ntnl), ', '.join(mvmnt), dob, dod])
+      
+      row = [v.decode('utf8') if isinstance(v, str) else v for v in row]
+      
       w.writerow(row)
 
       '''failing here
