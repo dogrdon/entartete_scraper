@@ -34,7 +34,7 @@ with open('../data/artists_ld.csv', 'r') as file:
 
   header = r.next()
 
-  header.extend(['ntnl', 'mvmnt', 'born', 'died'])
+  header.extend(['ntnl', 'mvmnt', 'born', 'died', 'subj_terms'])
 
   w.writerow(header)
 
@@ -46,15 +46,22 @@ with open('../data/artists_ld.csv', 'r') as file:
       dom = lxml.html.fromstring(requests.get(row[2]).content)
       mvmnt = []
       ntnl = []
+      subj = []
       if dom.cssselect('a[rel="dbpedia-owl:movement"]'):
         for a in dom.cssselect('a[rel="dbpedia-owl:movement"]'):
           mvmnt.append(a.text_content().split(':')[1])
+            
       else:
         mvmnt.append('nA')
 
       if dom.cssselect('a[rel="dbpedia-owl:nationality"]'):
         for a in dom.cssselect('a[rel="dbpedia-owl:nationality"]'):
           ntnl.append(a.text_content().split(':')[1])
+          
+      elif dom.cssselect('span[property="dbpprop:nationality"]'):
+        for a in dom.cssselect('span[property="dbpprop:nationality"]'):
+          ntnl.append(a.text_content())
+          
       else:
         ntnl.append('nA')
 
@@ -69,15 +76,20 @@ with open('../data/artists_ld.csv', 'r') as file:
           dod = s.text_content()
       else:
         dod = 'nA'
+        
+      if dom.cssselect('a[rel="dcterms:subject"]'):
+        for s in dom.cssselect('a[rel="dcterms:subject"]'):
+          subj.append(s.text_content().split(':')[1])
+      else:
+        subj.append('nA')
 
       ntnl = [v.replace('_', ' ') for v in ntnl]
       mvmnt = [v.replace('_', ' ') for v in mvmnt]
       
-      print 'adding: ', ntnl, mvmnt, dob, dod, 'for: ', row[1]
+      print 'adding: ', ntnl, mvmnt, dob, dod, subj, 'for: ', row[1]
       
-      row.extend([', '.join(ntnl).encode('utf8'), ', '.join(mvmnt).encode('utf8'), dob, dod])
+      row.extend([', '.join(ntnl).encode('utf8'), ', '.join(mvmnt).encode('utf8'), dob, dod, ', '.join(subj).encode('utf8')])
       
-      #row = [v.encode('utf8') for v in row]
       
       w.writerow(row)
 
