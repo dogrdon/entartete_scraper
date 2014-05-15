@@ -48,13 +48,13 @@ with open('../data/artists_ld.csv', 'r') as file:
       ntnl = []
       if dom.cssselect('a[rel="dbpedia-owl:movement"]'):
         for a in dom.cssselect('a[rel="dbpedia-owl:movement"]'):
-          mvmnt.append(a.text_content().split(':')[1])
+          mvmnt.append(unicode(a.text_content().split(':')[1]))
       else:
         mvmnt.append('nA')
 
       if dom.cssselect('a[rel="dbpedia-owl:nationality"]'):
         for a in dom.cssselect('a[rel="dbpedia-owl:nationality"]'):
-          ntnl.append(a.text_content().split(':')[1])
+          ntnl.append(unicode(a.text_content().split(':')[1]))
       else:
         ntnl.append('nA')
 
@@ -71,9 +71,9 @@ with open('../data/artists_ld.csv', 'r') as file:
         dod = 'nA'
 
       print 'adding: ', ntnl, mvmnt, dob, dod, 'for: ', row[1]
-      row.extend([', '.join(ntnl), ', '.join(mvmnt), dob, dod])
+      row.extend([', '.join(ntnl), ', '.join(mvmnt), str(dob), str(dod)])
       
-      row = [v.decode('utf8') if isinstance(v, str) else v for v in row]
+      #row = [v.encode('utf8') for v in row]
       
       w.writerow(row)
 
