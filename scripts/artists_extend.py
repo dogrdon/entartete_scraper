@@ -50,47 +50,59 @@ with open('../data/artists_ld.csv', 'r') as file:
       if dom.cssselect('a[rel="dbpedia-owl:movement"]'):
         for a in dom.cssselect('a[rel="dbpedia-owl:movement"]'):
           mvmnt.append(a.text_content().split(':')[1])
-            
+
+      elif dom.cssselect('span[property="dbpprop:movement"]'):
+        for b in dom.cssselect('span[property="dbpprop:movement"]'):
+          mvmnt.append(b.text_content().split(':')[1])
+
       else:
         mvmnt.append('nA')
 
       if dom.cssselect('a[rel="dbpedia-owl:nationality"]'):
         for a in dom.cssselect('a[rel="dbpedia-owl:nationality"]'):
           ntnl.append(a.text_content().split(':')[1])
-          
+
       elif dom.cssselect('span[property="dbpprop:nationality"]'):
-        for a in dom.cssselect('span[property="dbpprop:nationality"]'):
-          ntnl.append(a.text_content())
-          
+        for b in dom.cssselect('span[property="dbpprop:nationality"]'):
+          ntnl.append(b.text_content())
+
       else:
         ntnl.append('nA')
 
       if dom.cssselect('span[property="dbpedia-owl:birthDate"]'):
-        for s in dom.cssselect('span[property="dbpedia-owl:birthDate"]'):
-          dob = s.text_content()
+        for a in dom.cssselect('span[property="dbpedia-owl:birthDate"]'):
+          dob = a.text_content()
+
+      elif dom.cssselect('span[property="dbpprop:birthDate"]'):
+        for b in dom.cssselect('span[property="dbpprop:birthDate"]'):
+          dob = b.text_content()
+
       else:
         dob = 'nA'
 
       if dom.cssselect('span[property="dbpedia-owl:deathDate"]'):
-        for s in dom.cssselect('span[property="dbpedia-owl:deathDate"]'):
-          dod = s.text_content()
+        for a in dom.cssselect('span[property="dbpedia-owl:deathDate"]'):
+          dod = a.text_content()
+
+      elif dom.cssselect('span[property="dbpprop:deathDate"]'):
+        for b in dom.cssselect('span[property="dbpprop:deathDate"]'):
+          dod = b.text_content()
+
       else:
         dod = 'nA'
-        
+
       if dom.cssselect('a[rel="dcterms:subject"]'):
-        for s in dom.cssselect('a[rel="dcterms:subject"]'):
-          subj.append(s.text_content().split(':')[1])
+        for a in dom.cssselect('a[rel="dcterms:subject"]'):
+          subj.append(a.text_content().split(':')[1])
       else:
         subj.append('nA')
 
       ntnl = [v.replace('_', ' ') for v in ntnl]
       mvmnt = [v.replace('_', ' ') for v in mvmnt]
-      
-      print 'adding: ', ntnl, mvmnt, dob, dod, subj, 'for: ', row[1]
-      
-      row.extend([', '.join(ntnl).encode('utf8'), ', '.join(mvmnt).encode('utf8'), dob, dod, ', '.join(subj).encode('utf8')])
-      
-      
-      w.writerow(row)
 
-      
+      print 'adding: ', ntnl, mvmnt, dob, dod, subj, 'for: ', row[1]
+
+      row.extend([', '.join(ntnl).encode('utf8'), ', '.join(mvmnt).encode('utf8'), dob, dod, ', '.join(subj).encode('utf8')])
+
+
+      w.writerow(row)
