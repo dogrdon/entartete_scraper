@@ -4,6 +4,8 @@
 import sqlite3
 import csv
 
+'''quick and dirty imports for csv to sqlite3 db to handle utf8 encoding so german doesn't look like garbage in reports'''
+
 conn = sqlite3.connect('../data/db/entartete_kunst.db')
 c = conn.cursor()
 
