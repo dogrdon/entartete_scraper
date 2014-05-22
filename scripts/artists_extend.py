@@ -19,12 +19,6 @@ This script is used to take our csv list of artists and grab additional informat
   -nationality and much, much more.
 '''
 
-'''
-1) open csv and start to loop
-  - for each artist, get from the .rdf file the above items
-  - if nothing, make a note of it
-  - where should we be logging the fact that some artists will not a page
-'''
 
 fname = '../data/artists-full-'+datetime.now().isoformat()+'.csv'
 
