@@ -1,0 +1,367 @@
++++++++++++++++ENGLISH TRANSLATION+++++++++++++++
+	top 10 current museum locations =========
+	Essen , Museum Folkwang | 1100
+	Erfurt, the city's museums ( Museum of Art and Local History ) | 1061
+	Dusseldorf , art collections of the City | 1020
+	Wroclaw, Silesian Museum of Fine Arts | 927
+	Berlin, Prints and Drawings | 532
+	Berlin, National Gallery ( Crown Prince 's Palace ) | 530
+	Hamburg, Kunsthalle | 449
+	Jena Kunstverein | 350
+	Dresden , State of Prints and Drawings | 329
+	Chemnitz, Urban Art Collection | 269
+	
+	
+	top 10 work statuses =========
+	Unknown | 5859
+	destroyed | 1722
+	Rostock, Museum of Cultural History | 572
+	Berlin, Prints and Drawings | 335
+	Private property | 251
+	Munich , Bavarian State Painting Collections - Pinakothek der Moderne | 147
+	In the NS - inventory as listed destroyed | 131
+	Munich , State Graphic Collection | 99
+	Erfurt, Anger Museum | 60
+	Weimar, Weimar Classic Foundation | 57
+	
+	
+	top 10 formats =======
+	Printmaking | 7019
+	Paintings | 1298
+	Watercolor | 1034
+	Drawing | 796
+	Sculpture / Sculpture | 155
+	Book | 29
+	Textile | 5
+	General | 2
+	B | 1
+	Mosaic | 1
+	
+	
+	most frequent materials or techniques =====
+	Lithograph | 2300
+	Woodcut | 2250
+	Etching | 1462
+	Oil on canvas | 925
+	Watercolor | 628
+	NA | 497
+	Colour lithograph | 284
+	Ink | 180
+	Color woodcut | 122
+	Offset printing | 100
+	Coal | 99
+	Watercolor and ink | 93
+	Lithograph , colored | 82
+	Chalk | 74
+	Pencil | 72
+	
+	
+	artists with most work in the database ===
+	Nolde, Emil | 878
+	Kirchner, Ernst Ludwig | 622
+	Barlach, Ernst | 590
+	Heckel, Erich | 587
+	Kokoschka, Oskar | 509
+	Mueller , Otto | 312
+	Pechstein, Max | 268
+	Schmidt- Rottluff , Karl | 174
+	Beckmann, Max | 159
+	Feininger, Lyonel | 138
+	Grosz , George | 134
+	Jansen, Franz Maria | 126
+	Kandinsky, Wassily | 113
+	Grossmann, Rudolf | 104
+	Marc, Franz | 99
+	Dix, Otto | 79
+	Klee, Paul | 73
+	Corinth, Lovis | 68
+	Seewald , Richard | 67
+	Ehmsen , Heinrich | 66
+	
+	
+	artist with most works under Printmaking ===
+	Nolde, Emil | 1102
+	Heckel, Erich | 796
+	Kirchner, Ernst Ludwig | 766
+	Barlach, Ernst | 658
+	Kokoschka, Oskar | 583
+	Mueller , Otto | 414
+	Pechstein, Max | 336
+	Schmidt- Rottluff , Karl | 250
+	Feininger, Lyonel | 235
+	Beckmann, Max | 190
+	Rohlfs , Christian | 183
+	Grosz , George | 180
+	Marc, Franz | 145
+	Klee, Paul | 137
+	Kandinsky, Wassily | 136
+	Dix, Otto | 131
+	Jansen, Franz Maria | 126
+	Grossmann, Rudolf | 114
+	Hofer, Karl | 111
+	Nauen, Heinrich | 107
+	
+	
+	most frequent subject terms =====
+	German_painters | 58
+	Modern_painters | 39
+	German_artists | 21
+	Expressionism | 20
+	French_painters | 18
+	German_sculptors | 18
+	1887_births | 13
+	1881_births | 12
+	German_printmakers | 12
+	Jewish_painters | 12
+	German_military_personnel_of_World_War_I | 11
+	Modern_sculptors | 11
+	20th - century_painters | 10
+	Bauhaus | 10
+	German_Jews | 10
+	School_of_Paris | 10
+	Commanders_Crosses_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany | 9
+	1889_births | 8
+	1945_deaths | 8
+	
+	
+	commanders of the cross subject term =====
+	Dix, Otto
+	Heckel, Erich
+	Hofer, Karl
+	Marcks , Gerhard
+	Mataré , Ewald
+	Meidner , Ludwig
+	Pechstein, Max
+	Pieper, Josef
+	Sintenis , Renee
+	
+	most frequent titles =====
+	Landscape | 65
+	Self-portrait | 61
+	Head of a Woman | 33
+	Still life | 31
+	Portrait of a Woman | 26
+	Girls head | 26
+	Illustration to Curt Hotzel "The City of a good conscience ," Portfolio with 22 lithographs | 22
+	Bathers | 21
+	Head | 21
+	Mother and child | 21
+	Female Nude | 21
+	Man's head | 17
+	Love couple | 16
+	Postcard | 16
+	Illustration to " Woe to the world A black and white game in Marmorätzung to a poem by August Stramm . " | 15
+	
+	
+	titles by material =======
+	Lithographs | Illustration Curt Hotzel "The City of a good conscience ," Portfolio with 22 lithographs | Hemp , Alfred | 22
+	NA | Illustration to " Woe to the world A black and white game in Marmorätzung to a poem by August Stramm . " | Meier -Thur , Hugo | 15
+	Etching | scribe | Nolde, Emil | 15
+	Lithograph | Walter Hasenclever | Kokoschka, Oskar | 14
+	Drawing | Postcard | Heckel, Erich | 13
+	Woodcut | Prophet | Nolde, Emil | 12
+	Woodcut | Tiger | Marc, Franz | 10
+	Woodcut | Drinking horse | Marc, Franz | 10
+	Lithograph | Maria Orska | Kokoschka, Oskar | 10
+	Lithograph | Max Reinhardt ( breast image ) | Kokoschka, Oskar | 10
+	NA | Illustration | Masereel , Frans | 10
+	Etching | sheet from the portfolio " Herbarium " by Grossmann, Expl 13/100 | Grossmann, Rudolf | 10
+	Etching | Saul and David | Nolde, Emil | 10
+	Colour lithograph | Two Bathers in Bach | Mueller , Otto | 8
+	Woodcut | The Bull | Marc, Franz | 8
+	Woodcut | Hundefängerin | Barlach, Ernst | 8
+	Woodcut | Candle Dancers | Nolde, Emil | 8
+	Woodcut | Kindertod | Barlach, Ernst | 8
+	Lithograph | Christ on the cross | Kokoschka, Oskar | 8
+	Lithograph | Christ on the Mount of Olives | Kokoschka, Oskar | 8
+	Lithograph | Two girls half- Nudes | Mueller , Otto | 8
+	NA | figure study | Lauterbach, Carl | 8
+	NA | Landscape | Macke, Helmuth | 8
+	Etching | Solomon and his Women | Nolde, Emil | 8
+	Etching | ships in the harbor , Flensburg | Nolde, Emil | 8
+
+
++++++++++++++++GERMAN++++++++++++++++
+
+top 10 current museum locations=========
+Essen, Museum Folkwang | 1100
+Erfurt, Museen der Stadt (Museum für Kunst und Heimatgeschichte) | 1061
+Düsseldorf, Kunstsammlungen der Stadt | 1020
+Breslau, Schlesisches Museum der Bildenden Künste | 927
+Berlin, Kupferstichkabinett | 532
+Berlin, Nationalgalerie (Kronprinzen-Palais) | 530
+Hamburg, Kunsthalle | 449
+Jena, Kunstverein | 350
+Dresden, Staatliches Kupferstichkabinett | 329
+Chemnitz, Städtische Kunstsammlung | 269
+
+
+top 10 work statuses=========
+unbekannt | 5859
+zerstört | 1722
+Rostock, Kulturhistorisches Museum | 572
+Berlin, Kupferstichkabinett | 335
+Privatbesitz | 251
+München, Bayerische Staatsgemäldesammlungen – Pinakothek der Moderne | 147
+Im NS-Inventar als zerstört verzeichnet | 131
+München, Staatliche Graphische Sammlung | 99
+Erfurt, Angermuseum | 60
+Weimar, Klassik Stiftung Weimar | 57
+
+
+
+
+top 10 formats=======
+Druckgraphik | 7019
+Gemälde | 1298
+Aquarell | 1034
+Zeichnung | 796
+Skulptur/Plastik | 155
+Buch | 29
+Textil | 5
+Allgemein | 2
+B | 1
+Mosaik | 1
+
+
+most frequent materials or techniques =====
+Lithographie | 2300
+Holzschnitt | 2250
+Radierung | 1462
+Öl auf Leinwand | 925
+Aquarell | 628
+NA | 497
+Farblithographie | 284
+Tusche | 180
+Farbholzschnitt | 122
+Offsetdruck | 100
+Kohle | 99
+Aquarell und Tusche | 93
+Lithographie, koloriert | 82
+Kreide | 74
+Bleistift | 72
+
+
+artists with most work in the database===
+Nolde, Emil | 878
+Kirchner, Ernst Ludwig | 622
+Barlach, Ernst | 590
+Heckel, Erich | 587
+Kokoschka, Oskar | 509
+Mueller, Otto | 312
+Pechstein, Max | 268
+Schmidt-Rottluff, Karl | 174
+Beckmann, Max | 159
+Feininger, Lyonel | 138
+Grosz, George | 134
+Jansen, Franz Maria | 126
+Kandinsky, Wassily | 113
+Großmann, Rudolf | 104
+Marc, Franz | 99
+Dix, Otto | 79
+Klee, Paul | 73
+Corinth, Lovis | 68
+Seewald, Richard | 67
+Ehmsen, Heinrich | 66
+
+
+artist with most works under Printmaking===
+Nolde, Emil | 1102
+Heckel, Erich | 796
+Kirchner, Ernst Ludwig | 766
+Barlach, Ernst | 658
+Kokoschka, Oskar | 583
+Mueller, Otto | 414
+Pechstein, Max | 336
+Schmidt-Rottluff, Karl | 250
+Feininger, Lyonel | 235
+Beckmann, Max | 190
+Rohlfs, Christian | 183
+Grosz, George | 180
+Marc, Franz | 145
+Klee, Paul | 137
+Kandinsky, Wassily | 136
+Dix, Otto | 131
+Jansen, Franz Maria | 126
+Großmann, Rudolf | 114
+Hofer, Karl | 111
+Nauen, Heinrich | 107
+
+
+most frequent subject terms =====
+German_painters | 58
+Modern_painters | 39
+German_artists | 21
+Expressionism | 20
+French_painters | 18
+German_sculptors | 18
+1887_births | 13
+1881_births | 12
+German_printmakers | 12
+Jewish_painters | 12
+German_military_personnel_of_World_War_I | 11
+Modern_sculptors | 11
+20th-century_painters | 10
+Bauhaus | 10
+German_Jews | 10
+School_of_Paris | 10
+Commanders_Crosses_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany | 9
+1889_births | 8
+1945_deaths | 8
+
+
+commanders of the cross subject term =====
+Dix, Otto
+Heckel, Erich
+Hofer, Karl
+Marcks, Gerhard
+Mataré, Ewald
+Meidner, Ludwig
+Pechstein, Max
+Pieper, Josef
+Sintenis, Renée
+
+most frequent titles =====
+Landschaft | 65
+Selbstbildnis | 61
+Frauenkopf | 33
+Stilleben | 31
+Frauenbildnis | 26
+Mädchenkopf | 26
+Illustration zu Curt Hotzel "Die Stadt des guten Gewissens", Mappe mit 22 Lithographien | 22
+Badende | 21
+Kopf | 21
+Mutter und Kind | 21
+Weiblicher Akt | 21
+Männerkopf | 17
+Liebespaar | 16
+Postkarte | 16
+Illustration zu "Weltwehe. Ein Schwarzweißspiel in Marmorätzung zu einem Gedicht von August Stramm" | 15
+
+
+titles by material=======
+Lithographien | Illustration zu Curt Hotzel "Die Stadt des guten Gewissens", Mappe mit 22 Lithographien | Hanf, Alfred | 22
+NA | Illustration zu "Weltwehe. Ein Schwarzweißspiel in Marmorätzung zu einem Gedicht von August Stramm" | Meier-Thur, Hugo | 15
+Radierung | Schriftgelehrte | Nolde, Emil | 15
+Lithographie | Walter Hasenclever | Kokoschka, Oskar | 14
+Zeichnung | Postkarte | Heckel, Erich | 13
+Holzschnitt | Prophet | Nolde, Emil | 12
+Holzschnitt | Tiger | Marc, Franz | 10
+Holzschnitt | Trinkendes Pferd | Marc, Franz | 10
+Lithographie | Maria Orska | Kokoschka, Oskar | 10
+Lithographie | Max Reinhardt (Brustbild) | Kokoschka, Oskar | 10
+NA | Illustration | Masereel, Frans | 10
+Radierung | Blatt aus der Mappe "Herbarium" von Großmann, Expl. 13/100 | Großmann, Rudolf | 10
+Radierung | Saul und David | Nolde, Emil | 10
+Farblithographie | Zwei Badende im Bach | Mueller, Otto | 8
+Holzschnitt | Der Stier | Marc, Franz | 8
+Holzschnitt | Hundefängerin | Barlach, Ernst | 8
+Holzschnitt | Kerzentänzerinnen | Nolde, Emil | 8
+Holzschnitt | Kindertod | Barlach, Ernst | 8
+Lithographie | Christus am Kreuz | Kokoschka, Oskar | 8
+Lithographie | Christus am Ölberg | Kokoschka, Oskar | 8
+Lithographie | Zwei Mädchen-Halbakte | Mueller, Otto | 8
+NA | Figurenstudie | Lauterbach, Carl | 8
+NA | Landschaft | Macke, Helmuth | 8
+Radierung | Salomo und seine Frauen | Nolde, Emil | 8
+Radierung | Schiffe im Hafen, Flensburg | Nolde, Emil | 8
