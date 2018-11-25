@@ -1,15 +1,15 @@
-##Sqlite db data descriptions
+## Sqlite db data descriptions
 
 list of tables and their column headers and descriptions
 
-###subject terms 
-####data enriched from dbpedia
-* id - artist id, primary key in `artworks`
+### subject terms 
+#### data enriched from dbpedia
+*id - artist id, primary key in `artworks`
 
-* subject - individual subject term as used in dbpedia (to be used as `http://dbpedia.org/page/Category:$subject_term`) 
+*subject - individual subject term as used in dbpedia (to be used as `http://dbpedia.org/page/Category:$subject_term`) 
 
-###artists 
-####data scraped from the enartete datenbank and enriched form dbpedia
+### artists 
+#### data scraped from the enartete datenbank and enriched form dbpedia
 * id - artist id, primary key in `artworks`
 
 * artist - string, artist name
@@ -25,8 +25,8 @@ list of tables and their column headers and descriptions
 * died_yr - year of death only
 
 
-###artworks
-####data scraped from the entartete datenbank
+### artworks
+#### data scraped from the entartete datenbank
 
 * catalog_id - not used
 
@@ -67,13 +67,13 @@ list of tables and their column headers and descriptions
 * museum_orig - original museum where artwork was housed before seizure (if applicable) (?)
 
 
-###movements  
-####data enriched from dbpedia
+### movements  
+#### data enriched from dbpedia
 * id - artist id, primary key in `artworks`
 
 * nation - nationality or country associated with artist
 
-###nationalities - data enriched from dbpedia
+### nationalities - data enriched from dbpedia
 * id - artist id, primary key in `artworks`
 
 * mvmnt - name of artistic movement associated with artist
