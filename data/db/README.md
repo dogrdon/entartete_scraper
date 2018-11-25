@@ -4,9 +4,9 @@ list of tables and their column headers and descriptions
 
 ### subject terms 
 #### data enriched from dbpedia
-*id - artist id, primary key in `artworks`
+* id - artist id, primary key in `artworks`
 
-*subject - individual subject term as used in dbpedia (to be used as `http://dbpedia.org/page/Category:$subject_term`) 
+* subject - individual subject term as used in dbpedia (to be used as `http://dbpedia.org/page/Category:$subject_term`) 
 
 ### artists 
 #### data scraped from the enartete datenbank and enriched form dbpedia
