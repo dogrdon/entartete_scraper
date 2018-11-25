@@ -9,13 +9,13 @@ html5lib==0.999
 isodate==0.5.0
 lxml==3.3.1
 mechanize==0.2.5
-pyOpenSSL==0.14
+pyOpenSSL==18.0.0
 pycparser==2.10
 pyparsing==1.5.7
 queuelib==1.1.1
 rdfextras==0.4
 rdflib==4.1.2
-requests==2.2.1
+requests==2.20.1
 six==1.6.1
 w3lib==1.5
 wsgiref==0.1.2
